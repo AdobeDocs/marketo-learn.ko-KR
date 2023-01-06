@@ -1,8 +1,8 @@
 ---
-source-git-commit: 1a71a11a686ca3aa9d6f7451f394aa1f6a40e653
+source-git-commit: 33fc78768c3664f9ed9b608c260414b16f37613a
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '294'
+ht-degree: 22%
 
 ---
 # 기여
@@ -13,12 +13,12 @@ ht-degree: 0%
 
 ## 행동 수칙
 
-이 프로젝트는 Adobe을 준수합니다 [행동 수칙](code-of-conduct.md). 참여 시 이 수칙을 준수해야 합니다. 부적절한 행동은
+이 프로젝트는 Adobe [수행 코드](code-of-conduct.md)를 준수합니다. 참여하면 이 코드를 보유할 수 있습니다. 부적절한 행동은
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
 ## 기여자 안내서 설명서
 
-자세한 내용은 [기여자 안내서](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+자세한 내용은 [기여자 안내서](https://experienceleague.adobe.com/docs/contributor/contributor-guide/introduction.html).
 
 ## 질문이 있습니까?
 
@@ -26,12 +26,11 @@ ht-degree: 0%
 
 ## 기여자 라이선스 계약
 
-본 프로젝트에 대한 모든 타사 기여는 서명된 기여자 라이선스 계약을 동반해야 합니다. 이를 통해 Adobe에게 프로젝트의 일부로 기여도를 재배포할 수 있는 권한을 부여합니다. [CLA에 서명](http://opensource.adobe.com/cla.html). Adobe CLA는 한 번만 제출하면 되므로 이전에 제출한 적이 있다면 언제든지 해당 제품을 이용할 수 있습니다.
+본 프로젝트에 대한 모든 타사 기여는 서명된 기여자 라이선스 계약을 동반해야 합니다. 이를 통해 Adobe에 프로젝트의 일부로 기여도를 재배포할 수 있는 권한을 부여합니다. [CLA에 서명](http://opensource.adobe.com/cla.html). Adobe CLA는 한 번만 제출하면 되므로 이전에 제출한 적이 있다면 언제든지 해당 제품을 이용할 수 있습니다.
 
 ## 코드 검토
 
-모든 제출 사항은 끌어오기 요청 양식으로 제출해야 하며 프로젝트 커미터가 검토해야 합니다. 읽기 [GitHub의 가져오기 요청 설명서](https://help.github.com/articles/about-pull-requests/)
-가져오기 요청 전송에 대한 자세한 내용을 참조하십시오.
+모든 제출물은 가져오기 요청 양식으로 제공해야 하며 프로젝트 수행자가 검토해야 합니다. 가져오기 요청 전송에 대한 자세한 내용은 [GitHub의 가져오기 요청 문서](https://help.github.com/articles/about-pull-requests/)를 참조하십시오.
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
