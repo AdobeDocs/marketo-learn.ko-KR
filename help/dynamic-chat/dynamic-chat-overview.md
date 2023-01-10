@@ -1,11 +1,11 @@
 ---
 title: 다이내믹 채팅 자습서
-description: Adobe Experience League에서 다이내믹 채팅에 대해 알아봅니다. 이러한 자습서와 함께 Dynamic Chat를 사용하여 개인화된 대화를 만드는 방법에 대한 이해를 높일 수 있습니다.
+description: Adobe Experience League의 Dynamic Chat에 대해 알아봅니다. 이들 튜토리얼과 설명서를 통해 Dynamic Chat를 사용하여 맞춤형 대화를 만드는 방법에 대한 이해를 높이십시오.
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 source-git-commit: 554b8a3eb87f89c2bb46fc8af5aaf1c66114a4d2
 workflow-type: tm+mt
 source-wordcount: '221'
-ht-degree: 0%
+ht-degree: 13%
 
 ---
 
