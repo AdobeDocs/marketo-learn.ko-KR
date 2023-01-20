@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
-source-git-commit: 5db8b7cf5855df56e9fca79ca3a0b3fed3300537
+source-git-commit: 9f0328f2770b66a1e0695772a35c698c4268906d
 workflow-type: tm+mt
-source-wordcount: '202'
+source-wordcount: '196'
 ht-degree: 10%
 
 ---
@@ -14,8 +14,6 @@ ht-degree: 10%
 
 + [[!DNL Marketo Engage] 튜토리얼](overview.md)
 + 크로스 채널 마케팅 {#cross-channel-marketing}
-   + [이벤트](email-marketing/events-learn.md)
-   + [이벤트 둘러보기](email-marketing/events-watch.md)
    + [모바일 마케팅 통합](cross-channel-marketing/mobile-marketing-learn.md)
    + [모바일 마케팅 둘러보기](cross-channel-marketing/mobile-marketing-watch.md)
    + [소셜 마케팅](cross-channel-marketing/social-marketing-learn.md)
@@ -24,10 +22,8 @@ ht-degree: 10%
    + [웹 개인화 둘러보기](cross-channel-marketing/web-personalization-watch.md)
    + [SEO 및 PPC](cross-channel-marketing/seo-and-ppc-learn.md)
    + [SEO 및 PPC 둘러보기](cross-channel-marketing/seo-and-ppc-watch.md)
-   + [웨비나](email-marketing/webinar-learn.md)
-   + [웨비나 둘러보기](email-marketing/webinar-watch.md)
 + 다이내믹 채팅 {#dynamic-chat}
-   + [[!UICONTROL 다이내믹 채팅] 튜토리얼](dynamic-chat/dynamic-chat-overview.md)
+   + [다이내믹 채팅 자습서](dynamic-chat/dynamic-chat-overview.md)
    + [제품 투어](dynamic-chat/product-tour.md)
    + [설치 및 설치](dynamic-chat/setup.md)
    + [Marketo 통합](dynamic-chat/marketo-integration.md)
