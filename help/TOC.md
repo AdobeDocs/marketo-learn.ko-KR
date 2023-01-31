@@ -2,10 +2,10 @@
 user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
-source-git-commit: 9f0328f2770b66a1e0695772a35c698c4268906d
+source-git-commit: d7ba42d21f09ed3793b0cc0b2da0b5b760b21fa1
 workflow-type: tm+mt
-source-wordcount: '196'
-ht-degree: 10%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -69,7 +69,6 @@ ht-degree: 10%
 + 리드 및 데이터 관리 {#lead-and-data-management}
    + [리드 점수](lead-and-data-management/lead-scoring-learn.md)
    + [리드 점수 둘러보기](lead-and-data-management/lead-scoring-watch.md)
-   + [리드 점수 예](lead-and-data-management/lead-scoring.md)
    + [구독 센터](lead-and-data-management/subscription-center-learn.md)
    + [구독 센터 둘러보기](lead-and-data-management/subscription-center-watch.md)
    + [CRM 동기화](lead-and-data-management/crm-sync-learn.md)
@@ -80,3 +79,6 @@ ht-degree: 10%
    + [Sales Insight Actions 개요](sales-insight-actions/sales-insight-actions-overview.md)
    + [Sales Insight Actions 인스턴스 액세스](sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [영업 활동 로깅 구성 [!DNL Salesforce]](sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
++ 숨김 {#hidden}
+   + [Marketo 및 Mochas 리드 점수](events/marketo-and-mochas/lead-scoring.md)
+   + [Marketo 및 Mochas Marketo Measure 속성](events/marketo-and-mochas/attribution.md)
