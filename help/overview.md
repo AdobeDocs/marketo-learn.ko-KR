@@ -1,8 +1,9 @@
 ---
 title: Marketo Engage 자습서
 description: 비디오 자습서 보기 [!DNL Marketo Engage]. 마케팅 자동화 기능 등을 사용하는 방법에 대한 이해도를 높이십시오.
+doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: be8279112985cbadab5a87c281ba914956cd6ccc
+source-git-commit: 5a65ad7660a368a10e31b76ec81594304c304cc9
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 19%

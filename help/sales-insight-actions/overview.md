@@ -1,8 +1,9 @@
 ---
 title: Sales Insight Actions Tutorials
 description: 사용 [!UICONTROL Sales Insight 작업] 마케팅 기반의 인텔리전스 및 참여 도구를 단일 워크플로우로 함께 사용하여 잠재 고객 유치 노력을 가속화하기 위해.
+doc-type: overview-page
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
-source-git-commit: 61eb7a8264c77c5ee147c76952983f4f67938d7b
+source-git-commit: 5a65ad7660a368a10e31b76ec81594304c304cc9
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
