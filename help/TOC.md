@@ -2,10 +2,10 @@
 user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
-source-git-commit: 9a8c7a218fc59bb80941881246864c87ff25c55a
+source-git-commit: aec1c347ee9aefbe4f022cbb5e14cbd222828d4a
 workflow-type: tm+mt
-source-wordcount: '205'
-ht-degree: 10%
+source-wordcount: '208'
+ht-degree: 9%
 
 ---
 
@@ -77,7 +77,7 @@ ht-degree: 10%
    + [우수 사례](instance-management/best-practice-learn.md)
    + [모범 사례 연습](instance-management/best-practice-watch.md)
 + 이벤트 {#events}
-   + [이벤트](events/events-learn.md)
+   + [이벤트 프로그램 만들기](events/events-learn.md)
    + [효과적인 대화형 웨비나 디자인](events/design-an-effective-interactive-webinar.md)
 + 숨김 {#hidden}
    + [Marketo 및 Mochas 리드 점수](event-recordings/marketo-and-mochas/lead-scoring.md)
