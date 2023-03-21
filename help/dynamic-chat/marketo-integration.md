@@ -6,9 +6,9 @@ level: Beginner
 kt: 9697
 thumbnail: 340260.jpeg
 exl-id: 61a5c634-d6c4-4ea6-bad4-d69dabc89410
-source-git-commit: 456e16b830e491f688900e91de90e2a6765afaf4
+source-git-commit: 40e21085caf5a23f98607d20930976d1f6fdb469
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '75'
 ht-degree: 0%
 
 ---
@@ -23,3 +23,4 @@ ht-degree: 0%
 
 * [개인화된 대화 상자 만들기 및 관리](dialogue-management.md)
 * [의 사용자 추가 및 관리 [!UICONTROL 다이내믹 채팅] ](user-management.md)
+* [추론된 속성 캡처](capture-inferred-attributes.md)
