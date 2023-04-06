@@ -3,9 +3,9 @@ title: Sales Insight Actions Tutorials
 description: 사용 [!UICONTROL Sales Insight 작업] 마케팅 기반의 인텔리전스 및 참여 도구를 단일 워크플로우로 함께 사용하여 잠재 고객 유치 노력을 가속화하기 위해.
 doc-type: overview-page
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
-source-git-commit: 5a65ad7660a368a10e31b76ec81594304c304cc9
+source-git-commit: 9bba0f24a492fdd5b21b30f605498b7519cd8200
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -49,8 +49,8 @@ ht-degree: 0%
 <p><em>마케팅 기반의 인텔리전스 및 참여 도구를 통해 잠재 고객 유치 노력을 가속화합니다.</em></p>
 </td>
 <td>
-<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.html"><img alt="축소판 이미지 [!DNL Sales Insight Actions] 사용 온보딩 안내서" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
-<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-guide.html"><strong>[!DNL Sales Insight Actions] 사용 온보딩 안내서</strong></a></div>
+<a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><img alt="축소판 이미지 [!DNL Sales Insight Actions] 사용 온보딩 안내서" src="assets/sales-insight-actions-user-onboarding-guide-thumb.png" /></a>
+<div><a href="https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-sales-insight/actions/getting-started/sales-insight-actions-user-onboarding-checklist.html"><strong>[!DNL Sales Insight Actions] 사용 온보딩 안내서</strong></a></div>
 <p><em>시작하려면 새 사용자가 따라야 하는 단계입니다.</em></p>
 </td>
 <td>
