@@ -2,10 +2,10 @@
 user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
-source-git-commit: 534c5bdc8597e2b9b780218c81af48ce1b359b5b
+source-git-commit: aaa97cd7837810f7c213ed46d849cc875d0bff18
 workflow-type: tm+mt
-source-wordcount: '214'
-ht-degree: 9%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -18,6 +18,7 @@ ht-degree: 9%
    + [조직 구조](fundamentals/organizational-structure-learn.md)
    + [콘텐츠 마케팅](fundamentals/content-marketing-learn.md)
    + [구매자 성향](fundamentals/buyer-personas-learn.md)
+   + [프로그램 및 캠페인](fundamentals/programs-and-campaigns.md)
 + 이메일 마케팅 {#email-marketing}
    + [예약된 이메일](email-marketing/scheduled-email-learn.md)
    + [예약된 이메일 안내](email-marketing/scheduled-email-watch.md)
@@ -60,7 +61,7 @@ ht-degree: 9%
    + [스트림 디자이너에서 검색](dynamic-chat/search-in-stream-designer.md)
    + [추론된 속성 캡처](dynamic-chat/capture-inferred-attributes.md)
    + [대화 상자 미리 보기](dynamic-chat/dialogue-preview.md)
-   + [참여 보고서](dynamic-chat/engagement-report.md)
+   + [참여도 보고](dynamic-chat/engagement-report.md)
    + [정적 컨텐츠의 세계화](dynamic-chat/globalization-of-static-content.md)
    + [역할 및 권한](dynamic-chat/roles-and-permissions.md)
 + Sales Insight 작업 {#sales-insight-actions}
