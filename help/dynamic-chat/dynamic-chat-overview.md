@@ -6,7 +6,7 @@ exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 source-git-commit: aad9219bab058bbd3773b2bcac6726f30e6641fd
 workflow-type: tm+mt
 source-wordcount: '325'
-ht-degree: 8%
+ht-degree: 9%
 
 ---
 
@@ -38,7 +38,7 @@ ht-degree: 8%
    *Munchkin ID를 활용하여 Dynamic Chat를 통해 캡처된 모든 리드에 대해 추론된 속성을 식별하고 채울 수 있습니다.*
 * **[대화 상자 미리 보기](dialogue-preview.md)**
    *게시하기 전에 대화 상자를 미리 보는 것은 대화 상자 미리 보기 기능을 사용하면 매우 쉽습니다.*
-* **[참여 보고서](engagement-report.md)**
+* **[참여도 보고](engagement-report.md)**
    *웹 방문자가 대화 상자를 시작하는 방식 트렌드를 참조하십시오*
 * **[정적 컨텐츠의 세계화](globalization-of-static-content.md)**
    *원하는 언어로 정적/시스템 콘텐츠를 개인화할 수 있습니다.*
