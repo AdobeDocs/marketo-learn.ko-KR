@@ -3,7 +3,7 @@ title: Marketo Engage 자습서
 description: ' [!DNL Marketo Engage]에 대한 비디오 튜토리얼을 시청하십시오. 마케팅 자동화 기능 등을 사용하는 방법에 대한 이해도를 높이십시오.'
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 49cb28338f1b0701f9c1c6df334435d59961ef4d
+source-git-commit: 59d9ded613045d0ea7345b496e1a9656bf1e3295
 workflow-type: tm+mt
 source-wordcount: '173'
 ht-degree: 21%
@@ -27,7 +27,7 @@ ht-degree: 21%
 * **[[!DNL Sales Insight Actions] 튜토리얼](/help/sales-insight-actions/overview.md)**
    _사용 [!UICONTROL Sales Insight 작업] 마케팅 기반의 인텔리전스 및 참여 도구를 단일 워크플로우로 함께 사용하여 잠재 고객 유치 노력을 가속화하기 위해._
 
-* **[이메일 보트 활동 필터링 자습서](filtering-email-bot-activities/setup.md)**
+* **[이메일 보트 활동 필터링 자습서](/help/filtering-email-bot-activities/setup.md)**
 
    _봇별 이메일 활동을 식별하는 데 도움이 되는 안내서와 보트를 제외한 캠페인을 필터링하고 만드는 방법을 알아봅니다._
 
