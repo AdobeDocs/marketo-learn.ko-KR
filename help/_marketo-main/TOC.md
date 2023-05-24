@@ -2,10 +2,10 @@
 user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
-source-git-commit: 5a661800e947fef2fdd418e49440c34a9cb5af1d
+source-git-commit: eb2c2bc28f352b0fc2681e2b20fe94e86a459a41
 workflow-type: tm+mt
-source-wordcount: '241'
-ht-degree: 9%
+source-wordcount: '254'
+ht-degree: 8%
 
 ---
 
@@ -19,13 +19,19 @@ ht-degree: 9%
    + [콘텐츠 마케팅](/help/fundamentals/content-marketing-learn.md)
    + [구매자 가상 사용자](/help/fundamentals/buyer-personas-learn.md)
    + [프로그램 및 캠페인](/help/fundamentals/programs-and-campaigns.md)
-+ 시작 {#get-started}
-   + [UI 탐색](/help/get-started/ui-navigation.md)
+   + [UI 탐색](/help/fundamentals/ui-navigation.md)
+   + 프로그램 및 캠페인 {#programs}
+      + [프로그램 및 캠페인 이해](help/programs/understanding-programs-and-campaigns.md)
+      + [기본 프로그램](/help/programs/default-programs.md)
+      + [이메일 프로그램](/help/programs/email-programs.md)
+      + [이벤트 프로그램](/help/programs/event-programs.md)
+      + [참여 프로그램](/help/programs/engagement-programs.md)
 + 프로그램 {#programs}
-   + [기본 프로그램 개요](/help/programs/default-programs-overview.md)
-   + [이메일 프로그램 개요](/help/programs/email-programs-overview.md)
-   + [이벤트 프로그램 개요](/help/programs/event-programs-overview.md)
-   + [참여 프로그램 개요](/help/programs/engagement-programs-overview.md)
+   + [프로그램 및 캠페인 이해](help/programs/understanding-programs-and-campaigns.md)
+   + [기본 프로그램](/help/programs/default-programs.md)
+   + [이메일 프로그램](/help/programs/email-programs.md)
+   + [이벤트 프로그램](/help/programs/event-programs.md)
+   + [참여 프로그램](/help/programs/engagement-programs.md)
 + 이메일 마케팅 {#email-marketing}
    + [예약된 이메일](/help/email-marketing/scheduled-email-learn.md)
    + [예약된 이메일 연습](/help/email-marketing/scheduled-email-watch.md)
