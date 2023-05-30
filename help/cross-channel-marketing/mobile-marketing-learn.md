@@ -1,13 +1,12 @@
 ---
 title: 모바일 마케팅 통합
 description: 모바일 기기의 편리성을 통해 실시간 및 인맥을 만들어 구매자와 관계를 발전시키는 방법에 대해 알아봅니다.
-feature: null
 role: User
 level: Beginner
 kt: 10727
 thumbnail: 345403.jpeg
 exl-id: 4fb8e452-11d0-4d89-85c2-5a9ed097853b
-source-git-commit: 965e7fd5cbac9eb7b34398b9317143b0e8418ba6
+source-git-commit: 688b3906f03b84e9d5e7233a2646fec76976aa93
 workflow-type: tm+mt
 source-wordcount: '65'
 ht-degree: 0%
