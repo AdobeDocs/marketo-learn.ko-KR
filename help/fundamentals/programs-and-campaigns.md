@@ -4,11 +4,11 @@ description: 콘텐츠 마케팅 전략을 개발하여 대상을 끌어들이�
 role: User
 level: Beginner
 kt: 13203
-thumbnail: 3418042.jpg
+thumbnail: 3418042.jpeg
 exl-id: 3420976b-d64f-4afe-8ef3-6f8cfd9858fe
-source-git-commit: eb2c2bc28f352b0fc2681e2b20fe94e86a459a41
+source-git-commit: 79d172db3ac4154a50fe834fbc43001627225424
 workflow-type: tm+mt
-source-wordcount: '22'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
