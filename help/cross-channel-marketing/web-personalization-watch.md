@@ -1,20 +1,20 @@
 ---
-title: 웹 개인화를 통해 방문자를 참여시키는 방법
-description: 연결 방법 보기 [!DNL Marketo] 몇 가지 Adobe 디지털 광고 LaunchPoint 파트너에게 제공됩니다.
+title: 웹 개인화를 통해 방문자를 유도하는 방법
+description: 연결 방법 보기 [!DNL Marketo] 디지털 광고 LaunchPoint 파트너 몇 명에게
 role: User
 level: Beginner
-kt: 10726
+jira: KT-10726
 thumbnail: 345404.jpeg
 exl-id: 4bd03272-cd14-43b7-9bbb-ef1cd9c3b0a5
-source-git-commit: 61eb7a8264c77c5ee147c76952983f4f67938d7b
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
-source-wordcount: '0'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
-# 웹 개인화를 통해 방문자를 참여시키는 방법
+# 웹 개인화를 통해 방문자를 유도하는 방법
 
-연결 방법 보기 [!DNL Marketo] 몇 가지 Adobe 디지털 광고 LaunchPoint 파트너에게 제공됩니다.
+연결 방법 보기 [!DNL Marketo] 디지털 광고 LaunchPoint 파트너 몇 명에게
 
 >[!VIDEO](https://video.tv.adobe.com/v/345404/?quality=12&learn=on)

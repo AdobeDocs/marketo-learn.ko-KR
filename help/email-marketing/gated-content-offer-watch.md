@@ -1,20 +1,20 @@
 ---
-title: 통제 가능한 컨텐츠 이메일 프로그램을 만드는 방법
-description: Marketo에서 제한된 컨텐츠 이메일 프로그램을 설정 및 추적하는 방법을 살펴봅니다.
+title: 게이트 콘텐츠 이메일 프로그램을 빌드하는 방법
+description: Marketo에서 제어된 콘텐츠 이메일 프로그램을 설정하고 추적하는 방법을 확인하십시오.
 role: User
 level: Beginner
-kt: 10746
+jira: KT-10746
 thumbnail: 345465.jpeg
 exl-id: 03c73fa5-45b1-4f4b-8ffb-2e206bfe2736
-source-git-commit: 98ead59ff285e4133e4d5f0668f5724a9d680309
+source-git-commit: c2aa5a0dbd22bb949a865f219e5ecbc2c96d6286
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
 
 ---
 
-# 통제 가능한 컨텐츠 이메일 프로그램을 만드는 방법
+# 게이트 콘텐츠 이메일 프로그램을 빌드하는 방법
 
-Marketo에서 제한된 컨텐츠 이메일 프로그램을 설정 및 추적하는 방법을 살펴봅니다.
+Marketo에서 제어된 콘텐츠 이메일 프로그램을 설정하고 추적하는 방법을 확인하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345465/?quality=12&learn=on)
