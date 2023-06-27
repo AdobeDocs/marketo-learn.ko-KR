@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
-source-git-commit: 709d91f881ea8ea0c851c5fc03939ca3bfa842f7
+source-git-commit: cce7cf1bf7dee93837ab399a0b4cfc79bfa925bf
 workflow-type: tm+mt
-source-wordcount: '263'
+source-wordcount: '259'
 ht-degree: 8%
 
 ---
@@ -20,7 +20,6 @@ ht-degree: 8%
    + [구매자 가상 사용자](/help/fundamentals/buyer-personas-learn.md)
    + [프로그램 및 캠페인](/help/fundamentals/programs-and-campaigns.md)
    + [UI 탐색](/help/fundamentals/ui-navigation.md)
-   + [프로그램 및 캠페인 이해](/help/fundamentals/understand-programs-and-campaigns.md)
 + 프로그램 및 캠페인 {#programs-and-campaigns}
    + [프로그램 및 캠페인 이해](/help/programs/understanding-programs-and-campaigns.md)
    + [기본 프로그램](/help/programs/default-programs.md)
@@ -37,7 +36,7 @@ ht-degree: 8%
    + [제어된 콘텐츠 제공 둘러보기](/help/email-marketing/gated-content-offer-watch.md)
    + [A/B 테스트](/help/email-marketing/ab-testing-learn.md)
    + [A/B 테스트 연습](/help/email-marketing/ab-testing-watch.md)
-   + [랜딩 페이지 ](/help/email-marketing/landing-pages-learn.md)
+   + [랜딩 페이지](/help/email-marketing/landing-pages-learn.md)
    + [랜딩 페이지 둘러보기](/help/email-marketing/landing-pages-watch.md)
    + [Forms](/help/email-marketing/forms-learn.md)
    + [이메일 전달성](/help/email-marketing/email-deliverability-learn.md)
