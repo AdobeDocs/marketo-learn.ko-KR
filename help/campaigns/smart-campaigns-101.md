@@ -1,5 +1,5 @@
 ---
-title: 스마트 캠페인 101 - 핵심 프로그램 이상의 스마트 캠페인으로 수행할 수 있는 작업
+title: 스마트 캠페인 101
 description: 데이터 표준화 및 자동화된 알림을 위해 스마트 캠페인을 사용하는 방법을 알아봅니다.
 role: User
 level: Beginner
@@ -8,14 +8,14 @@ last-substantial-update: 2023-05-30T00:00:00Z
 jira: KT-13263
 thumbnail: 3420096.jpeg
 exl-id: a9349c7f-0590-4d7c-89cc-a86fec8cdc40
-source-git-commit: 4164691859d6e907794fca75fe8e71e1aa0332d9
+source-git-commit: b23ba9f2bf8ebc824385649b9d5b9b464eb2af97
 workflow-type: tm+mt
-source-wordcount: '135'
+source-wordcount: '113'
 ht-degree: 0%
 
 ---
 
-# 스마트 캠페인 101 - 핵심 프로그램 이상의 스마트 캠페인으로 수행할 수 있는 작업
+# 스마트 캠페인 101
 
 스마트 캠페인은 Marketo의 엔진입니다. 스마트 캠페인을 사용하여 이메일 및 프로그램을 보낼 수 있을 뿐만 아니라 다양한 사용 사례에서 스마트 캠페인을 사용할 수 있습니다. 데이터 표준화 및 자동화된 알림을 위해 스마트 캠페인을 사용하는 방법을 알아봅니다.
 
