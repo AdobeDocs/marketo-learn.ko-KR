@@ -2,7 +2,7 @@
 user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
-source-git-commit: 7ebebfe56632209babc5a5a27ae21fbdcdf4fdac
+source-git-commit: 4bc6a6d9414f4b231878d55118a109a7f90172ec
 workflow-type: tm+mt
 source-wordcount: '271'
 ht-degree: 8%
@@ -23,12 +23,12 @@ ht-degree: 8%
 + 프로그램 및 캠페인 {#programs-and-campaigns}
    + [프로그램 및 캠페인 이해](/help/programs/understanding-programs-and-campaigns.md)
    + [스마트 캠페인 101](/help/campaigns/smart-campaigns-101.md)
-   + [이벤트 프로그램](/help/programs/event-programs.md)
-   + [참여 프로그램](/help/programs/engagement-programs.md)
    + [이메일 프로그램](/help/programs/email-programs.md)
+   + [이벤트 프로그램](/help/programs/event-programs.md)
    + 기본 프로그램 {#default-programs}
       + [기본 프로그램 만들기 및 측정](/help/programs/create-and-measure-default-programs.md)
       + [기본 프로그램의 유연성 활용](/help/programs/leverage-the-flexibility-of-default-programs.md)
+   + [참여 프로그램](/help/programs/engagement-programs.md)
 + 이메일 마케팅 {#email-marketing}
    + [예약된 이메일](/help/email-marketing/scheduled-email-learn.md)
    + [예약된 이메일 연습](/help/email-marketing/scheduled-email-watch.md)
