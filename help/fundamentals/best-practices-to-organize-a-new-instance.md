@@ -7,7 +7,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-07-11T00:00:00Z
 jira: KT-13608
 thumbnail: 3421577.jpeg
-source-git-commit: 3541cb30d3e2e3f6f9e82d95179a352fd052e0d1
+source-git-commit: 8aeef083b27c23dac3828db9519e0cbd79f31f7e
 workflow-type: tm+mt
 source-wordcount: '210'
 ht-degree: 0%
@@ -29,5 +29,6 @@ Marketo Engage 작업을 처음 시작하면 조직이 중요합니다. 인스�
 * [프로그램 복제](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-a-program.html)
 * [프로그램에서 에셋 복제](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/clone-an-asset-in-a-program.html)
 * [프로그램 가져오기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html)
-* [폴더 이해] (https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html) *[새 캠페인 폴더 만들기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html)
-*[작업 공간 및 개인 분할 영역 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html)
+* [폴더 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders.html)
+* [새 캠페인 폴더 만들기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html)
+* [작업 공간 및 개인 분할 영역 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/workspaces-and-person-partitions/understanding-workspaces-and-person-partitions.html)
