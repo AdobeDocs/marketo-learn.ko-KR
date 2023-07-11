@@ -2,9 +2,9 @@
 user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
-source-git-commit: 4bc6a6d9414f4b231878d55118a109a7f90172ec
+source-git-commit: 3f1f9929de4d475b916a6b13f555f6cc3014ca3d
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '277'
 ht-degree: 8%
 
 ---
@@ -20,6 +20,8 @@ ht-degree: 8%
    + [구매자 가상 사용자](/help/fundamentals/buyer-personas-learn.md)
    + [프로그램 및 캠페인](/help/fundamentals/programs-and-campaigns.md)
    + [UI 탐색](/help/fundamentals/ui-navigation.md)
+   + [새 인스턴스 구성 모범 사례](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
+   + [기본 프로그램 만들기에 대한 우수 사례](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
 + 프로그램 및 캠페인 {#programs-and-campaigns}
    + [프로그램 및 캠페인 이해](/help/programs/understanding-programs-and-campaigns.md)
    + [스마트 캠페인 101](/help/campaigns/smart-campaigns-101.md)
@@ -87,9 +89,6 @@ ht-degree: 8%
    + [CRM 동기화](/help/lead-and-data-management/crm-sync-learn.md)
    + [리드 라이프사이클](/help/lead-and-data-management/lead-lifecycle-learn.md)
    + [리드 라이프사이클 연습](/help/lead-and-data-management/lead-lifecycle-watch.md)
-+ 인스턴스 관리 {#instance-management}
-   + [우수 사례](/help/instance-management/best-practice-learn.md)
-   + [모범 사례 연습](/help/instance-management/best-practice-watch.md)
 + 이벤트 {#events}
    + [이벤트 둘러보기](/help/events/events-watch.md)
    + [이벤트 프로그램 만들기](/help/events/events-learn.md)
