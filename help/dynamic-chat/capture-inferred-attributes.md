@@ -1,6 +1,6 @@
 ---
-title: 추론된 속성 캡처
-description: Dynamic Chat는 동일한 Adobe Marketo Engage munchkin 쿠키를 사용하므로 이제 Dynamic Chat를 통해 캡처된 모든 리드에 대해 추론된 속성을 식별하고 채웁니다
+title: 유추한 속성 캡처
+description: Dynamic Chat은 동일한 Adobe Marketo Engage munchkin 쿠키를 사용하므로 munchkin을 활용하여 이제 Dynamic Chat을 통해 캡처한 모든 리드에 대해 유추된 속성을 식별하고 채웁니다
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -8,21 +8,22 @@ last-substantial-update: 2023-03-20T00:00:00Z
 jira: KT-12963
 thumbnail: 3416922.jpeg
 exl-id: 0c6d016c-3d79-43ab-adb6-490aeb9717ef
-source-git-commit: 7e4dd6f3d2e3a34751dcdc047337bea0d9c955bf
+feature: Dynamic Chat
+source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
 workflow-type: tm+mt
 source-wordcount: '84'
 ht-degree: 0%
 
 ---
 
-# 추론된 속성 캡처
+# 유추한 속성 캡처
 
-Dynamic Chat는 동일한 Adobe Marketo Engage munchkin 쿠키를 사용하므로 이제 Dynamic Chat를 통해 캡처된 모든 리드에 대해 추론된 속성을 식별하고 채웁니다.
+Dynamic Chat은 동일한 Adobe Marketo Engage munchkin 쿠키를 사용하므로 munchkin을 활용하여 이제 Dynamic Chat을 통해 캡처한 모든 리드에 대해 유추된 속성을 식별하고 채웁니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3416922/?quality=12&learn=on)
 
-## 유용한 비디오
+## 더 유용한 비디오
 
-* [의 사용자 추가 및 관리 [!UICONTROL 다이내믹 채팅] ](user-management.md)
-* [개인화된 대화 상자 만들기 및 관리](dialogue-management.md)
-* [Marketo 통합 활성화 [!UICONTROL 다이내믹 채팅] ](marketo-integration.md)
+* [사용자 추가 및 관리 [!UICONTROL Dynamic Chat]](user-management.md)
+* [맞춤형 대화 상자 생성 및 관리](dialogue-management.md)
+* [과 Marketo 통합 활성화 [!UICONTROL Dynamic Chat]](marketo-integration.md)
