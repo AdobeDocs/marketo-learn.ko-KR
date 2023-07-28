@@ -2,11 +2,12 @@
 title: 효과적인 대화형 웨비나 디자인
 description: 효과적인 대화형 웨비나를 만들고 디자인하는 방법에 대해 알아봅니다
 jira: KT-13352
+thumbnail: 3418602.jpeg
 role: User
 level: Beginner
 exl-id: 927099a4-009b-45d6-9a32-ba685751ba04
 feature: Programs, Events
-source-git-commit: c34985e01043b34d8f749a1cd0b4e3a83c2efbc6
+source-git-commit: fe4a644f5d0289c0e9cc93788e4e6c490a30b5cf
 workflow-type: tm+mt
 source-wordcount: '117'
 ht-degree: 0%
