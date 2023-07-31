@@ -2,10 +2,10 @@
 user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
-source-git-commit: 8c572e543d2c1c0b1f5a3b2b73fc0f19888c3878
+source-git-commit: a662b700709081a7f071c01e95f5faca8e1e3139
 workflow-type: tm+mt
-source-wordcount: '280'
-ht-degree: 8%
+source-wordcount: '295'
+ht-degree: 7%
 
 ---
 
@@ -32,6 +32,10 @@ ht-degree: 8%
       + [기본 프로그램 만들기 및 측정](/help/programs/create-and-measure-default-programs.md)
       + [기본 프로그램의 유연성 활용](/help/programs/leverage-the-flexibility-of-default-programs.md)
    + [참여 프로그램](/help/programs/engagement-programs.md)
+   + 참여 맵 {#engagement-maps}
+      + [참여 맵 개요](help/campaigns/engagement-maps/engagement-map-overview.md)
+      + [참여 맵 중첩 캠페인](help/campaigns/engagement-maps/engagement-map-nested-campaign.md)
+      + [참여 맵 오류 감지 및 해결](/help/engagement-maps/engagement-map-error-detection-and-resolution.md)
 + 이메일 마케팅 {#email-marketing}
    + [예약된 이메일](/help/email-marketing/scheduled-email-learn.md)
    + [예약된 이메일 연습](/help/email-marketing/scheduled-email-watch.md)
@@ -62,7 +66,7 @@ ht-degree: 8%
    + [웹 개인화](/help/cross-channel-marketing/web-personalization-learn.md)
    + [웹 개인화 둘러보기](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
-   + [Dynamic Chat 튜토리얼](/help/dynamic-chat/dynamic-chat-overview.md)
+   + [Dynamic Chat 자습서](/help/dynamic-chat/dynamic-chat-overview.md)
    + [제품 둘러보기](/help/dynamic-chat/product-tour.md)
    + [설치 및 설치](/help/dynamic-chat/setup.md)
    + [Marketo 통합](/help/dynamic-chat/marketo-integration.md)
