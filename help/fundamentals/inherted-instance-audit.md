@@ -9,9 +9,9 @@ doc-type: Feature Video
 last-substantial-update: 2023-08-08T00:00:00Z
 jira: KT-13762
 thumbnail: 3422473.jpeg
-source-git-commit: 85e794a49723cc931f1e8a56f39c0947af51b243
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '169'
+source-wordcount: '171'
 ht-degree: 0%
 
 ---
@@ -23,4 +23,4 @@ Marketo Engage 인스턴스를 상속하면 숙련된 관리자이든, 최신 �
 
 이 튜토리얼에서는 관리, 마케팅 활동, Design Studio 및 데이터베이스를 포함하여 Marketo Engage 내에서 가장 중요한 섹션을 안내하고 그 과정에서 감사 및 최적화를 위한 팁을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on){transcript=true}

@@ -8,9 +8,9 @@ last-substantial-update: 2023-07-11T00:00:00Z
 jira: KT-13608
 thumbnail: 3421577.jpeg
 feature: Getting Started
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '210'
+source-wordcount: '212'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Marketo Engage 작업을 처음 시작하면 조직이 중요합니다. 인스턴스에서 정돈된 상태를 유지하면 사용자와 동료가 캠페인, 프로그램 및 자산을 쉽게 추적할 수 있습니다. 에서 탐색 트리를 구성하는 방법 알아보기 [!UICONTROL 마케팅 활동] 폴더, 표준 이름 지정 규칙 및 클론 작업과 같은 기능을 사용하여 새 작업에서 동료와 쉽게 작업할 수 있습니다 [!DNL Marketo Engage] 인스턴스. 
 
->[!VIDEO](https://video.tv.adobe.com/v/3421577/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3421577/?learn=on){transcript=true}
 
 ## 추가 리소스
 

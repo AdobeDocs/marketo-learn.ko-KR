@@ -9,9 +9,9 @@ jira: KT-12963
 thumbnail: 3416922.jpeg
 exl-id: 0c6d016c-3d79-43ab-adb6-490aeb9717ef
 feature: Dynamic Chat
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '84'
+source-wordcount: '86'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Dynamic Chat은 동일한 Adobe Marketo Engage munchkin 쿠키를 사용하므로 munchkin을 활용하여 이제 Dynamic Chat을 통해 캡처한 모든 리드에 대해 유추된 속성을 식별하고 채웁니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416922/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3416922/?quality=12&learn=on){transcript=true}
 
 ## 더 유용한 비디오
 

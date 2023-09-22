@@ -1,7 +1,7 @@
 ---
-source-git-commit: eb2c2bc28f352b0fc2681e2b20fe94e86a459a41
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '101'
+source-wordcount: '103'
 ht-degree: 0%
 
 ---
@@ -9,7 +9,7 @@ ht-degree: 0%
 
 프로그램은 단일 마케팅 이니셔티브를 나타냅니다. 캠페인과 함께 이를 활용하여 다양한 방법으로 대상자에게 도달하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3418042/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3418042/?quality=12&learn=on){transcript=true}
 
 ## 추가 리소스
 

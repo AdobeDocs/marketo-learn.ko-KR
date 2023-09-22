@@ -9,9 +9,9 @@ jira: KT-13202
 thumbnail: 3419131.jpeg
 exl-id: b4c7aeb6-d1f9-4164-a318-3e12b0e8aaea
 feature: Modern UX
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '97'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 사용자 인터페이스를 탐색하고 Marketo Engage 플랫폼을 숙지하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419131/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419131/?learn=on){transcript=true}
 
 ## 추가 리소스
 

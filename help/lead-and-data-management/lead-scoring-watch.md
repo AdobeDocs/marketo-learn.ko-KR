@@ -7,9 +7,9 @@ jira: KT-10741
 thumbnail: 345425.jpeg
 exl-id: ee60e851-afc0-4094-8131-9d3593f73dd8
 feature: Engagement Programs, Person Scoring
-source-git-commit: a80bf39486992aa7a11988e6517197860b60e6c2
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '52'
 ht-degree: 0%
 
 ---
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 잠재 고객 채점 운영 프로그램을 구축하고, 캠페인에서 토큰을 사용하고, 사전 설치된 캠페인을 가져오는 방법을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345425/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345425/?quality=12&learn=on){transcript=true}

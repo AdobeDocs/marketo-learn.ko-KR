@@ -9,9 +9,9 @@ jira: KT-13257
 thumbnail: 3419440.jpeg
 exl-id: 89db03e2-6db0-46f8-ada1-31625663642d
 feature: Programs
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '118'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 이 단계별 자습서를 통해 A/B 테스트를 사용하여 이메일 프로그램을 만드는 방법을 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419440/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3419440/?learn=on){transcript=true}
 
 
 ## 추가 리소스:

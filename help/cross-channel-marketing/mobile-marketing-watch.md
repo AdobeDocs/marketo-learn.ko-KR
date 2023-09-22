@@ -7,9 +7,9 @@ jira: KT-10729
 thumbnail: 345402.jpeg
 exl-id: 8e82a586-2001-4b7e-a2d4-073e78045854
 feature: Mobile Marketing
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '59'
+source-wordcount: '61'
 ht-degree: 0%
 
 ---
@@ -18,4 +18,4 @@ ht-degree: 0%
 
 구매자 가상 사용자를 만들고, KPI를 설정하고, 커뮤니케이션 케이던스를 결정하고, [!DNL Marketo] 마케팅 달력 등을 통해 모바일 마케팅 전략을 향상시킬 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345402/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/345402/?quality=12&learn=on){transcript=true}
