@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 7e07cf83181451e37478026a36f49b02480468cf
+source-git-commit: d6f93ad6b4216c9c886a288a23918f9f25187165
 workflow-type: tm+mt
-source-wordcount: '298'
+source-wordcount: '304'
 ht-degree: 8%
 
 ---
@@ -74,6 +74,8 @@ ht-degree: 8%
    + [Marketo 통합](/help/dynamic-chat/marketo-integration.md)
    + [사용자 관리](/help/dynamic-chat/user-management.md)
    + [대화 상자 관리](/help/dynamic-chat/dialogue-management.md)
+   + [라이브 채팅 설정](/help/dynamic-chat/set-up-live-chat.md)
+   + [에이전트 관리](/help/dynamic-chat/agent-management.md)
    + [모임 예약](/help/dynamic-chat/meeting-booking.md)
    + [15분 후 실행](/help/dynamic-chat/go-live-in-15-minutes.md)
    + [대화에 PDF 포함](/help/dynamic-chat/document-cloud-integration.md)
