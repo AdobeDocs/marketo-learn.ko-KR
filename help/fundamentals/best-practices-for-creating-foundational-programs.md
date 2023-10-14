@@ -1,6 +1,6 @@
 ---
 title: 기본 프로그램 만들기에 대한 우수 사례
-description: 4가지 프로그램 유형, 프로그램 가져오기 방법, 리드 점수 프로그램 및 채널 태그 정의에 대해 이해합니다. 일반적인 사용 사례와 모범 사례에 대해 알아봅니다.
+description: 4가지 프로그램 유형, 프로그램 가져오기 방법, 리드/개인 채점 프로그램 및 채널 태그 정의에 대해 이해합니다. 일반적인 사용 사례와 모범 사례에 대해 알아봅니다.
 role: Admin
 level: Beginner
 doc-type: Feature Video
@@ -8,17 +8,17 @@ last-substantial-update: 2023-07-11T00:00:00Z
 jira: KT-13567
 thumbnail: 3421275.jpeg
 feature: Programs
-source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
+exl-id: 2b850b08-3e9d-4bfb-8ac1-21fd9bdeaf83
+source-git-commit: b614aa134ee0ccbbfd70c6ab73339287d6ebb27a
 workflow-type: tm+mt
-source-wordcount: '146'
+source-wordcount: '148'
 ht-degree: 0%
 
 ---
 
-
 # 기본 프로그램 만들기에 대한 우수 사례
 
-4가지 프로그램 유형, 프로그램 가져오기 방법, 리드 점수 프로그램 및 채널 태그 정의에 대해 이해합니다. 일반적인 사용 사례와 모범 사례에 대해 알아봅니다.
+4가지 프로그램 유형, 프로그램 가져오기 방법, 리드/개인 채점 프로그램 및 채널 태그 정의에 대해 이해합니다. 일반적인 사용 사례와 모범 사례에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on){transcript=true}
 

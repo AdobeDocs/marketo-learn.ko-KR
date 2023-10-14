@@ -10,9 +10,9 @@ last-substantial-update: 2023-08-08T00:00:00Z
 jira: KT-13762
 thumbnail: 3422473.jpeg
 hide: true
-source-git-commit: b614aa134ee0ccbbfd70c6ab73339287d6ebb27a
+source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
 workflow-type: tm+mt
-source-wordcount: '171'
+source-wordcount: '169'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Marketo Engage 인스턴스를 상속하면 숙련된 관리자이든, 최신 �
 
 이 튜토리얼에서는 관리, 마케팅 활동, Design Studio 및 데이터베이스를 포함하여 Marketo Engage 내에서 가장 중요한 섹션을 안내하고 그 과정에서 감사 및 최적화를 위한 팁을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)

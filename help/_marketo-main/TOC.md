@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
 auto-video-transcripts: true
-source-git-commit: d6f93ad6b4216c9c886a288a23918f9f25187165
+source-git-commit: 01e5afc2449579fe995ffb670afbe0a42ed53353
 workflow-type: tm+mt
-source-wordcount: '304'
+source-wordcount: '307'
 ht-degree: 8%
 
 ---
@@ -91,8 +91,8 @@ ht-degree: 8%
    + [Sales Insight Actions 인스턴스 액세스](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [영업 활동 로깅 구성 대상 [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + 리드 및 데이터 관리 {#lead-and-data-management}
-   + [잠재 고객 점수](/help/lead-and-data-management/lead-scoring-learn.md)
-   + [리드 채점 연습](/help/lead-and-data-management/lead-scoring-watch.md)
+   + [잠재 고객 / 개인 점수 책정](/help/lead-and-data-management/lead-scoring-learn.md)
+   + [잠재 고객/개인 점수 책정 둘러보기](/help/lead-and-data-management/lead-scoring-watch.md)
    + [구독 센터](/help/lead-and-data-management/subscription-center-learn.md)
    + [구독 센터 둘러보기](/help/lead-and-data-management/subscription-center-watch.md)
    + [CRM 동기화](/help/lead-and-data-management/crm-sync-learn.md)
