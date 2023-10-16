@@ -5,13 +5,13 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-03T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13877
 thumbnail: KT-13877.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 94ed2bdf9c0427e4d18c04921b55008773b6736a
 workflow-type: tm+mt
-source-wordcount: '580'
+source-wordcount: '579'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 마케팅 기술 스택을 이해할 수 있는 시각적 데이터 흐름 다이어그램 만들기
 
-을(를) 인계하는 관리자로서 [!DNL Marketo Engage] 몇 년 동안 살아온 인스턴스를 효율적으로 감사하고 정리하는 것은 불가능한 임무와 같습니다. Adobe 시 [!DNL Marketo Champion]켈리 조 호튼이 오랜 경력을 쌓은 사례에 발을 들여놓으면서, 그녀는 이 도전을 다음과 같이 해결했다. [&quot;리드 및 데이터 소스&quot; 다이어그램 만들기](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} 데이터 세계에 익숙해지기 위해. 이 자습서에서는 Kelly Jo Horton이 공유하는 예제를 기반으로 빌드하여 고유한 데이터 흐름 다이어그램을 만드는 방법을 알아봅니다. 귀하의 MarTech 생태계에 대해 알아보겠습니다!
+을(를) 인계하는 관리자로서 [!DNL Marketo Engage] 몇 년 동안 살아온 인스턴스를 효율적으로 감사하고 정리하는 것은 불가능한 임무와 같습니다. Adobe 시 [!DNL Marketo Champion] (2019년) 켈리 조 호튼은 오랜 경력을 쌓은 사례에 발을 들여놓으며, 다음과 같은 도전을 시도했다. [&quot;리드 및 데이터 소스&quot; 다이어그램 만들기](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} 데이터 세계에 익숙해지기 위해. 이 자습서에서는 Kelly Jo Horton이 공유하는 예제를 기반으로 빌드하여 고유한 데이터 흐름 다이어그램을 만드는 방법을 알아봅니다. 귀하의 MarTech 생태계에 대해 알아보겠습니다!
 
 ## 상속된 인스턴스에 대해 아키텍처 다이어그램을 만드는 이유는 무엇입니까?
 
@@ -124,7 +124,7 @@ ht-degree: 0%
 ## 작성자
 
 **켈리 조 호턴**\
-Adobe Marketo 챔피언 동문
+Adobe Marketo 챔피언(2019)
 *Etumos의 수석 고객 파트너*
 
 ![켈리 조 호턴](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Kelly_Jo_Horton.png){width="30%"}
