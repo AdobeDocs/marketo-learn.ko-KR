@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 01e5afc2449579fe995ffb670afbe0a42ed53353
+source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '314'
 ht-degree: 8%
 
 ---
@@ -24,7 +24,7 @@ ht-degree: 8%
    + [새 인스턴스 구성 모범 사례](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [기본 프로그램 만들기에 대한 우수 사례](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [토큰을 사용하여 개인화](/help/personalization/personalize-with-tokens.md)
-   + [상속된 인스턴스 감사](/help/fundamentals/inherted-instance-audit.md)
+   + [상속된 인스턴스 감사 - 자습서](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
 + 프로그램 및 캠페인 {#programs-and-campaigns}
    + [프로그램 및 캠페인 이해](/help/programs/understanding-programs-and-campaigns.md)
    + [스마트 캠페인 101](/help/campaigns/smart-campaigns-101.md)

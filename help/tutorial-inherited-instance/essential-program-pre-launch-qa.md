@@ -5,13 +5,13 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-06T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13888
 thumbnail: KT-13888.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
 workflow-type: tm+mt
-source-wordcount: '5428'
+source-wordcount: '5436'
 ht-degree: 1%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 다음과 같은 경우 [!DNL Marketo Engage] 관리자 또는 마케팅 운영 팀에서 프로그램 구성을 제대로 검토하는 것은 고객에게 닥친 실수를 피하기 위해 중요합니다. 실수를 제한하는 과정에서 실수를 통해 배울 수 있지만 확장 가능한 프로세스는 아닙니다. 빌더와 고급 사용자/검토자 간에 프로그램 사전 실행 품질 보증(QA) 프로세스를 설계 및 실행하는 방법은 시간을 절약하고, 오류를 방지하며, 내부 사용자를 보다 신속하게 교육하는 데 도움이 됩니다.
 
-이 튜토리얼에서는 [!DNL Marketo Engage] 관리자는 프로그램 시작 전 QA 프로세스를 개발하여 내부 팀의 확장을 지원할 수 있습니다. Adobe Marketo 챔피언(20)인 Grace Brebner가 제공한 프로그램 출시 전 체크리스트를 예로 사용하여 주요 요소 및 요구 사항을 안내합니다.
+이 튜토리얼에서는 [!DNL Marketo Engage] 관리자는 프로그램 시작 전 QA 프로세스를 개발하여 내부 팀의 확장을 지원할 수 있습니다. Adobe Marketo 챔피언(2021)에서 가져온 프로그램 사전 실행 체크리스트 [그레이스 브레브너의 블로그 게시물](https://nation.marketo.com/t5/champion-program-blogs/the-ultimate-go-live-checklist/ba-p/245759)는 주요 요소 및 요구 사항을 안내하는 예제로 사용됩니다.
 
 ## 프로그램 사전 실행 QA 프로세스를 디자인해야 하는 이유는 무엇입니까?
 
@@ -129,9 +129,9 @@ QA 프로세스를 통해 생각해 보려면 다음 질문에 답하십시오.
 |---|---|---|---|---|
 | 1 | **정확도** | 필요한 모든 스마트 캠페인이 확인, 검토 및 정확하다고 간주되었습니까? | **예:** <br>예로 대답할 수 없는 경우 계속 진행하기 전에 이를 수정하고 확인해야 합니다. | [스마트 캠페인 체크리스트](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.html){target="_blank"} |
 | 2 | **전송 카운트** | 이메일 전송 캠페인이 일괄 캠페인(트리거되지 않음)인 경우 &#39;예약&#39; 탭에서 리드 수를 확인합니다. 예상한 수치에 맞게 수치가 정렬됩니까? 중단 임계값보다 작습니까? | **예:** <br>예로 대답할 수 없는 경우 계속 진행하기 전에 이를 수정하고 확인해야 합니다. | [이메일 프로그램 예약](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.html){target="_blank"} |
-| 3 | **기본 규칙** | 적절한 경우 기본 세그먼트/목록이 사용됩니까? 아니면 적절한 위치에 있습니까? | **예 또는 해당 사항 없음:**<br> 주요 목록/세그먼트는 참조해야 하는 필드의 수를 줄이고 사람의 오류 위험을 줄이도록 설계되었습니다. 기본 목록/세그먼테이션을 사용하지 않는 경우 규칙을 신뢰해야 합니다. |  |
+| 3 | **기본 규칙** | 적절한 경우 기본 세그먼트/목록이 사용됩니까? 아니면 적절한 위치에 있습니까? | **예 또는 해당 사항 없음:**<br> 기본 목록/세그먼트는 참조해야 하는 필드의 수를 줄이고 사람의 오류 위험을 줄이도록 설계되었습니다. 기본 목록/세그먼테이션을 사용하지 않는 경우 규칙을 신뢰해야 합니다. |  |
 | 4 | **귀속** | 프로그램에서 새 잠재 고객을 가져오는 경우(예: 이벤트 프로그램) 필요에 따라 속성 설정이 포함됩니까? 획득 프로그램이 매핑되고 있습니까? | **예 또는 해당 사항 없음:** <br>프로그램으로 사람을 가져오는 경우 또는 프로그램에서 새 사람을 가져오는 경우 획득 프로그램 설정을 사용해야 합니다. |  |
-| 5 | **참여 프로그램** | 참여 프로그램에서 스마트 캠페인을 사용할 때 구성원을 적절하게 추가, 일시 중지 및 재시작하도록 하는 단계가 있습니까? 다른 사용자가 이러한 단계를 검토했습니까? | **예 또는 해당 사항 없음:**<br> 참여 프로그램이며 정당한 이유 없이 예 로 답변할 수 없는 경우, 이 프로그램이 적용될 때까지 활성화하지 마십시오. | [참여 프로그램에 사람 추가](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-people-to-an-engagement-program.html){target="_blank"} |
+| 5 | **참여 프로그램** | 참여 프로그램에서 스마트 캠페인을 사용할 때 구성원을 적절하게 추가, 일시 중지 및 재시작하도록 하는 단계가 있습니까? 다른 사용자가 이러한 단계를 검토했습니까? | **예 또는 해당 사항 없음:**<br> 참여 프로그램이며 정당한 이유 없이 예로 대답할 수 없는 경우 이 프로그램이 적용될 때까지 활성화하지 마십시오. | [참여 프로그램에 사람 추가](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-people-to-an-engagement-program.html){target="_blank"} |
 | 6 | **구독 환경 설정** | 필요한 구독 환경 설정 요소가 모두 포함되었습니까? | **예 또는 해당 사항 없음:**<br> 확실하지 않은 경우 [!DNL Marketo Engage] 관리자. N/A(예: 작동 전송)를 진행하려면 상당한 이유가 필요합니다. | [구독 센터 설정 및 관리 방법](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html){target="_blank"} |
 | 7 | **프로그램 상태** | 프로그램 상태를 업데이트하는 흐름 단계가 포함되어 있습니까? | **예:** <br>예로 대답할 수 없는 경우 스마트 캠페인 흐름 단계에 추가해야 합니다. | [프로그램 상태 변경](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.html){target="_blank"} |
 | 8 | **광범위한 영향** | <li>다른 팀/시스템과 동기화하는 필드에 경고/쓰기를 전송하는 흐름 단계가 있습니까? <li>그렇다면 볼륨을 고려하고 해당 팀/시스템에 대한 이해 당사자에게 조언을 제공했습니까? | **예, 아니오 또는 해당 사항 없음:**<br> 어떤 대답이든 좋지만 만약 그것이 지도라면 보통 시스템을 소유한 팀에 알려야 한다. 확실하지 않은 경우 관리자에게 문의하십시오. |  |
@@ -147,7 +147,7 @@ QA 프로세스를 통해 생각해 보려면 다음 질문에 답하십시오.
 | 1 | **논리** | 스마트 목록을 사용하여 대상의 일부를 식별하는 경우 로직이 확인 및 검토되고 정확한 것으로 간주됩니까? | **예:** <br>예로 대답할 수 없는 경우 스마트 목록 설정을 수정하고 계속하기 전에 이러한 사항을 확인해야 합니다. |  |
 | 2 | **목록 가져오기 프로세스** | 정적 목록을 사용하여 대상의 일부를 식별하는 경우 데이터 소스는 신뢰할 수 있으며 목록 가져오기 프로세스에 따라 가져오기가 정확하게 수행되었습니까? | **예:** <br>예로 대답할 수 없는 경우 목록 데이터를 수정하고 확인한 후 진행해야 합니다. | [정적 목록에서 사람을 추가/제거하는 방법](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.html){target="_blank"}<br><br>[사람 목록 가져오기](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/import-a-list-of-people.html#step-import-your-spreadsheet-into-marketo) |
 | 3 | **제외** | 필수 제외가 포함되어 있습니까(예: 경쟁업체, 구독 취소 차단 목록) | **예 또는 해당 사항 없음:** <br>법적으로 규정을 준수하고, 그렇지 않은 경우 가입 해지서를 필터링해야 합니다. 이러한 규칙을 포함하지 않을 경우 콘텐츠, 캠페인 규칙 및 법적 근거에 대해 신뢰해야 합니다. | [구독 취소 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html){target="_blank"}<br><br>[Change Data Value](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html){target="_blank"} |
-| 4 | **기본 목록** | 적절한 위치에 기본 목록/세그먼테이션이 사용되고 있습니까? | **예 또는 해당 사항 없음:** 주요 목록/세그먼트는 참조해야 하는 필드의 수를 줄이고 사람의 오류 위험을 줄이도록 설계되었습니다. 기본 목록/세그먼테이션을 사용하지 않을 경우 규칙을 신뢰해야 합니다. | [세그먼트 규칙 정의](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.html) |
+| 4 | **기본 목록** | 적절한 경우 기본 목록/세그먼테이션이 사용됩니까? | **예 또는 해당 사항 없음:** 기본 목록/세그먼트는 참조해야 하는 필드의 수를 줄이고 사람의 오류 위험을 줄이도록 설계되었습니다. 기본 목록/세그먼테이션을 사용하지 않는 경우 규칙을 신뢰해야 합니다. | [세그먼트 규칙 정의](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.html) |
 
 >[!TAB 대상자]
 
@@ -174,7 +174,7 @@ QA 프로세스를 통해 생각해 보려면 다음 질문에 답하십시오.
 | 8 | **텍스트 버전** | <li>이메일의 텍스트 버전을 만들었습니까? <li>본문의 버전을 테스트해 봤니? | **예:**<br> 예로 대답할 수 없는 경우 계속 진행하기 전에 테스트해야 합니다. |
 | 9 | **텍스트 버전 최적화** | <li>텍스트 버전의 레이아웃이 최적화되었습니까?<li>표시되는 HTML 주석이 있습니까?<li>모든 관련 콘텐츠가 포함되어 있습니까? | **예:**<br> 자동 생성된 텍스트 버전은 읽기가 매우 어려울 수 있으므로 최적화할 가치가 있습니다. | [이메일의 텍스트 버전 편집](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/edit-the-text-version-of-an-email.html){target="_blank"} |
 | 10 | **텍스트 버전 하이퍼링크 및 UTMS** | 하이퍼링크가 작동하고 이러한 영역에 UTM을 포함합니까? :<ul><li>헤더 섹션</li><li>이미지 영역(포함된 경우)</li><li>본문</li><li>CTA</li>바닥글</li></ul> | **예:**<br> 예로 대답할 수 없는 경우 계속 진행하기 전에 이를 수정하고 확인해야 합니다. 자동 텍스트 버전은 변수를 안정적으로 가져오지 않습니다. |  |
-| 11 | **HTML/주 버전** | <li>이메일의 HTML/기본 버전을 만들었습니까?<li>직접 테스트해 보셨나요? | **예(일반 텍스트만 제외):**<br> 예로 대답할 수 없는 경우 진행하기 전에 테스트를 직접 전송해야 합니다. | [이메일 HTML 편집](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.html){target="_blank"} |
+| 11 | **HTML/주 버전** | <li>이메일의 HTML/주 버전을 생성했습니까?<li>직접 테스트해 보셨나요? | **예(일반 텍스트만 제외):**<br> 예로 대답할 수 없는 경우 진행하기 전에 테스트를 직접 전송해야 합니다. | [이메일 HTML 편집](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/edit-an-emails-html.html){target="_blank"} |
 | 12 | **이미지** | <li>모든 이미지에 대체 텍스트가 있습니까? <li>깨진 이미지가 있습니까? | **예 또는 해당 사항 없음:**<br>. 예로 대답할 수 없는 경우 계속 진행하기 전에 이미지를 수정하고 확인해야 합니다(이미지가 없는 경우). |  |
 | 13 | **이미지 압축** | <li>이미지 편집 소프트웨어에서 웹용으로 모든 이미지가 저장되었습니까? <li>업로드하기 전에 압축되었습니까? <li>이메일 로드 시간이 허용됩니까? | **예 또는 해당 사항 없음:**<br>&#x200B;로드 속도를 향상시키기 위해 모든 이미지(있는 경우)를 압축해야 합니다. | hero images은 120kb 미만이어야 하며 모든 작은 이미지는 더 작아야 합니다. 높은 로드 시간은 성능에 영향을 줍니다. |
 | 14 | **HTML 버전 하이퍼링크 및 UTM** | 모든 하이퍼링크가 작동하고 이러한 영역에 UTM을 포함합니까? :<ul><li>헤더 섹션</li><li>이미지 영역(포함된 경우)</li><li>본문</li><li>CTA</li>바닥글</li></ul> | **예:**<br> 끊어진 링크를 보내지 마십시오. 예라고 대답할 수 없는 경우 계속하기 전에 수정하십시오. |  |

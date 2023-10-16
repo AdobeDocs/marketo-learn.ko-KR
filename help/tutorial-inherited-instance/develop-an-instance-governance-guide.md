@@ -5,11 +5,11 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-12T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
 workflow-type: tm+mt
 source-wordcount: '906'
 ht-degree: 0%
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 레거시로 이동할 때 [!DNL Marketo Engage] 예를 들어, 최신 기능 및 기술 설명서가 부족하다는 문제가 종종 수반됩니다. 관리자로서 적절한 인스턴스 거버넌스를 보장하기 위한 지침을 수립하는 것은 간과할 수 없는 핵심 책임입니다. 이는 다음과 같은 중요한 전략 중 하나입니다. [기존 Marketo Engage 인스턴스에서 작업할 때 효율성 향상](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582).
 
-이 단계별 튜토리얼의 출처: [!DNL Adobe Marketo Champion], Nick Hajdin이 인스턴스 설정의 개요를 설명하고, 기본 운영 프로그램을 문서화하고, [!DNL changelog] 엄격한 거버넌스 정책을 시행하기 위해.
+이 단계별 튜토리얼의 출처: [!DNL Adobe Marketo Champion] (2018년) Nick Hajdin이 인스턴스 설정을 간략히 설명하고, 기본 운영 프로그램을 문서화하고, [!DNL changelog] 엄격한 거버넌스 정책을 시행하기 위해.
 
 ## 상속된 인스턴스에 대한 인스턴스 거버넌스 안내서 및 설명서를 개발하는 이유는 무엇입니까?
 

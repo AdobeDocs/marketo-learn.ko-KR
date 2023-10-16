@@ -5,11 +5,11 @@ feature: Administration
 role: Admin
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2023-09-07T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
-hide: true
-source-git-commit: e7fe8da128a1c46620484d9b92823ba51791a671
+hide: false
+source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
 workflow-type: tm+mt
 source-wordcount: '277'
 ht-degree: 0%
@@ -35,7 +35,6 @@ Adobe Marketo Champions에서 가져온 이 &#39;상속된 인스턴스 감사 �
 
 * **[인스턴스 거버넌스 안내서 개발](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)**
   *빠른 효율성 승리로 프로그램 빌드, 거버넌스 및 전체 마케팅 작업을 최적화하는 방법에 대해 알아봅니다*
-
 
 * **[마케팅 기술 스택을 시각적으로 매핑](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)**
   *시각적 아키텍처 다이어그램으로 데이터 소스를 매핑하여 기술 스택을 이해하는 방법에 대해 알아봅니다*
