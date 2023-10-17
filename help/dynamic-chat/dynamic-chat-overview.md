@@ -6,9 +6,9 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: d6f93ad6b4216c9c886a288a23918f9f25187165
+source-git-commit: 0a5330152f2bf8326c8642e09cc7ba6099869283
 workflow-type: tm+mt
-source-wordcount: '353'
+source-wordcount: '369'
 ht-degree: 10%
 
 ---
@@ -48,6 +48,8 @@ ht-degree: 10%
      *대화 상자 미리보기 기능을 사용하면 게시하기 전에 대화 상자를 미리 볼 수 있습니다.*
    * **[정적 콘텐츠의 전역화](globalization-of-static-content.md)**
      *원하는 언어로 정적/시스템 콘텐츠를 개인화할 수 있습니다.*
+   * **[대화 양식](conversational-forms.md)**
+     *웹 사이트 방문자가 양식을 작성한 후 즉시 참여하는 방법을 알아봅니다.*
 * 라이브 채팅 및 모임 예약
    * **[라이브 채팅 설정](set-up-live-chat.md)**
      *실시간 채팅을 설정하는 방법에 대해 알아봅니다.*
