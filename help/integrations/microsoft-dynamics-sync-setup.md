@@ -10,7 +10,7 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-17T00:00:00Z
 jira: KT-14112
 thumbnail: 3424737.jpeg
-source-git-commit: a2a4c986fa5f46682c79a61a539f057d74eef6a1
+source-git-commit: a40cb276fbf63d4707d6e238c4b536f7629a748e
 workflow-type: tm+mt
 source-wordcount: '320'
 ht-degree: 0%
@@ -32,7 +32,7 @@ Microsoft Dynamics 365 동기화 작동 방식을 알아보고 두 시스템이 
 
 * [Marketo 리드 관리 솔루션 다운로드](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/download-the-marketo-lead-management-solution.html)
 
-* [Microsoft Dynamics용 Marketo 솔루션 업데이트](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.html)]
+* [Microsoft Dynamics용 Marketo 솔루션 업데이트](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.html)
 
 * [클라이언트 Id 및 앱 등록에 동의 부여](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/grant-consent-for-client-id-and-app-registration.html)
 
