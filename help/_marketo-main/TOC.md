@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
 auto-video-transcripts: true
-source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
+source-git-commit: e131a83a6314b77d842b003824b9e33649ab224c
 workflow-type: tm+mt
-source-wordcount: '321'
-ht-degree: 9%
+source-wordcount: '332'
+ht-degree: 8%
 
 ---
 
@@ -111,4 +111,6 @@ ht-degree: 9%
    + [보고 및 분석](/help/reporting/reporting-and-analytics.md)
    + [주요 보고서](/help/reporting/key-reports.md)
 + 통합 {#integrations}
-   + [Marketo과 Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html){target="_blank"}
+   + [Salesforce 동기화 시작](/help/integrations/salesforce-sync-setup.md)
+   + [Microsoft Dynamics 동기화 시작](/help/integrations/microsoft-dynamics-sync-setup.md)
+   + [Marketo과 Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
