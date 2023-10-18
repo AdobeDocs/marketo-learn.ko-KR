@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 0a5330152f2bf8326c8642e09cc7ba6099869283
+source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
-source-wordcount: '369'
-ht-degree: 10%
+source-wordcount: '405'
+ht-degree: 9%
 
 ---
 
@@ -20,7 +20,9 @@ ht-degree: 10%
 시작: [!UICONTROL Dynamic Chat]  튜토리얼 사이트입니다. 이 튜토리얼과 설명서를 함께 사용하여 사용 방법에 대한 이해를 높이십시오 [!UICONTROL Dynamic Chat]  개인화된 대화를 만들 수 있습니다. 다음 항목은 시작하는 데 도움이 됩니다.
 
 * 개요
-   * **[간단한 제품 둘러보기](product-tour.md)**
+   * **[빠른 제품 둘러보기 [2023]](product-tour.md)**
+     *2023년에 출시된 모든 새로운 기능에 대한 개요를 살펴보십시오.*
+   * **[빠른 제품 둘러보기 [2022]](product-tour.md)**
      *전체 제품에 대한 개요를 확인하고 을 활용하는 방법을 알아봅니다. [!UICONTROL Dynamic Chat].*
    * **[15분 후 실행](go-live-in-15-minutes.md)**
      *을 사용하여 첫 번째 대화 상자를 시작하는 데 도움이 되는 단계별 안내서입니다. [!UICONTROL Dynamic Chat]  15분 안에!*
@@ -50,9 +52,11 @@ ht-degree: 10%
      *원하는 언어로 정적/시스템 콘텐츠를 개인화할 수 있습니다.*
    * **[대화 양식](conversational-forms.md)**
      *웹 사이트 방문자가 양식을 작성한 후 즉시 참여하는 방법을 알아봅니다.*
+   * **[대화 SDK](conversations-sdk.md)**
+     *CTA 클릭을 매력적인 대화로 전환하기 위해 대화 SDK를 구현하는 방법에 대해 알아봅니다.*
 * 라이브 채팅 및 모임 예약
-   * **[라이브 채팅 설정](set-up-live-chat.md)**
-     *실시간 채팅을 설정하는 방법에 대해 알아봅니다.*
+   * **[방문자를 라이브 에이전트에 연결](connect-visitors-to-live-agents.md)**
+     *자격을 갖춘 리드를 연결하여 판매 에이전트와 즉시 교류하십시오.*
    * **[잠재 고객을 활성화하여 판매 업체와의 회의를 예약하십시오.](meeting-booking.md)**
      *영업 팀과의 연계 가속화 [!DNL target] 모임 예약 기능이 있는 계정.*
 * Analytics

@@ -1,28 +1,28 @@
 ---
 title: Dynamic Chat 제품 둘러보기
-description: 마케팅 및 세일즈용으로 Adobe에서 제공하는 새로운 챗봇 솔루션인 Dynamic Chat에 대해 알아봅니다.
+description: Adobe의 마케팅 및 판매를 위해 구축된 새로운 채팅 솔루션인 Dynamic Chat에 대해 알아봅니다.
 role: User
 level: Beginner
-jira: KT-9697
-thumbnail: 340473.jpeg
-exl-id: 6da18db9-1fc9-4a30-a302-102904f79aee
-feature: Dynamic Chat
-source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
+doc-type: Feature Video
+last-substantial-update: 2023-10-18T00:00:00Z
+jira: KT-14209
+thumbnail: 3425033.jpeg
+source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
-source-wordcount: '101'
-ht-degree: 14%
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
-# 제품 둘러보기 [!UICONTROL Dynamic Chat]
 
-[!UICONTROL Dynamic Chat]  은 마케팅 및 세일즈용으로 구축된 새로운 챗봇 솔루션입니다. 기본적으로 와 통합됩니다. [!DNL Marketo Engage]: 다음을 사용할 수 있습니다 [!UICONTROL Dynamic Chat]  크로스 채널 마케팅의 새 채널로 사용됩니다. 간단하게 사용하고 설정할 수 있습니다. 제품 둘러보기:
+# 제품 둘러보기 [!UICONTROL Dynamic Chat] [2023]
 
->[!VIDEO](https://video.tv.adobe.com/v/340473/?quality=12&learn=on){transcript=true}
+리드를 생성하는 개인화된 대화로 웹 방문자를 참여시키고, GenAI의 강력한 기능으로 방문자 질문에 응답하고, 판매 에이전트로 라우팅하고, 다른 채널을 통해 채팅 리드를 재타겟팅하여 회의 예약을 유도합니다.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3425033/?learn=on)
 
 ## 더 유용한 비디오
 
+* [제품 둘러보기 [2022]](product-tour-2022.md)
 * [챗봇 설정 및 설치](setup.md)
-* [과 Marketo 통합 활성화 [!UICONTROL Dynamic Chat]](marketo-integration.md)
-* [사용자 추가 및 관리 [!UICONTROL Dynamic Chat]](user-management.md)
 * [15분 안에 라이브 진행](go-live-in-15-minutes.md)

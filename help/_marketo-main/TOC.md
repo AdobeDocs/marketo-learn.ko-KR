@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 0a5330152f2bf8326c8642e09cc7ba6099869283
+source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
-source-wordcount: '316'
+source-wordcount: '321'
 ht-degree: 9%
 
 ---
@@ -69,13 +69,15 @@ ht-degree: 9%
    + [웹 개인화 둘러보기](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
    + [Dynamic Chat 자습서](/help/dynamic-chat/dynamic-chat-overview.md)
-   + [제품 둘러보기](/help/dynamic-chat/product-tour.md)
+   + [제품 둘러보기 [2023]](/help/dynamic-chat/product-tour.md)
+   + [제품 둘러보기 [2022]](/help/dynamic-chat/product-tour-2022.md)
    + [설치 및 설치](/help/dynamic-chat/setup.md)
    + [Marketo 통합](/help/dynamic-chat/marketo-integration.md)
    + [사용자 관리](/help/dynamic-chat/user-management.md)
    + [대화 양식](/help/dynamic-chat/conversational-forms.md)
+   + [대화 SDK](/help/dynamic-chat/conversations-sdk.md)
    + [대화 상자 관리](/help/dynamic-chat/dialogue-management.md)
-   + [라이브 채팅 설정](/help/dynamic-chat/set-up-live-chat.md)
+   + [방문자를 라이브 에이전트에 연결](/help/dynamic-chat/connect-visitors-to-live-agents.md)
    + [에이전트 관리](/help/dynamic-chat/agent-management.md)
    + [모임 예약](/help/dynamic-chat/meeting-booking.md)
    + [15분 후 실행](/help/dynamic-chat/go-live-in-15-minutes.md)
