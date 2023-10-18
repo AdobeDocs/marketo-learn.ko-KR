@@ -10,9 +10,9 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-17T00:00:00Z
 jira: KT-14112
 thumbnail: 3424737.jpeg
-source-git-commit: 5f3967df0b98e8b4d6c576a3e7f0b26141694240
+source-git-commit: a2a4c986fa5f46682c79a61a539f057d74eef6a1
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '320'
 ht-degree: 0%
 
 ---
@@ -26,12 +26,26 @@ Microsoft Dynamics 365 동기화 작동 방식을 알아보고 두 시스템이 
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424737/?learn=on)
 
-## 추가 리소스
+## 비디오에 사용된 링크
 
 * [Microsoft Dynamics 동기화 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/understanding-the-microsoft-dynamics-sync.html)
 
-* [Microsoft Dynamics 동기화 설정](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/download-the-marketo-lead-management-solution.html)
+* [Marketo 리드 관리 솔루션 다운로드](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/download-the-marketo-lead-management-solution.html)
+
+* [Microsoft Dynamics용 Marketo 솔루션 업데이트](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/update-the-marketo-solution-for-microsoft-dynamics.html)]
+
+* [클라이언트 Id 및 앱 등록에 동의 부여](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/grant-consent-for-client-id-and-app-registration.html)
+
+* [Microsoft Dynamics 동기화 확인](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/validate-microsoft-dynamics-sync.html)
 
 * [동기화 상태](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/sync-status.html)
 
 * [Dynamics 유효성 검사 동기화 문제 해결](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/fix-dynamics-validation-sync-issues.html)
+
+* [사용자 지정 Dynamics 동기화 필터 만들기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynmaics-sync-filter-details/create-a-custom-dynamics-sync-filter.html)
+
+* [조직 서비스 URL 보기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/view-the-organization-service-url.html)
+
+* [Dynamics에서 삭제하기 전에 동기화할 필드 편집](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/editing-fields-to-sync-before-deleting-them-in-dynamics.html)
+
+* [자습서: Marketo을 CRM과 동기화하는 방법에 대해 알아보기](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/crm-sync-learn.html)
