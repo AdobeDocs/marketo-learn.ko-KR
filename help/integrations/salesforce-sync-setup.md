@@ -10,17 +10,15 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-17T00:00:00Z
 jira: KT-14113
 thumbnail: 3424719.jpeg
-source-git-commit: a40cb276fbf63d4707d6e238c4b536f7629a748e
+source-git-commit: d7daf2d9664baafeafd887d27cf412d7a183dd76
 workflow-type: tm+mt
-source-wordcount: '290'
+source-wordcount: '286'
 ht-degree: 0%
 
 ---
 
 
 # Salesforce 동기화 시작
-
-*출처: Adobe Marketo Champions*
 
 Marketo Engage과 Salesforce가 함께 판매와 마케팅 데이터를 동기화하는 방법에 대해 알아봅니다. 이 튜토리얼에서는 동기화 작동 방식과 올바른 데이터 흐름을 위한 동기화 설정, 제대로 작동하는지 확인하기 위한 필수 사항을 안내합니다. Salesforce 동기화 관리를 위한 추가 팁과 요령은 동기화할 필드를 선택하고 더 이상 필요하지 않은 필드를 숨기는 데 도움이 되도록 공유됩니다.
 

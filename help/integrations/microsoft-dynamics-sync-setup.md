@@ -10,17 +10,15 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-17T00:00:00Z
 jira: KT-14112
 thumbnail: 3424737.jpeg
-source-git-commit: a40cb276fbf63d4707d6e238c4b536f7629a748e
+source-git-commit: d7daf2d9664baafeafd887d27cf412d7a183dd76
 workflow-type: tm+mt
-source-wordcount: '320'
+source-wordcount: '316'
 ht-degree: 0%
 
 ---
 
 
 # Microsoft Dynamics 동기화 시작
-
-*출처: Adobe Marketo Champions*
 
 Microsoft Dynamics 365 동기화 작동 방식을 알아보고 두 시스템이 서로 통신할 수 있도록 설정을 올바르게 구성합니다. 이 튜토리얼에서는 동기화 작동 방법, Marketo Lead Management(MLM) 솔루션 다운로드, 서버 간 연결을 위한 MLM 솔루션 설치 및 두 시스템 연결 방법을 안내합니다. 동기화의 유효성을 검사하고, 동기화된 레코드 수를 제한하고, 동기화 시간을 예상하기 위한 추가 팁과 요령이 공유되어 Microsoft Dynamics 동기화를 설정하는 데 도움이 됩니다.
 
