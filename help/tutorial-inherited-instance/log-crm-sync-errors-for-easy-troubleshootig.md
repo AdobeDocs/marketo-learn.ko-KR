@@ -9,9 +9,9 @@ last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: false
-source-git-commit: 4dc6aeed353fdd8bac960603af22b060ae2d7f00
+source-git-commit: 96ec338944d486b74ac77d91aba3ede482abf135
 workflow-type: tm+mt
-source-wordcount: '436'
+source-wordcount: '433'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 간편한 문제 해결을 위한 CRM 동기화 오류 기록
 
-Marketo Engage 관리자는 인스턴스가 CRM과 동기화 상태인지 확인하는 것이 의 핵심 부분이어야 합니다. [일상](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (Marketo Engage 인터페이스의 오른쪽 상단 모서리에서 찾기) 자주 발생하는 동기화 문제를 검색하고 조사할 때 인스턴스 상태를 체계적으로 관리하는 데 도움이 되는 pro 팁이 있습니다.  Adobe Marketo 챔피언(2022), Amy Goldfine은 관리자가 보다 쉽게 문제를 해결할 수 있도록 CRM 동기화 오류 로그를 유지할 것을 권장합니다.
+Marketo Engage 관리자는 인스턴스가 CRM과 동기화 상태인지 확인하는 것이 의 핵심 부분이어야 합니다. [일상](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}. While the [Notifications section](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (Marketo Engage 인터페이스의 오른쪽 상단 모서리에서 찾기) 자주 발생하는 동기화 문제를 검색하고 조사할 때 인스턴스 상태를 체계적으로 관리하는 데 도움이 되는 pro 팁이 있습니다. Adobe Marketo 챔피언(2019-2022), Amy Goldfine은 관리자가 보다 쉽게 문제를 해결할 수 있도록 CRM 동기화 오류 로그를 유지할 것을 권장합니다.
 
 ![동기화 오류 탭의 스크린샷](/help/tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
@@ -52,8 +52,8 @@ CRM 동기화 오류를 로깅함으로써 Marketo Engage 관리자는 CRM 관�
 ## 작성자
 
 **에이미 골드파인**\
-Adobe Marketo 챔피언(2022)
-*선임 관리자, 마케팅 운영, 반복 가능*
+Adobe Marketo 챔피언(2019-2022)
+*설립자, MarketingOpsAdvice.com*
 
 ![에이미 골드파인](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Amy_Goldfine.png){width="25%"}
 
