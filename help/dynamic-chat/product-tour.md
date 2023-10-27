@@ -1,6 +1,6 @@
 ---
 title: Dynamic Chat 제품 둘러보기
-description: Adobe의 마케팅 및 판매를 위해 구축된 새로운 채팅 솔루션인 Dynamic Chat에 대해 알아봅니다.
+description: 마케팅 및 세일즈용으로 Adobe에서 제공하는 새로운 채팅 솔루션인 Dynamic Chat에 대해 알아봅니다.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -10,7 +10,7 @@ thumbnail: 3425033.jpeg
 source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
 workflow-type: tm+mt
 source-wordcount: '77'
-ht-degree: 0%
+ht-degree: 19%
 
 ---
 
