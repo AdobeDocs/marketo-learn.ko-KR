@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: d16a98ae56fecd3db1b775428ac52682f1cd73cb
+source-git-commit: 0ec4c6cada3b33a40b9e29a8dfaa3360208e589d
 workflow-type: tm+mt
-source-wordcount: '405'
-ht-degree: 9%
+source-wordcount: '392'
+ht-degree: 8%
 
 ---
 
@@ -33,8 +33,6 @@ ht-degree: 9%
      *대화를 통해 웹 방문자를 타겟팅하고 Marketo의 잠재 고객 정보를 통해 개인화합니다.*
    * **[사용자 추가 및 관리 [!UICONTROL Dynamic Chat]](user-management.md)**
      *에서 사용자를 추가 또는 관리하는 방법 알아보기 [!UICONTROL Dynamic Chat] .*
-   * **[역할 및 권한](roles-and-permissions.md)**
-     *새 역할을 만들고 Dynamic Chat 사용자에게 권한을 설정하는 방법에 대해 알아봅니다.*
    * **[에이전트 관리](agent-management.md)**
      *에이전트 관리 방법을 알아봅니다.*
 * 자동화된 채팅
@@ -50,7 +48,7 @@ ht-degree: 9%
      *대화 상자 미리보기 기능을 사용하면 게시하기 전에 대화 상자를 미리 볼 수 있습니다.*
    * **[정적 콘텐츠의 전역화](globalization-of-static-content.md)**
      *원하는 언어로 정적/시스템 콘텐츠를 개인화할 수 있습니다.*
-   * **[대화 양식](conversational-forms.md)**
+   * **[대화형 Forms](conversational-forms.md)**
      *웹 사이트 방문자가 양식을 작성한 후 즉시 참여하는 방법을 알아봅니다.*
    * **[대화 SDK](conversations-sdk.md)**
      *CTA 클릭을 매력적인 대화로 전환하기 위해 대화 SDK를 구현하는 방법에 대해 알아봅니다.*
@@ -60,6 +58,6 @@ ht-degree: 9%
    * **[잠재 고객을 활성화하여 판매 업체와의 회의를 예약하십시오.](meeting-booking.md)**
      *영업 팀과의 연계 가속화 [!DNL target] 모임 예약 기능이 있는 계정.*
 * Analytics
-   * **[참여도 보고](engagement-report.md)**
+   * **[참여 보고서](engagement-report.md)**
      *웹 방문자가 대화 상자에 참여하는 방식의 트렌드를 확인합니다*
 

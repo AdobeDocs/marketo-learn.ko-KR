@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
 auto-video-transcripts: true
-source-git-commit: e131a83a6314b77d842b003824b9e33649ab224c
+source-git-commit: 0ec4c6cada3b33a40b9e29a8dfaa3360208e589d
 workflow-type: tm+mt
-source-wordcount: '332'
-ht-degree: 8%
+source-wordcount: '322'
+ht-degree: 7%
 
 ---
 
@@ -87,7 +87,6 @@ ht-degree: 8%
    + [대화 상자 미리보기](/help/dynamic-chat/dialogue-preview.md)
    + [참여도 보고](/help/dynamic-chat/engagement-report.md)
    + [정적 콘텐츠의 전역화](/help/dynamic-chat/globalization-of-static-content.md)
-   + [역할 및 권한](/help/dynamic-chat/roles-and-permissions.md)
 + Sales Insight 작업 {#sales-insight-actions}
    + [개요](/help/sales-insight-actions/overview.md)
    + [Sales Insight 작업 개요](/help/sales-insight-actions/sales-insight-actions-overview.md)
