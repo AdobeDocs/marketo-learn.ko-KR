@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
 auto-video-transcripts: true
-source-git-commit: c8ab7a7c94024acf062215ab6f0c1f0de2144ba0
+source-git-commit: 4237a26e3fe7c6b523b59486afdb161d2fad97e5
 workflow-type: tm+mt
-source-wordcount: '337'
+source-wordcount: '323'
 ht-degree: 8%
 
 ---
@@ -68,32 +68,26 @@ ht-degree: 8%
    + [웹 개인화](/help/cross-channel-marketing/web-personalization-learn.md)
    + [웹 개인화 둘러보기](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
-   + 시작 {#dc-overview}
-      + [개요](/help/dynamic-chat/dynamic-chat-overview.md)
-      + [제품 둘러보기 [2023]](/help/dynamic-chat/product-tour.md)
-      + [제품 둘러보기 [2022]](/help/dynamic-chat/product-tour-2022.md)
-      + [15분 후 실행](/help/dynamic-chat/go-live-in-15-minutes.md)
-   + 설정 {#dc-setup}
-      + [설치 및 설치](/help/dynamic-chat/setup.md)
-      + [Marketo 통합](/help/dynamic-chat/marketo-integration.md)
-      + [사용자 관리](/help/dynamic-chat/user-management.md)
-      + [에이전트 관리](/help/dynamic-chat/agent-management.md)
-   + 자동화된 채팅 {#dc-automated-chat}
-      + [대화 상자 관리](/help/dynamic-chat/dialogue-management.md)
-      + [대화에 PDF 포함](/help/dynamic-chat/document-cloud-integration.md)
-      + [스트림 디자이너에서 검색](/help/dynamic-chat/search-in-stream-designer.md)
-      + [유추한 속성 캡처](/help/dynamic-chat/capture-inferred-attributes.md)
-      + [대화 상자 미리보기](/help/dynamic-chat/dialogue-preview.md)
-      + [정적 콘텐츠의 전역화](/help/dynamic-chat/globalization-of-static-content.md)
-      + [대화 양식](/help/dynamic-chat/conversational-forms.md)
-      + [대화 SDK](/help/dynamic-chat/conversations-sdk.md)
-   + 라이브 채팅 및 모임 예약 {#dc-live-chat-meeting-booking}
-      + [방문자를 라이브 에이전트에 연결](/help/dynamic-chat/connect-visitors-to-live-agents.md)
-      + [모임 예약](/help/dynamic-chat/meeting-booking.md)
-   + 생성 AI 채팅 {#dc-generative-ai-chat}
-      + [GenAI 기반의 대화 추진](/help/dynamic-chat/gen-ai-features.md)
-   + 분석 {#dc-analytics}
-      + [참여도 보고](/help/dynamic-chat/engagement-report.md)
+   + [개요](/help/dynamic-chat/dynamic-chat-overview.md)
+   + [제품 둘러보기 [2023]](/help/dynamic-chat/product-tour.md)
+   + [제품 둘러보기 [2022]](/help/dynamic-chat/product-tour-2022.md)
+   + [15분 후 실행](/help/dynamic-chat/go-live-in-15-minutes.md)
+   + [설치 및 설치](/help/dynamic-chat/setup.md)
+   + [Marketo 통합](/help/dynamic-chat/marketo-integration.md)
+   + [사용자 관리](/help/dynamic-chat/user-management.md)
+   + [에이전트 관리](/help/dynamic-chat/agent-management.md)
+   + [대화 상자 관리](/help/dynamic-chat/dialogue-management.md)
+   + [대화에 PDF 포함](/help/dynamic-chat/document-cloud-integration.md)
+   + [스트림 디자이너에서 검색](/help/dynamic-chat/search-in-stream-designer.md)
+   + [유추한 속성 캡처](/help/dynamic-chat/capture-inferred-attributes.md)
+   + [대화 상자 미리보기](/help/dynamic-chat/dialogue-preview.md)
+   + [정적 콘텐츠의 전역화](/help/dynamic-chat/globalization-of-static-content.md)
+   + [대화 양식](/help/dynamic-chat/conversational-forms.md)
+   + [대화 SDK](/help/dynamic-chat/conversations-sdk.md)
+   + [방문자를 라이브 에이전트에 연결](/help/dynamic-chat/connect-visitors-to-live-agents.md)
+   + [모임 예약](/help/dynamic-chat/meeting-booking.md)
+   + [GenAI 기반의 대화 추진](/help/dynamic-chat/gen-ai-features.md)
+   + [참여도 보고](/help/dynamic-chat/engagement-report.md)
 + Sales Insight 작업 {#sales-insight-actions}
    + [개요](/help/sales-insight-actions/overview.md)
    + [Sales Insight 작업 개요](/help/sales-insight-actions/sales-insight-actions-overview.md)
