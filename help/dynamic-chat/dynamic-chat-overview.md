@@ -6,7 +6,7 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: c8ab7a7c94024acf062215ab6f0c1f0de2144ba0
+source-git-commit: b598324c7361191dce365157abbe9a2e45739820
 workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 8%
@@ -62,5 +62,5 @@ ht-degree: 8%
      *Dynamic Chat GenAI 기능을 사용하는 방법에 대해 알아봅니다.*
 * Analytics
    * **[참여 보고서](engagement-report.md)**
-     *웹 방문자가 대화 상자에 참여하는 방식의 트렌드를 확인합니다*
+     *웹 방문자가 대화 상자에 어떻게 참여하는지에 대한 트렌드를 확인합니다.*
 
