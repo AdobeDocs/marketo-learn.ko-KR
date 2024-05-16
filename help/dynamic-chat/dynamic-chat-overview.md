@@ -6,9 +6,9 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 0ec4c6cada3b33a40b9e29a8dfaa3360208e589d
+source-git-commit: c8ab7a7c94024acf062215ab6f0c1f0de2144ba0
 workflow-type: tm+mt
-source-wordcount: '392'
+source-wordcount: '406'
 ht-degree: 8%
 
 ---
@@ -57,6 +57,9 @@ ht-degree: 8%
      *자격을 갖춘 리드를 연결하여 판매 에이전트와 즉시 교류하십시오.*
    * **[잠재 고객을 활성화하여 판매 업체와의 회의를 예약하십시오.](meeting-booking.md)**
      *영업 팀과의 연계 가속화 [!DNL target] 모임 예약 기능이 있는 계정.*
+* 생성 AI 채팅
+   * **[GenAI 기반의 대화 추진](gen-ai-features.md)**
+     *Dynamic Chat GenAI 기능을 사용하는 방법에 대해 알아봅니다.*
 * Analytics
    * **[참여 보고서](engagement-report.md)**
      *웹 방문자가 대화 상자에 참여하는 방식의 트렌드를 확인합니다*
