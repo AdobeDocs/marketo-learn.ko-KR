@@ -6,10 +6,10 @@ role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: b598324c7361191dce365157abbe9a2e45739820
+source-git-commit: 1b43db90dcd3d8427a53b1aed861c2886e8b6d9a
 workflow-type: tm+mt
-source-wordcount: '406'
-ht-degree: 8%
+source-wordcount: '439'
+ht-degree: 7%
 
 ---
 
@@ -52,6 +52,8 @@ ht-degree: 8%
      *웹 사이트 방문자가 양식을 작성한 후 즉시 참여하는 방법을 알아봅니다.*
    * **[대화 SDK](conversations-sdk.md)**
      *CTA 클릭을 매력적인 대화로 전환하기 위해 대화 SDK를 구현하는 방법에 대해 알아봅니다.*
+   * **[대화형 랜딩 페이지](conversational-landing-pages.md)**
+     *몇 번의 클릭만으로 Dynamic Chat 대화 흐름을 랜딩 페이지(Marketo 랜딩 페이지 또는 사용자 지정)에 설치하고 모든 링크 또는 버튼을 변환하여 대화 참여를 트리거할 수 있습니다.*
 * 라이브 채팅 및 모임 예약
    * **[방문자를 라이브 에이전트에 연결](connect-visitors-to-live-agents.md)**
      *자격을 갖춘 리드를 연결하여 판매 에이전트와 즉시 교류하십시오.*
@@ -63,4 +65,3 @@ ht-degree: 8%
 * Analytics
    * **[참여 보고서](engagement-report.md)**
      *웹 방문자가 대화 상자에 어떻게 참여하는지에 대한 트렌드를 확인합니다.*
-
