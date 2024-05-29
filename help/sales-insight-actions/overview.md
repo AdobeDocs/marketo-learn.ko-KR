@@ -6,9 +6,9 @@ role: User, Admin, Leader
 level: Beginner, Intermediate, Experienced
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
 feature: Sales Insight Actions
-source-git-commit: 433b00dc5dc1b7dde2931c6b9eaa8a403eae2415
+source-git-commit: 063ac280987d4a2b68245f51cde1199ea93319df
 workflow-type: tm+mt
-source-wordcount: '277'
+source-wordcount: '158'
 ht-degree: 0%
 
 ---
@@ -18,10 +18,6 @@ ht-degree: 0%
 ![](assets/header.png)
 
 사용 [!UICONTROL Sales Insight 작업] 단일 워크플로우에서 마케팅 기반의 인텔리전스 및 참여 도구를 함께 사용하여 잠재 고객 확보를 가속화합니다.
-
->[!AVAILABILITY]
->
->이 기능은 현재 단계적 롤아웃 상태입니다. Customer Success Manager에게 문의하거나 이메일을 보내주십시오. `sales-insights(at)adobe(dot)com` 액세스 권한 요청.
 
 ## 특별 포함된 Tutorials {#featured-tutorials}
 
@@ -63,11 +59,3 @@ ht-degree: 0%
 </td>
 </tr>
 </table>
-
-## 맞춤형 지원 {#personalized-support}
-
-이 기능에 대한 맞춤형 지원을 받으려면 다음을 수행하십시오. [호출 예약](https://outlook.office365.com/owa/calendar/AdobeInc1@adobe.onmicrosoft.com/bookings/) 제품 팀과 함께 사용할 수 있습니다.
-
-## 버그/피드백 보고 {#report-a-bug-feedback}
-
-버그가 발생하거나 이 기능에 대한 일반적인 피드백이 있는 경우 다음 주소로 이메일을 보내주십시오. `sales-insights(at)adobe(dot)com`.
