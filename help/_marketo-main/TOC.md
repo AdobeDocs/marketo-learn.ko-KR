@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 02c297e50ae5ba663afe024766877e72ed94fceb
+source-git-commit: 71f6ec1f4dd2c5a0a2d0c1959da7a78002644edb
 workflow-type: tm+mt
-source-wordcount: '365'
+source-wordcount: '370'
 ht-degree: 7%
 
 ---
@@ -17,6 +17,7 @@ ht-degree: 7%
 + 기본 사항 {#fundamentals}
    + [목표 및 전략](/help/fundamentals/goals-and-strategy-learn.md)
    + [조직 구조](/help/fundamentals/organizational-structure-learn.md)
+   + [Adobe Identity Management으로 마이그레이션](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [콘텐츠 마케팅](/help/fundamentals/content-marketing-learn.md)
    + [구매자 가상 사용자](/help/fundamentals/buyer-personas-learn.md)
    + [프로그램 및 캠페인](/help/fundamentals/programs-and-campaigns.md)
