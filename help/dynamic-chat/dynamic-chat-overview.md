@@ -1,15 +1,16 @@
 ---
 title: Dynamic Chat 자습서
 description: Adobe Experience League의 Dynamic Chat에 대해 알아봅니다. 이들 튜토리얼과 설명서를 통해 Dynamic Chat를 사용하여 맞춤형 대화를 만드는 방법에 대한 이해를 높이십시오.
+short-description: 제품 설명서와 함께 이 튜토리얼을 사용하여 Dynamic Chat이 제공하는 다양한 기능에 대한 이해를 높이십시오.
 doc-type: overview-page
 role: User
 level: Beginner
 exl-id: 3dadcf5d-1a06-44d2-839a-99ac1dbc2eae
 feature: Dynamic Chat
-source-git-commit: 02c297e50ae5ba663afe024766877e72ed94fceb
+source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
-source-wordcount: '464'
-ht-degree: 7%
+source-wordcount: '486'
+ht-degree: 6%
 
 ---
 
@@ -40,7 +41,7 @@ ht-degree: 7%
      *웹 방문자의 참여를 빠르게 유도하기 위한 대화 상자를 만드는 방법을 알아봅니다. [!UICONTROL Dynamic Chat].*
    * **[대화에 PDF 포함](document-cloud-integration.md)**
      *내가 디자인하는 개인화된 대화 내에서 PDF 문서 공유 [!UICONTROL Dynamic Chat].*
-   * **[스트림 디자이너에서 검색](search-in-stream-designer.md)**
+   * **[스트림 Designer에서 검색](search-in-stream-designer.md)**
      *빠른 검색은 한 번의 클릭으로 스트림 디자이너의 카드에 액세스하는 데 도움이 될 수 있습니다.*
    * **[유추한 속성 캡처](capture-inferred-attributes.md)**
      *Munchkin ID를 활용하여 Dynamic Chat을 통해 캡처된 모든 리드에 대해 유추된 속성을 식별하고 채울 수 있습니다.*
