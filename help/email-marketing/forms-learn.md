@@ -1,6 +1,6 @@
 ---
 title: 양식 만들기 및 편집에 대해 알아보기
-description: 사용 [!DNL Marketo forms] 잠재 고객이 웹 사이트를 방문할 때 개인 데이터를 점진적으로 캡처합니다.
+description: 잠재 고객이 웹 사이트를 방문할 때  [!DNL Marketo forms] 을(를) 사용하여 점진적으로 개인 데이터를 캡처합니다.
 role: User
 level: Beginner
 jira: KT-10755
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 양식 만들기 및 편집에 대해 알아보기
 
-사용 [!DNL Marketo forms] 잠재 고객이 웹 사이트를 방문할 때 개인 데이터를 점진적으로 캡처합니다.
+잠재 고객이 웹 사이트를 방문할 때 [!DNL Marketo forms]을(를) 사용하여 점진적으로 개인 데이터를 캡처합니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345474/?quality=12&learn=on){transcript=true}

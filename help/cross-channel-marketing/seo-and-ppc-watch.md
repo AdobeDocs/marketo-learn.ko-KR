@@ -1,5 +1,5 @@
 ---
-title: SEO 노력을 최적화하는 방법 [!DNL Marketo]
+title: ' [!DNL Marketo]을(를) 사용하여 SEO 노력을 최적화하는 방법'
 description: SEO 및 PPC 전략을 성공적으로 구축하기 위한 단계를 구현하는 방법을 확인하십시오.
 role: User
 level: Beginner
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# SEO 노력을 최적화하는 방법 [!DNL Marketo]
+# [!DNL Marketo]을(를) 사용하여 SEO 노력을 최적화하는 방법
 
 SEO 및 PPC 전략을 성공적으로 구축하기 위한 단계를 구현하는 방법을 확인하십시오.
 

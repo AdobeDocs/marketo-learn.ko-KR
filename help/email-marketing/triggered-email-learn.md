@@ -1,6 +1,6 @@
 ---
 title: 트리거된 이메일 캠페인 만들기에 대해 알아보기
-description: 사용 방법 알아보기 [!DNL Marketo] 촉발 이메일 캠페인을 사용하여 적시에 적절한 메시지를 보내어 구매자의 행동을 이용합니다.
+description: ' [!DNL Marketo] 을(를) 사용하여 적시에 적절한 메시지를 보내는 트리거된 이메일 캠페인을 사용하여 구매자 행동을 활용하는 방법을 알아봅니다.'
 role: User
 level: Beginner
 jira: KT-10762
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 트리거된 이메일 캠페인 만들기에 대해 알아보기
 
-사용 방법 알아보기 [!DNL Marketo] 촉발 이메일 캠페인을 사용하여 적시에 적절한 메시지를 보내어 구매자의 행동을 이용합니다.
+[!DNL Marketo]을(를) 사용하여 적시에 적절한 메시지를 보내는 트리거된 이메일 캠페인을 사용하여 구매자 행동을 활용하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345479/?quality=12&learn=on){transcript=true}

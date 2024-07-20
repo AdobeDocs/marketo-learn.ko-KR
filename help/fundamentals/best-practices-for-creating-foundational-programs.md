@@ -11,7 +11,7 @@ feature: Programs
 exl-id: 2b850b08-3e9d-4bfb-8ac1-21fd9bdeaf83
 source-git-commit: b614aa134ee0ccbbfd70c6ab73339287d6ebb27a
 workflow-type: tm+mt
-source-wordcount: '148'
+source-wordcount: '99'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ ht-degree: 0%
 
 * [프로그램 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html)
 * [프로그램 만들기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/create-a-program.html)
-* [모범 사례: 프로그램 구성 방법](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html)
+* [모범 사례: 프로그램을 구성하는 방법](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs.html)
 * [프로그램 가져오기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program.html)
 * [태그 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html)
 * [잠재 고객 점수에 대한 확실한 가이드](https://business.adobe.com/resources/guides/lead-scoring.html)

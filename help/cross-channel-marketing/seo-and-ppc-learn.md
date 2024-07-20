@@ -1,5 +1,5 @@
 ---
-title: 을 통해 SEO 작업 최적화에 대해 알아봅니다. [!DNL Marketo]
+title: ' [!DNL Marketo]을(를) 통해 SEO 작업 최적화에 대해 알아보기'
 description: 당신의 웹사이트가 수백 개의 검색 결과에서 유실되고 있습니까? SEO 및 PPC 전략을 개선하여 브랜드 가시성을 높이는 방법에 대해 알아봅니다.
 role: User
 level: Beginner
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# 을 통해 SEO 작업 최적화에 대해 알아봅니다. [!DNL Marketo]
+# [!DNL Marketo]을(를) 통해 SEO 작업 최적화에 대해 알아보기
 
 당신의 웹사이트가 수백 개의 검색 결과에서 유실되고 있습니까? SEO 및 PPC 전략을 개선하여 브랜드 가시성을 높이는 방법에 대해 알아봅니다.
 

@@ -30,7 +30,7 @@ ht-degree: 0%
 
 * [스마트 캠페인 설명서 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
 
-**Expert Customer 블로그 게시물:**
+**전문 고객 블로그 게시물:**
 
-* [Smart Campaigns 101: Adobe Marketo Engage의 가장 강력한 기능에 대해 자세히 알아봅니다.](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
+* [스마트 캠페인 101: Adobe Marketo Engage의 가장 강력한 기능에 대해 자세히 알아봅니다](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
 * [Marketo 성공 시리즈: 스마트 캠페인](https://nation.marketo.com/t5/product-blogs/marketo-success-series-smart-campaigns/ba-p/306961)

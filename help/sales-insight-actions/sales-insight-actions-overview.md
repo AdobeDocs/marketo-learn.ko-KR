@@ -20,5 +20,5 @@ Sales Insight Actions 을 사용하여 단일 워크플로우에서 마케팅 �
 
 ## 관련 비디오
 
-* [영업 활동 로깅 구성 대상 [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
-* [액세스 [!DNL Sales Insight Actions] 인스턴스](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
+* [판매 활동 로깅 구성 [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
+* [인스턴스  [!DNL Sales Insight Actions] 액세스](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}

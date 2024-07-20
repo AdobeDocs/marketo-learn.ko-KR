@@ -1,6 +1,6 @@
 ---
-title: 동기화에 대해 알아보기 [!DNL Marketo] CRM에
-description: 포함 [!DNL Marketo] CRM 동기화 를 사용하면 관련 정보를 서로 원활하게 공유하여 마케팅 및 판매 활동을 조정할 수 있습니다 [!DNL Marketo] 및 CRM입니다. 동기화에 대해 알아보기 [!DNL Marketo] CRM에 연결합니다.
+title: ' [!DNL Marketo] 을(를) CRM과 동기화하는 방법에 대해 알아보기'
+description: ' [!DNL Marketo] CRM 동기화를 통해  [!DNL Marketo] 과(와) CRM 간에 관련 정보를 원활하게 공유하여 마케팅 및 판매 활동을 조정할 수 있습니다.  [!DNL Marketo] 을(를) CRM과 동기화하는 방법에 대해 알아봅니다.'
 role: User
 level: Beginner
 jira: KT-10744
@@ -14,8 +14,8 @@ ht-degree: 0%
 
 ---
 
-# 동기화에 대해 알아보기 [!DNL Marketo] CRM에
+# [!DNL Marketo]을(를) CRM과 동기화하는 방법에 대해 알아보기
 
-포함 [!DNL Marketo] CRM 동기화 를 사용하면 관련 정보를 서로 원활하게 공유하여 마케팅 및 판매 활동을 조정할 수 있습니다 [!DNL Marketo] 및 CRM입니다. 동기화에 대해 알아보기 [!DNL Marketo] CRM에 연결합니다.
+[!DNL Marketo] CRM 동기화를 사용하면 [!DNL Marketo]과(와) CRM 간에 관련 정보를 원활하게 공유하여 마케팅 및 판매 활동을 조정할 수 있습니다. [!DNL Marketo]을(를) CRM과 동기화하는 방법에 대해 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345428/?quality=12&learn=on){transcript=true}

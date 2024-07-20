@@ -9,7 +9,7 @@ exl-id: 17525478-7f0e-4aaa-8fb8-af9f966b0c4f
 feature: Programs
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '65'
+source-wordcount: '54'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ ht-degree: 0%
 
 이메일 프로그램에 대한 자세한 내용은 제품 안내서 를 참조하십시오.
 
-* [이메일 프로그램 이해 설명서](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
+* [전자 메일 프로그램 설명서 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)

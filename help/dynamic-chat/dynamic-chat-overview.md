@@ -18,53 +18,53 @@ ht-degree: 6%
 
 ![](assets/dynamic-chat-header.png)
 
-시작: [!UICONTROL Dynamic Chat]  튜토리얼 사이트입니다. 이 튜토리얼과 설명서를 함께 사용하여 사용 방법에 대한 이해를 높이십시오 [!UICONTROL Dynamic Chat]  개인화된 대화를 만들 수 있습니다. 다음 항목은 시작하는 데 도움이 됩니다.
+[!UICONTROL Dynamic Chat] 튜토리얼 사이트에 오신 것을 환영합니다. 이 튜토리얼과 설명서를 통해 [!UICONTROL Dynamic Chat]을(를) 사용하여 맞춤형 대화를 만드는 방법에 대한 이해를 높이십시오. 다음 항목은 시작하는 데 도움이 됩니다.
 
 * 개요
    * **[빠른 제품 둘러보기 [2023]](product-tour.md)**
-     *2023년에 출시된 모든 새로운 기능에 대한 개요를 살펴보십시오.*
+     *2023년에 출시된 모든 새로운 기능에 대한 개요를 확인하세요.*
    * **[빠른 제품 둘러보기 [2022]](product-tour.md)**
-     *전체 제품에 대한 개요를 확인하고 을 활용하는 방법을 알아봅니다. [!UICONTROL Dynamic Chat].*
-   * **[15분 후 실행](go-live-in-15-minutes.md)**
-     *을 사용하여 첫 번째 대화 상자를 시작하는 데 도움이 되는 단계별 안내서입니다. [!UICONTROL Dynamic Chat]  15분 안에!*
+     *전체 제품에 대한 개요를 확인하고 [!UICONTROL Dynamic Chat]을 활용하는 방법을 알아보세요.*
+   * **[15분 후에 실행](go-live-in-15-minutes.md)**
+     *15분 안에 [!UICONTROL Dynamic Chat]을 사용하여 첫 번째 대화 상자를 시작하는 데 도움이 되는 단계별 안내서입니다!*
 * 설정
    * **[챗봇 설정 및 설치](setup.md)**
-     *을(를) 설정하는 단계 알아보기 [!UICONTROL Dynamic Chat]  구독.*
-   * **[과 Marketo 통합 활성화 [!UICONTROL Dynamic Chat]](marketo-integration.md)**
-     *대화를 통해 웹 방문자를 타겟팅하고 Marketo의 잠재 고객 정보를 통해 개인화합니다.*
-   * **[사용자 추가 및 관리 [!UICONTROL Dynamic Chat]](user-management.md)**
-     *에서 사용자를 추가 또는 관리하는 방법 알아보기 [!UICONTROL Dynamic Chat] .*
+     *[!UICONTROL Dynamic Chat] 구독을 설정하는 단계를 알아봅니다.*
+   * **[[!UICONTROL Dynamic Chat]](marketo-integration.md)**와(과) Marketo 통합 활성화
+     *웹 방문자를 대상으로 대화를 나누고 Marketo의 잠재 고객 정보를 사용하여 개인화합니다.*
+   * **[[!UICONTROL Dynamic Chat]](user-management.md)**의 사용자 추가 및 관리
+     *[!UICONTROL Dynamic Chat]에서 사용자를 추가하거나 관리하는 방법에 대해 알아봅니다.*
    * **[에이전트 관리](agent-management.md)**
-     *에이전트 관리 방법을 알아봅니다.*
+     *에이전트를 관리하는 방법을 알아봅니다.*
 * 자동화된 채팅
-   * **[맞춤형 대화 상자 생성 및 관리](dialogue-management.md)**
-     *웹 방문자의 참여를 빠르게 유도하기 위한 대화 상자를 만드는 방법을 알아봅니다. [!UICONTROL Dynamic Chat].*
+   * **[개인 맞춤화된 대화 상자 만들기 및 관리](dialogue-management.md)**
+     *웹 방문자를 [!UICONTROL Dynamic Chat].*(으)로 빠르게 참여시키기 위한 대화 상자를 만드는 방법을 알아봅니다.
    * **[대화에 PDF 포함](document-cloud-integration.md)**
-     *내가 디자인하는 개인화된 대화 내에서 PDF 문서 공유 [!UICONTROL Dynamic Chat].*
+     *PDF 문서를 [!UICONTROL Dynamic Chat]에서 디자인한 개인 맞춤화된 대화 내에서 공유합니다.*
    * **[스트림 Designer에서 검색](search-in-stream-designer.md)**
-     *빠른 검색은 한 번의 클릭으로 스트림 디자이너의 카드에 액세스하는 데 도움이 될 수 있습니다.*
-   * **[유추한 속성 캡처](capture-inferred-attributes.md)**
-     *Munchkin ID를 활용하여 Dynamic Chat을 통해 캡처된 모든 리드에 대해 유추된 속성을 식별하고 채울 수 있습니다.*
-   * **[대화 상자 미리보기](dialogue-preview.md)**
-     *대화 상자 미리보기 기능을 사용하면 게시하기 전에 대화 상자를 미리 볼 수 있습니다.*
+     *빠른 검색을 통해 한 번의 클릭으로 스트림 디자이너의 모든 카드에 액세스할 수 있습니다.*
+   * **[유추 특성 캡처](capture-inferred-attributes.md)**
+     *Munchkin ID를 활용하여 Dynamic Chat을 통해 캡처된 모든 잠재 고객에 대해 유추된 특성을 식별하고 채울 수 있습니다.*
+   * **[대화 상자 미리 보기](dialogue-preview.md)**
+     *게시 전에 대화 상자를 미리 보는 것은 대화 상자 미리 보기 기능을 통해 매우 쉽습니다.*
    * **[정적 콘텐츠의 전역화](globalization-of-static-content.md)**
-     *원하는 언어로 정적/시스템 콘텐츠를 개인화할 수 있습니다.*
+     *선택한 언어로 정적/시스템 콘텐츠를 개인화할 수 있습니다.*
    * **[대화형 Forms](conversational-forms.md)**
-     *웹 사이트 방문자가 양식을 작성한 후 즉시 참여하는 방법을 알아봅니다.*
+     *웹 사이트 방문자가 양식을 작성한 후 바로 참여하는 방법을 알아봅니다.*
    * **[대화 SDK](conversations-sdk.md)**
      *CTA 클릭을 매력적인 대화로 전환하기 위해 대화 SDK를 구현하는 방법에 대해 알아봅니다.*
-   * **[재사용 가능한 플로우](reusable-flows.md)**
+   * **[재사용 가능한 흐름](reusable-flows.md)**
      *새로운 대화 흐름 카드를 사용하여 대화 디자인 및 관리를 간소화합니다. 대화 스트림을 한 번 만든 후 여러 대화 상자로 다시 사용합니다.*
    * **[대화형 랜딩 페이지](conversational-landing-pages.md)**
-     *몇 번의 클릭만으로 Dynamic Chat 대화 흐름을 랜딩 페이지(Marketo 랜딩 페이지 또는 사용자 지정)에 설치하고 모든 링크 또는 버튼을 변환하여 대화 참여를 트리거할 수 있습니다.*
+     *몇 번의 클릭만으로 Dynamic Chat 대화 흐름을 랜딩 페이지(Marketo 랜딩 페이지 또는 사용자 지정)에 설치하고 모든 링크나 단추를 변환하여 대화 참여를 트리거할 수 있습니다.*
 * 라이브 채팅 및 모임 예약
-   * **[방문자를 라이브 에이전트에 연결](connect-visitors-to-live-agents.md)**
+   * **[방문자를 실시간 에이전트에 연결](connect-visitors-to-live-agents.md)**
      *자격을 갖춘 리드를 연결하여 판매 에이전트와 즉시 교류하십시오.*
-   * **[잠재 고객을 활성화하여 판매 업체와의 회의를 예약하십시오.](meeting-booking.md)**
-     *영업 팀과의 연계 가속화 [!DNL target] 모임 예약 기능이 있는 계정.*
+   * **[잠재 고객을 판매자와의 북 모임에 사용하도록 설정](meeting-booking.md)**
+     *모임 예약 기능이 있는 [!DNL target] 계정의 매출에 대한 연결을 가속화하세요.*
 * 생성 AI 채팅
    * **[GenAI 기반의 대화 추진](gen-ai-features.md)**
-     *Dynamic Chat GenAI 기능을 사용하는 방법에 대해 알아봅니다.*
+     *Dynamic Chat GenAI 기능을 사용하는 방법을 알아봅니다.*
 * Analytics
    * **[참여 보고서](engagement-report.md)**
-     *웹 방문자가 대화 상자에 어떻게 참여하는지에 대한 트렌드를 확인합니다.*
+     *웹 방문자의 대화 참여 트렌드를 확인하세요.*

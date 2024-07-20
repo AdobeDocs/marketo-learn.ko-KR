@@ -26,4 +26,4 @@ ht-degree: 0%
 
 * [대화 상자 미리보기](dialogue-preview.md)
 * [맞춤형 대화 상자 생성 및 관리](dialogue-management.md)
-* [과 Marketo 통합 활성화 [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [[!UICONTROL Dynamic Chat]와(과) Marketo 통합 활성화](marketo-integration.md)

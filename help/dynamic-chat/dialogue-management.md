@@ -22,6 +22,6 @@ ht-degree: 0%
 
 ## 더 유용한 비디오
 
-* [사용자 추가 및 관리 [!UICONTROL Dynamic Chat]](user-management.md)
+* [[!UICONTROL Dynamic Chat]의 사용자 추가 및 관리](user-management.md)
 * [Dynamic Chat과 Marketo 통합 활성화](marketo-integration.md)
 * [잠재 고객을 활성화하여 판매 업체와의 회의를 예약하십시오.](meeting-booking.md)

@@ -10,13 +10,13 @@ doc-type: Feature Video
 last-substantial-update: 2023-10-17T00:00:00Z
 jira: KT-14113
 thumbnail: 3424719.jpeg
-source-git-commit: d7daf2d9664baafeafd887d27cf412d7a183dd76
+exl-id: 2a88c233-ef13-47da-ae2a-5f0ace7a07e5
+source-git-commit: 681d390ce5ab336a7e24cc63256659a492288517
 workflow-type: tm+mt
-source-wordcount: '286'
+source-wordcount: '211'
 ht-degree: 0%
 
 ---
-
 
 # Salesforce 동기화 시작
 
@@ -32,9 +32,9 @@ Marketo Engage과 Salesforce가 함께 판매와 마케팅 데이터를 동기�
 
 * [Salesforce에서 Marketo 사용자 만들기(Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited.html)
 
-* [Marketo 및 Salesforce 연결(Enterprise/Unlimited)](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.html)
+* [Marketo 및 Salesforce(Enterprise/Unlimited) 연결](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-3-of-3-connect-marketo-and-salesforce-enterprise-unlimited.html)
 
-* [사용자는 Marketo 및 Salesforce 동기화로 진행하기 전에 Salesforce 측에서 연결된 앱을 설정해야 합니다.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.html)
+* [사용자가 Marketo 및 Salesforce 동기화로 진행하기 전에 Salesforce 측에서 연결된 앱을 설정해야 합니다.](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/log-in-using-oauth-2-0.html)
 
 * [Salesforce 동기화 상태](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-status.html)
 

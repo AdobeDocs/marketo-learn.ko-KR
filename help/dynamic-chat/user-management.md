@@ -14,14 +14,14 @@ ht-degree: 0%
 
 ---
 
-# 사용자 추가 및 관리 [!UICONTROL Dynamic Chat]
+# [!UICONTROL Dynamic Chat]의 사용자 추가 및 관리
 
-관리 [!UICONTROL Dynamic Chat]  Adobe Admin Console을 통한 사용자.
+Adobe Admin Console을 통해 [!UICONTROL Dynamic Chat] 사용자를 관리하십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340249/?quality=12&learn=on){transcript=true}
 
 ## 더 유용한 비디오
 
 * [맞춤형 대화 상자 생성 및 관리](dialogue-management.md)
-* [과 Marketo 통합 활성화 [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [[!UICONTROL Dynamic Chat]와(과) Marketo 통합 활성화](marketo-integration.md)
 * [잠재 고객을 활성화하여 판매 업체와의 회의를 예약하십시오.](meeting-booking.md)

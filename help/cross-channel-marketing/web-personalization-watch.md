@@ -1,6 +1,6 @@
 ---
 title: 웹 개인화를 통해 방문자를 유도하는 방법
-description: 연결 방법 보기 [!DNL Marketo] 디지털 광고 LaunchPoint 파트너 몇 명에게
+description: 여러 디지털 광고 LaunchPoint 파트너에  [!DNL Marketo] 연결하는 방법을 살펴보십시오.
 role: User
 level: Beginner
 jira: KT-10726
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 웹 개인화를 통해 방문자를 유도하는 방법
 
-연결 방법 보기 [!DNL Marketo] 디지털 광고 LaunchPoint 파트너 몇 명에게
+[!DNL Marketo]을(를) 여러 디지털 광고 LaunchPoint 파트너에 연결하는 방법을 살펴보십시오.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345404/?quality=12&learn=on){transcript=true}

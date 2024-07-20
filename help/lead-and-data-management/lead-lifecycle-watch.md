@@ -1,6 +1,6 @@
 ---
 title: 개인 라이프사이클 프로그램을 작성하는 방법
-description: 만들기 [!UICONTROL 개인 라이프사이클] 프로그램 상태를 사용하여 가망 고객을 추적하고 판매 준비가 된 해당 가망 고객에 대해 행동하는 프로그램
+description: 프로그램 상태를 사용하여 잠재 고객을 추적하고 판매 준비가 된 잠재 고객에 대해 행동하는 [!UICONTROL 개인 주기] 프로그램을 만듭니다.
 role: User
 level: Beginner
 jira: KT-10739
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 개인 라이프사이클 프로그램을 작성하는 방법
 
-만들기 [!UICONTROL 개인 라이프사이클] 프로그램 상태를 사용하여 가망 고객을 추적하고 판매 준비가 된 해당 가망 고객에 대해 행동하는 프로그램
+프로그램 상태를 사용하여 잠재 고객을 추적하고 판매 준비가 된 잠재 고객에 대해 행동하는 [!UICONTROL 개인 주기] 프로그램을 만듭니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345423/?quality=12&learn=on){transcript=true}

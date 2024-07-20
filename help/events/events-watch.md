@@ -9,7 +9,7 @@ exl-id: 0cf8cd90-04eb-486b-aea6-10c6b8f62298
 feature: Programs, Events
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '80'
+source-wordcount: '69'
 ht-degree: 0%
 
 ---
@@ -24,4 +24,4 @@ Marketo의 사전 설치된 프로그램을 기반으로 하는 박람회 이벤
 
 이벤트 프로그램을 만드는 방법에 대한 자세한 내용은 제품 안내서 를 참조하십시오.
 
-* [새 이벤트 프로그램 만들기 설명서](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=en)
+* [새 이벤트 프로그램 설명서 만들기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/create-a-new-event-program.html?lang=en)

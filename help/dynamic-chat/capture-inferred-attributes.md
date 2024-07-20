@@ -24,6 +24,6 @@ Dynamic Chat은 동일한 Adobe Marketo Engage munchkin 쿠키를 사용하므�
 
 ## 더 유용한 비디오
 
-* [사용자 추가 및 관리 [!UICONTROL Dynamic Chat]](user-management.md)
+* [[!UICONTROL Dynamic Chat]의 사용자 추가 및 관리](user-management.md)
 * [맞춤형 대화 상자 생성 및 관리](dialogue-management.md)
-* [과 Marketo 통합 활성화 [!UICONTROL Dynamic Chat]](marketo-integration.md)
+* [[!UICONTROL Dynamic Chat]와(과) Marketo 통합 활성화](marketo-integration.md)

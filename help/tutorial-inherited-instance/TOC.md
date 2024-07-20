@@ -9,8 +9,8 @@ level: Beginner
 auto-video-transcripts: true
 source-git-commit: c2b949e268e66a0d85c251658a49048e451fac1e
 workflow-type: tm+mt
-source-wordcount: '84'
-ht-degree: 3%
+source-wordcount: '77'
+ht-degree: 0%
 
 ---
 
@@ -23,4 +23,4 @@ ht-degree: 3%
 + [인스턴스 거버넌스 안내서 개발](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)
 + [마케팅 기술 스택을 시각적으로 매핑](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
 + [프로그램 출시 전 품질 보증 프로세스](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)
-+ [Marketo Engage 튜토리얼](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)
++ [Marketo Engage Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=en)

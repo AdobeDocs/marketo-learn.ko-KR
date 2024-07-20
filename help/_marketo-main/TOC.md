@@ -14,7 +14,7 @@ ht-degree: 7%
 # [!DNL Marketo Engage] 튜토리얼 {#tutorials}
 
 + [[!DNL Marketo Engage] 튜토리얼](/help/_marketo-main/overview.md)
-+ 기본 사항 {#fundamentals}
++ 기본 {#fundamentals}
    + [목표 및 전략](/help/fundamentals/goals-and-strategy-learn.md)
    + [조직 구조](/help/fundamentals/organizational-structure-learn.md)
    + [Adobe Identity Management으로 마이그레이션](/help/fundamentals/migrating-to-adobe-identity-management.md)
@@ -58,7 +58,7 @@ ht-degree: 7%
    + [트리거된 이메일 둘러보기](/help/email-marketing/triggered-email-watch.md)
    + [납 육성](/help/email-marketing/lead-nuturing-learn.md)
    + [동적 및 예측 콘텐츠](/help/email-marketing/dynamic-and-predictive-content-learn.md)
-   + [이메일 보트 활동 필터링 - 설정](/help/filtering-email-bot-activities/setup.md)
+   + [전자 메일 보트 활동 필터링 - 설정](/help/filtering-email-bot-activities/setup.md)
 + 크로스 채널 마케팅 {#cross-channel-marketing}
    + [Forms 둘러보기](/help/email-marketing/forms-watch.md)
    + [모바일 마케팅 통합](/help/cross-channel-marketing/mobile-marketing-learn.md)
@@ -80,7 +80,7 @@ ht-degree: 7%
    + [에이전트 관리](/help/dynamic-chat/agent-management.md)
    + [대화 상자 관리](/help/dynamic-chat/dialogue-management.md)
    + [대화에 PDF 포함](/help/dynamic-chat/document-cloud-integration.md)
-   + [스트림 디자이너에서 검색](/help/dynamic-chat/search-in-stream-designer.md)
+   + [스트림 Designer에서 검색](/help/dynamic-chat/search-in-stream-designer.md)
    + [유추한 속성 캡처](/help/dynamic-chat/capture-inferred-attributes.md)
    + [대화 상자 미리보기](/help/dynamic-chat/dialogue-preview.md)
    + [정적 콘텐츠의 전역화](/help/dynamic-chat/globalization-of-static-content.md)
@@ -96,7 +96,7 @@ ht-degree: 7%
    + [개요](/help/sales-insight-actions/overview.md)
    + [Sales Insight 작업 개요](/help/sales-insight-actions/sales-insight-actions-overview.md)
    + [Sales Insight Actions 인스턴스 액세스](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [영업 활동 로깅 구성 대상 [!DNL Salesforce]](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
+   + [ [!DNL Salesforce](으)로 영업 활동 로깅 구성](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + 리드 및 데이터 관리 {#lead-and-data-management}
    + [잠재 고객 / 개인 점수 책정](/help/lead-and-data-management/lead-scoring-learn.md)
    + [잠재 고객/개인 점수 책정 둘러보기](/help/lead-and-data-management/lead-scoring-watch.md)
@@ -123,4 +123,4 @@ ht-degree: 7%
    + [보고 및 분석](/help/reporting/reporting-and-analytics.md)
    + [주요 보고서](/help/reporting/key-reports.md)
 + 통합 {#integrations}
-   + [Marketo과 Real-time Customer Data Platform](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+   + [Real-time Customer Data Platform이 포함된 Marketo](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)

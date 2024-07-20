@@ -1,6 +1,6 @@
 ---
-title: 영업 활동 로깅 구성 대상 [!DNL Salesforce]
-description: 영업 활동 로깅 구성 대상 [!DNL Salesforce]
+title: ' [!DNL Salesforce](으)로 영업 활동 로깅 구성'
+description: ' [!DNL Salesforce](으)로 영업 활동 로깅 구성'
 role: User
 level: Beginner
 exl-id: a48410aa-cd68-46b2-bd52-1a7253470e74
@@ -12,13 +12,13 @@ ht-degree: 0%
 
 ---
 
-# 영업 활동 로깅 구성 대상 [!DNL Salesforce] {#configure-sales-activity-logging-to-salesforce}
+# 영업 활동 로깅을 [!DNL Salesforce](으)로 구성 {#configure-sales-activity-logging-to-salesforce}
 
-Sales Insight Actions 활동을 구성하고 로그에 기록하는 방법을 알아봅니다. [!DNL Salesforce] 계정입니다.
+Sales Insight Actions 활동을 구성하고 [!DNL Salesforce] 계정에 기록하는 방법을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on){transcript=true}
 
 ## 관련 비디오
 
-* [Sales Insight Actions 개요](/help/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
-* [액세스 [!DNL Sales Insight Actions] 인스턴스](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
+* [판매 통찰력 작업 개요](/help/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
+* [인스턴스  [!DNL Sales Insight Actions] 액세스](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}

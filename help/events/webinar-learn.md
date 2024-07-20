@@ -1,6 +1,6 @@
 ---
 title: 웨비나 프로그램 만들기 및 실행에 대해 알아보기
-description: 마케팅 활동의 일부로 웨비나를 실행할 준비가 되셨습니까? 웨비나 작동 방식 알아보기 [!DNL Marketo Engage] 및 Adobe Exchange 웨비나 파트너를 통해 제공됩니다.
+description: 마케팅 활동의 일부로 웨비나를 실행할 준비가 되셨습니까? 웨비나  [!DNL Marketo Engage]  및 해당 Adobe Exchange 웨비나 파트너와 함께 작업하는 방법을 알아봅니다.
 role: User
 level: Beginner
 jira: KT-10758
@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # 웨비나 프로그램 만들기 및 실행에 대해 알아보기
 
-마케팅 활동의 일부로 웨비나를 실행할 준비가 되셨습니까? 웨비나 작동 방식 알아보기 [!DNL Marketo Engage] 및 Adobe Exchange 웨비나 파트너를 통해 제공됩니다.
+마케팅 활동의 일부로 웨비나를 실행할 준비가 되셨습니까? 웨비나가 [!DNL Marketo Engage] 및 해당 Adobe Exchange 웨비나 파트너와 함께 작동하는 방식을 알아봅니다.
 
 >[!VIDEO](https://video.tv.adobe.com/v/345476/?quality=12&learn=on){transcript=true}

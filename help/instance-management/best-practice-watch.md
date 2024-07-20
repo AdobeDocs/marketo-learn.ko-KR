@@ -1,5 +1,5 @@
 ---
-title: 사용 방법 [!DNL Marketo] 인스턴스 및 프로그램 모범 사례
+title: ' [!DNL Marketo] 인스턴스 및 프로그램 모범 사례를 사용하는 방법'
 description: Marketo에서 Marketo의 제안된 프로그램 및 인스턴스 모범 사례를 구현하는 방법을 확인하십시오.
 role: User
 level: Beginner
@@ -15,7 +15,7 @@ ht-degree: 0%
 
 ---
 
-# 사용 방법 [!DNL Marketo] 인스턴스 및 프로그램 모범 사례
+# [!DNL Marketo] 인스턴스 및 프로그램 모범 사례를 사용하는 방법
 
 Marketo에서 Marketo의 제안된 프로그램 및 인스턴스 모범 사례를 구현하는 방법을 확인하십시오.
 

@@ -1,7 +1,7 @@
 ---
 source-git-commit: 63d4aea1c818d35724c0cdc14e69ea00eb06b4a0
 workflow-type: tm+mt
-source-wordcount: '103'
+source-wordcount: '76'
 ht-degree: 0%
 
 ---
@@ -15,9 +15,9 @@ ht-degree: 0%
 
 자세한 내용은 관련 제품 안내서를 참조하십시오.
 
-* [프로그램 이해 설명서](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=en)
+* [프로그램 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=en)
 * [스마트 캠페인 설명서 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
 
 스마트 캠페인을 사용하는 방법에 대해 동료로부터 알아보십시오.
 
-* [전문가 고객 블로그 게시물: 스마트 캠페인 101: Adobe Marketo Engage의 가장 강력한 기능에 대해 자세히 알아보기](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
+* [Expert Customer 블로그 게시물: Smart Campaigns 101: Adobe Marketo Engage의 가장 강력한 기능에 대해 자세히 알아보기](https://nation.marketo.com/t5/product-blogs/smart-campaigns-101-a-deep-dive-into-adobe-marketo-engage-s-most/ba-p/313385#M1838)
