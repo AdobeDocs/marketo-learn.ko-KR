@@ -7,9 +7,9 @@ hide: true
 hidefromtoc: true
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 70f6e3cd3e114fd16ddd52f6d1a62fd914788621
+source-git-commit: 38c9ed6825714e5255001bcebae14fcbbeb9dcc1
 workflow-type: tm+mt
-source-wordcount: '1070'
+source-wordcount: '1071'
 ht-degree: 0%
 
 ---
@@ -56,7 +56,7 @@ Marketo Engage 관리자를 위한 이 항목에 대한 자세한 내용은 다�
 
 내부 타임라인에 맞게 **관리자** > **마이그레이션 콘솔** > **사전 마이그레이션**&#x200B;에서 마이그레이션 날짜를 수정할 수 있습니다. 일정 조정 및 [마이그레이션 날짜 수정](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"}의 제한 사항에 대해 자세히 알아보세요.
 
-* 시스템 관리자에게 이메일을 보냅니다.
+#### 시스템 관리자에게 이메일 보내기 {send-an-email to-system-admin}
 
 다음은 시스템 관리자에게 보낼 샘플 이메일입니다. 일반적으로 IT 부서에서 모든 Adobe 라이센스를 관리합니다.
 
@@ -90,7 +90,7 @@ Marketo Engage 구독이 곧 Adobe Identity Management 시스템으로 마이그
 
 `---------------------------------------------------`
 
-* Marketo Engage 사용자에게 이메일을 보냅니다.
+#### Marketo Engage 사용자에게 이메일 보내기 {#send-an-email-to-marketo-engage-users}
 
 다음은 관리자 권한이 없는 Marketo Engage 사용자에게 예정된 마이그레이션을 알리는 데 사용할 수 있는 샘플 이메일입니다.
 
