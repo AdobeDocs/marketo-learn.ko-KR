@@ -7,7 +7,7 @@ hide: true
 hidefromtoc: true
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 7cdfe25c955ef1de485d67dc43440554b2237d40
+source-git-commit: 8c9705b79083fd7b143b88800046180c94d377da
 workflow-type: tm+mt
 source-wordcount: '1053'
 ht-degree: 0%
@@ -130,7 +130,7 @@ i. &#39;초대 수락&#39; 버튼을 클릭하고 Adobe ID를 사용하여 로�
 
 전환기에 협조해 주셔서 감사합니다. 시스템을 안전하게 유지하기 위한 귀사의 이해와 헌신에 감사드립니다.
 
-우수 사례,
+감사합니다.
 
 `[Your Name]`
 
