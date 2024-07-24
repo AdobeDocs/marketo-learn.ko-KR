@@ -1,7 +1,7 @@
 ---
 title: 스마트 캠페인 101
-description: 데이터 표준화 및 자동화된 알림을 위해 스마트 캠페인을 사용하는 방법을 알아봅니다.
-short-description: Marketo Engage이 자동차라면 스마트 캠페인이 엔진입니다. 스마트 캠페인은 생각보다 많은 작업을 수행할 수 있으며, 쉽게 사용할 수 있습니다.
+description: 데이터 표준화 및 자동 경고를 위해 스마트 캠페인을 사용하는 방법에 대해 알아봅니다.
+short-description: Marketo Engage가 자동차라면 Smart Campaign은 자동차의 엔진입니다. 스마트 캠페인은 여러분이 상상하는 것보다 더 많은 일을 수행할 수 있으며 사용을 시작하기도 용이합니다.
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -13,7 +13,7 @@ feature: Smart Campaigns
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
 source-wordcount: '125'
-ht-degree: 0%
+ht-degree: 33%
 
 ---
 

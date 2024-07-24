@@ -1,7 +1,7 @@
 ---
 title: 효과적인 대화형 웨비나 디자인
-description: 효과적인 대화형 웨비나를 만들고 디자인하는 방법에 대해 알아봅니다
-short-description: 웨비나 이벤트가 매력적이고 기억에 남도록 하기 위한 첫 번째 단계인 효과적인 대화형 웨비나를 디자인하는 방법을 알아봅니다.
+description: 효과적인 대화형 웨비나를 만들고 디자인하는 방법 알아보기
+short-description: 웨비나 이벤트가 흥미롭고 기억에 남을 수 있도록 하는 첫 번째 단계로, 효과적인 대화형 웨비나를 디자인하는 방법을 알아보십시오.
 jira: KT-13352
 thumbnail: 3418602.jpeg
 feature: Events
@@ -11,7 +11,7 @@ exl-id: 927099a4-009b-45d6-9a32-ba685751ba04
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
 source-wordcount: '139'
-ht-degree: 0%
+ht-degree: 21%
 
 ---
 

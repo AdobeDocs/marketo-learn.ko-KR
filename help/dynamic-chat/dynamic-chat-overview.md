@@ -1,7 +1,7 @@
 ---
 title: Dynamic Chat 자습서
 description: Adobe Experience League의 Dynamic Chat에 대해 알아봅니다. 이들 튜토리얼과 설명서를 통해 Dynamic Chat를 사용하여 맞춤형 대화를 만드는 방법에 대한 이해를 높이십시오.
-short-description: 제품 설명서와 함께 이 튜토리얼을 사용하여 Dynamic Chat이 제공하는 다양한 기능에 대한 이해를 높이십시오.
+short-description: 제품 설명서와 함께 이 튜토리얼을 사용하면 Dynamic Chat을 활용할 수 있는 다양한 방법에 대한 이해를 높일 수 있습니다.
 doc-type: overview-page
 role: User
 level: Beginner
@@ -10,7 +10,7 @@ feature: Dynamic Chat
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
 source-wordcount: '486'
-ht-degree: 6%
+ht-degree: 11%
 
 ---
 
