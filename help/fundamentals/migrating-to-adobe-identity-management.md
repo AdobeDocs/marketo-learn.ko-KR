@@ -7,9 +7,9 @@ hide: true
 hidefromtoc: true
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: f6ae52b43770789c24237f0bc664d33541469a50
+source-git-commit: fe760c2fc53b96d5c176de377730bce2e89dbc74
 workflow-type: tm+mt
-source-wordcount: '1089'
+source-wordcount: '1079'
 ht-degree: 0%
 
 ---
@@ -67,7 +67,7 @@ Marketo Engage 관리자를 위한 이 항목에 대한 자세한 내용은 다�
 
 `[IT Administrator/NAME]`님,
 
-Marketo Engage 구독이 곧 Adobe Identity Management 시스템으로 마이그레이션됩니다. [마케팅 운영 팀]은(는) Marketo Engage 사용자에게 미치는 영향을 최소화하기 위해 사용자 마이그레이션이 시작되기 전에 필요한 몇 가지 단계를 완료하는 데 도움이 필요합니다.
+Marketo Engage 구독이 곧 Adobe Identity Management 시스템으로 마이그레이션됩니다. `[Marketing Operation team]`은(는) Marketo Engage 사용자에게 미치는 영향을 최소화하기 위해 사용자 마이그레이션이 시작되기 전에 몇 가지 필요한 단계를 완료하는 데 도움이 필요합니다.
 
 `1.` 조직에서 이미 Adobe Admin Console의 다른 Adobe 제품을 관리하는지, Marketo Engage이 동일한 콘솔로 마이그레이션되는지 확인합니다.
 
@@ -77,7 +77,7 @@ Marketo Engage 구독이 곧 Adobe Identity Management 시스템으로 마이그
 
 `2.` 제목란 &quot;Adobe Marketo Engage `[Package Tier]`에 대한 사용자 액세스를 관리하는 데 필요한 작업&quot;을 사용하여 Adobe에서 전자 메일을 확인합니다. 이 이메일은 Admin Console에 Marketo Engage 라이선스가 프로비저닝된 후 전송되었습니다. 시스템 관리자만 이 이메일을 수신하게 됩니다. 수령하시면 즉시 알려주시기 바랍니다.
 
-* Adobe은 Admin Console을 조직의 기존 콘솔로 자동으로 마이그레이션하기 위해 사용자의 시스템 관리자인 사용자의 동의를 구할 수 있습니다. 제목이 &quot;Adobe Marketo Engage `[Package Tier]`에 대한 사용자 액세스를 관리하는 데 필요한 작업&quot;인 전자 메일에서 &quot;시작하기&quot; 버튼을 클릭하여 동의 페이지로 이동합니다.
+* Adobe은 Admin Console을 조직의 기존 콘솔로 자동으로 마이그레이션하기 위해 사용자의 시스템 관리자인 사용자의 동의를 구할 수 있습니다. 제목란 &quot;Adobe Marketo Engage `[Package Tier]`에 대한 사용자 액세스를 관리하는 데 필요한 작업&quot;이 있는 이메일에서 &quot;시작하기&quot; 버튼을 클릭하여 동의 페이지로 이동합니다.
 
 `3.` **선택 사항:** Adobe Admin Console에서 SSO(Single Sign-On) 설정.
 
@@ -123,12 +123,12 @@ i. 링크가 포함된 이메일 확인 요청 이메일을 받았습니다(3일
 i. &#39;초대 수락&#39; 버튼을 클릭하고 Adobe ID를 사용하여 로그인함으로써 새 초대를 수락합니다.
 아.. Adobe 로그인 페이지에서 기존 Adobe ID으로 로그인하십시오.
 
-`3.` 연락처: 계정을 마이그레이션한 후 질문이 있거나 도움이 필요한 경우 또는 계정이 마이그레이션되지 않았으며 Marketo Engage에 대한 액세스 권한이 없는 경우 [내부 연락처 전자 메일/전화]의 Marketo Engage 마이그레이션 팀에 문의하세요.
+`3.` 연락처: 계정을 마이그레이션한 후 질문이 있거나 도움이 필요한 경우 또는 계정이 마이그레이션되지 않았으며 Marketo Engage에 대한 액세스 권한이 없는 경우 `[your internal contact email/phone]`의 Marketo Engage 마이그레이션 팀에 문의하세요.
 
 전환기에 협조해 주셔서 감사합니다. 시스템을 안전하게 유지하기 위한 귀사의 이해와 헌신에 감사드립니다.
 
 우수 사례,
 
-[내 이름]
+`[Your Name]`
 
 `---------------------------------------------------`
