@@ -5,11 +5,12 @@ role: User
 level: Beginner
 hide: true
 hidefromtoc: true
+recommendations: noDisplay, noCatalog
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 247e961f6fcd4ec287c957ac34d557f1ad844f14
+source-git-commit: 1e076e4dae4753bc265187cf0554b8e51aeee1aa
 workflow-type: tm+mt
-source-wordcount: '1070'
+source-wordcount: '1077'
 ht-degree: 0%
 
 ---
@@ -28,7 +29,9 @@ Adobe을 통해 Adobe Marketo Engage 구독 및 사용자를 관리하는 방법
 
 * 조직 내 시스템 관리자를 모르는 경우 Adobe 계정 팀에 문의하거나 Adobe 지원 `marketocares@marketo.com`에 문의하십시오.
 
-* Marketo Engage 구독을 마이그레이션할 Adobe Admin Console(또는 Adobe 조직)를 확인합니다.  Marketo Engage 구독은 Marketo Engage과 통합된 기본 대화 자동화 도구인 Dynamic Chat과 동일한 조직에 배포되어야 합니다. [자세히 알아보기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}
+* Marketo Engage 구독을 마이그레이션할 Adobe Admin Console(또는 Adobe 조직)를 확인합니다.  Marketo Engage 구독은 Marketo Engage과 통합된 기본 대화 자동화 도구인 [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview){target="_blank"}과(와) 동일한 조직에 배포되어야 합니다. [자세히 알아보기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}
+
+* **선택 사항:** [사용자 마이그레이션 전에 SSO(Single Sign-On) 구현](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}.
 
 * [샘플 전자 메일 섹션](#announce-the-migration-timeline)에서 시스템 관리자와 통신하는 방법을 알아봅니다.
 
@@ -36,7 +39,7 @@ Adobe을 통해 Adobe Marketo Engage 구독 및 사용자를 관리하는 방법
 
 아래 비디오에서는 Marketo Engage 제품 관리 팀이 마이그레이션 여정과 예상 내용을 소개합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?t=170/?quality=12&learn=on){transcript=true}
 
 Marketo Engage 관리자를 위한 이 항목에 대한 자세한 내용은 다음 도움말 문서에서 확인할 수 있습니다.
 
@@ -54,9 +57,9 @@ Marketo Engage 관리자를 위한 이 항목에 대한 자세한 내용은 다�
 
 * 예약되면 Marketo Engage 관리자 및 사용자 달력에 마이그레이션 날짜를 표시합니다.
 
-내부 타임라인에 맞게 **관리자** > **마이그레이션 콘솔** > **사전 마이그레이션**&#x200B;에서 마이그레이션 날짜를 수정할 수 있습니다. 일정 조정 및 [마이그레이션 날짜 수정](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"}의 제한 사항에 대해 자세히 알아보세요.
+   * 내부 타임라인에 맞게 **관리자** > **마이그레이션 콘솔** > **사전 마이그레이션**&#x200B;에서 마이그레이션 날짜를 수정할 수 있습니다. 일정 조정 및 [마이그레이션 날짜 수정](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"}의 제한 사항에 대해 자세히 알아보세요.
 
-#### 시스템 관리자에게 이메일 보내기 {#send-an-email-to-system-admin}
+* **시스템 관리자에게 전자 메일 보내기**
 
 다음은 시스템 관리자에게 보낼 샘플 이메일입니다. 일반적으로 IT 부서에서 모든 Adobe 라이센스를 관리합니다.
 
@@ -72,7 +75,7 @@ Marketo Engage 구독이 곧 Adobe Identity Management 시스템으로 마이그
 
 * Marketo Engage 구독은 Marketo Engage과 통합된 기본 대화 자동화 도구인 Dynamic Chat과 동일한 조직에 있어야 합니다.
 
-* Marketo Engage을 추가할 Admin Console에 대한 질문이나 우려 사항이 있는 경우 `marketocares@marketo.com`(으)로 Adobe 지원 팀에 문의하고 참조하시기 바랍니다.
+* Admin Console에 대한 질문이 있거나 문제가 있는 경우 `marketocares@marketo.com`의 Adobe 지원 팀에 문의하고 참조 하십시오.
 
 `2.` 제목란 &quot;Adobe Marketo Engage `[Package Tier]`에 대한 사용자 액세스를 관리하는 데 필요한 작업&quot;을 사용하여 Adobe에서 전자 메일을 확인합니다. 이 이메일은 Admin Console에 Marketo Engage 라이선스가 프로비저닝된 후 전송되었습니다. 시스템 관리자만 이 이메일을 수신하게 됩니다. 수령하시면 즉시 알려주시기 바랍니다.
 
@@ -90,7 +93,7 @@ Marketo Engage 구독이 곧 Adobe Identity Management 시스템으로 마이그
 
 `---------------------------------------------------`
 
-#### Marketo Engage 사용자에게 이메일 보내기 {#send-an-email-to-marketo-engage-users}
+* **Marketo Engage 사용자에게 전자 메일 보내기**
 
 다음은 관리자 권한이 없는 Marketo Engage 사용자에게 예정된 마이그레이션을 알리는 데 사용할 수 있는 샘플 이메일입니다.
 
@@ -116,7 +119,7 @@ Marketo Engage 인스턴스 및 로그인 방법에 관한 중요한 발표가 �
 
 `1.` **준비**: Adobe ID로 마이그레이션하려면 전자 메일 확인이 필요합니다.
 
-i. 링크가 포함된 이메일 확인 요청 이메일을 받았습니다(3일 동안 유효). 링크가 만료된 경우 **관리자** > **내 계정** > **계정 설정**&#x200B;으로 이동하여 **확인 다시 보내기**&#x200B;를 클릭하여 Marketo Engage 내에서 확인 전자 메일을 다시 보낼 수 있습니다.
+i. 링크가 포함된 이메일 확인 요청 이메일을 받았습니다(3일 동안 유효). 링크가 만료되면 Marketo Engage 내에서 &quot;내 프로필&quot; 아이콘을 클릭하고 **내 계정** > **계정 설정** > **확인 다시 보내기**&#x200B;로 이동하여 확인 이메일을 다시 보낼 수 있습니다.
 
 아.. 이메일 인증이 성공하려면 활성 사용자 세션이 필요합니다. 먼저 ID 공급자(IdP) URL을 사용하여 Marketo Engage 구독에 로그인하십시오.
 
