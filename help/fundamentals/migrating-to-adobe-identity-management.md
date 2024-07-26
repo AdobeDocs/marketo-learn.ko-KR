@@ -3,12 +3,10 @@ title: Adobe Identity Management으로 마이그레이션
 description: 이 자습서는 Marketo Engage 구독 및 사용자를 Adobe Admin Console으로 마이그레이션하는 작업을 탐색하는 데 도움이 됩니다.
 role: User
 level: Beginner
-hide: true
-hidefromtoc: true
 recommendations: noDisplay, noCatalog
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 1e076e4dae4753bc265187cf0554b8e51aeee1aa
+source-git-commit: 472e307e05ccdb908e1551c5e351c0e8e9c292d9
 workflow-type: tm+mt
 source-wordcount: '1077'
 ht-degree: 0%
