@@ -6,9 +6,9 @@ role: User, Admin, Leader
 level: Beginner, Intermediate, Experienced
 exl-id: fac23fde-1fc8-4710-a5f5-2e19a2618d6d
 feature: Sales Insight Actions
-source-git-commit: 063ac280987d4a2b68245f51cde1199ea93319df
+source-git-commit: fa58833852b94a41441f39433f2d3ba5c05fa04c
 workflow-type: tm+mt
-source-wordcount: '158'
+source-wordcount: '191'
 ht-degree: 0%
 
 ---
@@ -18,6 +18,10 @@ ht-degree: 0%
 ![](assets/header.png)
 
 [!UICONTROL Sales Insight Actions]을 사용하여 마케팅 기반의 인텔리전스 및 참여 도구를 하나의 워크플로우에서 함께 사용하여 잠재 고객 확보를 가속화하십시오.
+
+>[!NOTE]
+>
+>Marketo Sales Insight Actions는 [Marketo Sales Insight 패키지](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/marketo-sales-insight/msi-for-salesforce/installation/install-marketo-sales-insight-package-in-salesforce-appexchange){target="_blank"}를 통해 Salesforce CRM과 독점적으로 통합되는 웹 기반 애플리케이션입니다. 이를 때로 &quot;Marketo 영업&quot; 또는 간단히 &quot;작업&quot;이라고 합니다.
 
 ## 특별 포함된 Tutorials {#featured-tutorials}
 
