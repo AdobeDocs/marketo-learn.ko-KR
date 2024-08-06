@@ -8,7 +8,7 @@ doc-type: Technical Video
 duration: 772
 last-substantial-update: 2024-08-06T00:00:00Z
 jira: KT-15548
-source-git-commit: 757f21c965161fba774c2c31e02baa75f4691e4d
+source-git-commit: dfe4f1d9737cb0c69bbd96aedf6c61953315fa9b
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
@@ -36,8 +36,10 @@ Postman 애플리케이션을 설정하고 변수를 활용하여 재사용 가�
 
 * 응답 본문에서 access_token을 가져오는 JS 스크립트(스크립트: 탭 아래에 놓임):
 
-`var jsonData = pm.response.json();
-pm.environment.set("access_token", jsonData.access_token);`
+```
+var jsonData = pm.response.json();
+pm.environment.set("access_token", jsonData.access_token);
+```
 
 * [Marketo Engage 개발자 설명서](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication){target="_blank"}
 
