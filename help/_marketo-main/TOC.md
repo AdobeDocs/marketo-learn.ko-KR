@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 71f6ec1f4dd2c5a0a2d0c1959da7a78002644edb
+source-git-commit: 757f21c965161fba774c2c31e02baa75f4691e4d
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 7%
+source-wordcount: '381'
+ht-degree: 9%
 
 ---
 
@@ -26,7 +26,7 @@ ht-degree: 7%
    + [기본 프로그램 만들기에 대한 우수 사례](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [토큰을 사용하여 개인화](/help/personalization/personalize-with-tokens.md)
    + [새 인스턴스 구현 - 자습서](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
-   + [상속된 인스턴스 감사 - 자습서](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html)
+   + [상속된 인스턴스 감사 - 자습서](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=ko-KR)
 + 프로그램 및 캠페인 {#programs-and-campaigns}
    + [프로그램 및 캠페인 이해](/help/programs/understanding-programs-and-campaigns.md)
    + [스마트 캠페인 101](/help/campaigns/smart-campaigns-101.md)
@@ -124,3 +124,4 @@ ht-degree: 7%
    + [주요 보고서](/help/reporting/key-reports.md)
 + 통합 {#integrations}
    + [Real-time Customer Data Platform이 포함된 Marketo](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+   + [API 도움말 - 변수에서 액세스 토큰을 설정하는 방법](/help/integrations/api-set-access-token-variable.md)
