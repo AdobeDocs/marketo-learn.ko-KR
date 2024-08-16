@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 4a1db73e8dff8d5c39f05962b6e24ee0d380683f
+source-git-commit: 17c1894d79f1e5c718409e64d6d34fc1359e0960
 workflow-type: tm+mt
-source-wordcount: '1077'
+source-wordcount: '1081'
 ht-degree: 0%
 
 ---
@@ -28,7 +28,7 @@ Adobe을 통해 Adobe Marketo Engage 구독 및 사용자를 관리하는 방법
 
 * 조직 내 시스템 관리자를 모르는 경우 Adobe 계정 팀에 문의하거나 Adobe 지원 `marketocares@marketo.com`에 문의하십시오.
 
-* Marketo Engage 구독을 마이그레이션할 Adobe Admin Console(또는 Adobe 조직)를 확인합니다.  Marketo Engage 구독은 Marketo Engage과 통합된 기본 대화 자동화 도구인 [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/dynamic-chat-overview){target="_blank"}과(와) 동일한 조직에 배포되어야 합니다. [자세히 알아보기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete)
+* Marketo Engage 구독을 마이그레이션할 Adobe Admin Console(또는 Adobe 조직)를 확인합니다. Marketo Engage의 기본 대화 자동화 도구인 Adobe Admin Console for Dynamic Chat이 있을 수 있습니다. Marketo Engage 구독은 [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete)과(와) 동일한 조직에 배포되어야 합니다.
 
 * **선택 사항:** [사용자 마이그레이션 전에 SSO(Single Sign-On) 구현](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}.
 
