@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 17c1894d79f1e5c718409e64d6d34fc1359e0960
+source-git-commit: 820346b8475da5bd0cc5c6652b1cc6367b9fe54e
 workflow-type: tm+mt
-source-wordcount: '1081'
+source-wordcount: '1114'
 ht-degree: 0%
 
 ---
@@ -24,11 +24,13 @@ Adobe을 통해 Adobe Marketo Engage 구독 및 사용자를 관리하는 방법
 
 조직에서 Adobe Marketo Engage을 Adobe Admin Console으로 마이그레이션할 수 있도록 아래 체크리스트에 따라 예정된 변경 사항을 관리하는 것이 좋습니다.
 
-### 1. 시스템 관리자를 식별하고 필요한 조치를 논의합니다 {#identify-your-system-administrators}
+### 1. 시스템 관리자 및 IT 팀을 식별하고 필요한 조치를 논의합니다 {#identify-your-system-administrators}
 
 * 조직 내 시스템 관리자를 모르는 경우 Adobe 계정 팀에 문의하거나 Adobe 지원 `marketocares@marketo.com`에 문의하십시오.
 
 * Marketo Engage 구독을 마이그레이션할 Adobe Admin Console(또는 Adobe 조직)를 확인합니다. Marketo Engage의 기본 대화 자동화 도구인 Adobe Admin Console for Dynamic Chat이 있을 수 있습니다. Marketo Engage 구독은 [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete)과(와) 동일한 조직에 배포되어야 합니다.
+
+* 허용 목록에 추가하다 Adobe ID로 마이그레이션한 후 Marketo Engage 액세스가 중단되지 않도록 IT 팀과 함께 문서 0에 나열된 ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}모든 Adobe 도메인을 관리하십시오.[
 
 * **선택 사항:** [사용자 마이그레이션 전에 SSO(Single Sign-On) 구현](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}.
 
