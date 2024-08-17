@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 820346b8475da5bd0cc5c6652b1cc6367b9fe54e
+source-git-commit: f6caaae707cb4dae45c4f05a895566adc98458e6
 workflow-type: tm+mt
-source-wordcount: '1114'
+source-wordcount: '1115'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Adobe을 통해 Adobe Marketo Engage 구독 및 사용자를 관리하는 방법
 
 * Marketo Engage 구독을 마이그레이션할 Adobe Admin Console(또는 Adobe 조직)를 확인합니다. Marketo Engage의 기본 대화 자동화 도구인 Adobe Admin Console for Dynamic Chat이 있을 수 있습니다. Marketo Engage 구독은 [Dynamic Chat](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete)과(와) 동일한 조직에 배포되어야 합니다.
 
-* 허용 목록에 추가하다 Adobe ID로 마이그레이션한 후 Marketo Engage 액세스가 중단되지 않도록 IT 팀과 함께 문서 0에 나열된 ](/help/marketo/getting-started/initial-setup/configure-protocols-for-marketo.md){target="_blank"}모든 Adobe 도메인을 관리하십시오.[
+* Adobe ID로 마이그레이션한 후 Marketo Engage 액세스가 중단되지 않도록 IT 팀과 함께 문서 0에 나열된 ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"}의 맨 위에 있는 모든 Adobe 도메인에 허용 목록을 만듭니다.[
 
 * **선택 사항:** [사용자 마이그레이션 전에 SSO(Single Sign-On) 구현](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}.
 
