@@ -3,10 +3,10 @@ title: Marketo Engage 튜토리얼
 description: ' [!DNL Marketo Engage]에서 비디오 튜토리얼을 시청하십시오. 마케팅 자동화 기능 등을 사용하는 방법에 대한 이해도를 높이십시오.'
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: fe4fc30478e83625c345c51b96a6867264953e83
+source-git-commit: 3c79aa679e95d1aa967a8c3b2aa96607e17adb95
 workflow-type: tm+mt
 source-wordcount: '182'
-ht-degree: 18%
+ht-degree: 21%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 18%
 * [Adobe Identity Management으로 마이그레이션](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
   _중앙 위치에서 사용자의 다른 Adobe 계정 및 제품과 함께 Adobe Marketo Engage 관리를 시작할 수 있도록 Adobe Identity Management 마이그레이션을 탐색하는 방법을 알아봅니다._
 
-* [대화형 웨비나 게시물 이벤트 인사이트 및 작업](https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
-대화형 웨비나 이벤트의 성능 및 참여에 대한 자세한 정보를 찾을 수 있는 위치에 대해 알아봅니다.
+* [대화형 웨비나 이벤트 후 인사이트 및 조치](https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/events/interactive-webinars-post-event-insights-and-actions)
+  _대화형 웨비나 이벤트의 성능 및 참여에 대한 자세한 정보를 찾을 수 있는 위치를 알아봅니다._
 
 * [Marketo API 사용 방법 비디오 - 변수에서 액세스 토큰을 설정하는 방법](https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/integrations/api-set-access-token-variable)
-Postman 애플리케이션을 설정하는 방법과 변수를 활용하여 재사용 가능성을 위해 변수에 데이터를 저장하는 방법을 알아봅니다.
+  _Postman 응용 프로그램을 설정하는 방법과 변수를 활용하여 재사용 가능성을 위해 변수에 데이터를 저장하는 방법을 알아봅니다._
 
 ## 가장 인기 있는 비디오 {#most-popular-videos}
 
