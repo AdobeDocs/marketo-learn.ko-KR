@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
 auto-video-transcripts: true
-source-git-commit: d74cf4ad845a6f7e65a0d8729c296f6c7d46bdaa
+source-git-commit: a3ef8abe1a0928b4119c334ecb96c7e18d63803d
 workflow-type: tm+mt
-source-wordcount: '383'
+source-wordcount: '377'
 ht-degree: 9%
 
 ---
@@ -66,7 +66,6 @@ ht-degree: 9%
    + [SEO 및 PPC](/help/cross-channel-marketing/seo-and-ppc-learn.md)
    + [SEO 및 PPC 둘러보기](/help/cross-channel-marketing/seo-and-ppc-watch.md)
    + [소셜 마케팅](/help/cross-channel-marketing/social-marketing-learn.md)
-   + [소셜 마케팅 둘러보기](/help/cross-channel-marketing/social-marketing-watch.md)
    + [웹 개인화](/help/cross-channel-marketing/web-personalization-learn.md)
    + [웹 개인화 둘러보기](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
@@ -121,7 +120,6 @@ ht-degree: 9%
    + [대화형 웨비나 Post 이벤트 인사이트 및 작업](/help/events/interactive-webinars-post-event-insights-and-actions.md)
    + [온디맨드 웨비나](/help/events/on-demand-webinars.md)
 + 보고 및 분석 {#reporting}
-   + [보고 및 분석](/help/reporting/reporting-and-analytics.md)
    + [주요 보고서](/help/reporting/key-reports.md)
 + 통합 {#integrations}
    + [Real-time Customer Data Platform이 포함된 Marketo](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
