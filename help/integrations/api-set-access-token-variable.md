@@ -3,13 +3,13 @@ title: Marketo API 사용 방법 비디오 - 변수에서 액세스 토큰을 �
 description: Postman 애플리케이션을 설정하는 방법과 변수를 활용하여 재사용 가능성을 위해 변수에 데이터를 저장하는 방법을 알아봅니다.
 feature: REST API
 role: Admin, Developer
-level: Advanced
+level: Experienced
 doc-type: Technical Video
 duration: 772
 last-substantial-update: 2024-08-06T00:00:00Z
 jira: KT-15548
 exl-id: 4da86ed6-1072-4e0e-a648-16587badaeb3
-source-git-commit: a3ef8abe1a0928b4119c334ecb96c7e18d63803d
+source-git-commit: 3243c3047efa1bcb92581a58aafe17689ff945fd
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 24%
