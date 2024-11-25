@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
 auto-video-transcripts: true
-source-git-commit: a3ef8abe1a0928b4119c334ecb96c7e18d63803d
+source-git-commit: 4aa725929374c6a408e5c0f4b0c00e53ba17c3ed
 workflow-type: tm+mt
-source-wordcount: '377'
+source-wordcount: '370'
 ht-degree: 9%
 
 ---
@@ -21,7 +21,6 @@ ht-degree: 9%
    + [콘텐츠 마케팅](/help/fundamentals/content-marketing-learn.md)
    + [구매자 가상 사용자](/help/fundamentals/buyer-personas-learn.md)
    + [프로그램 및 캠페인](/help/fundamentals/programs-and-campaigns.md)
-   + [UI 탐색](/help/fundamentals/ui-navigation.md)
    + [새 인스턴스 구성 모범 사례](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [기본 프로그램 만들기에 대한 우수 사례](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [토큰을 사용하여 개인화](/help/personalization/personalize-with-tokens.md)
@@ -30,12 +29,10 @@ ht-degree: 9%
 + 프로그램 및 캠페인 {#programs-and-campaigns}
    + [프로그램 및 캠페인 이해](/help/programs/understanding-programs-and-campaigns.md)
    + [스마트 캠페인 101](/help/campaigns/smart-campaigns-101.md)
-   + [이메일 프로그램](/help/programs/email-programs.md)
    + [이벤트 프로그램](/help/programs/event-programs.md)
    + 기본 프로그램 {#default-programs}
       + [기본 프로그램 만들기 및 측정](/help/programs/create-and-measure-default-programs.md)
       + [기본 프로그램의 유연성 활용](/help/programs/leverage-the-flexibility-of-default-programs.md)
-   + [참여 프로그램](/help/programs/engagement-programs.md)
    + 참여 맵 {#engagement-maps}
       + [참여 맵 개요](/help/engagement-maps/engagement-map-overview.md)
       + [참여 맵 중첩 캠페인](/help/engagement-maps/engagement-map-nested-campaign.md)
