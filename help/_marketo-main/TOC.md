@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 4aa725929374c6a408e5c0f4b0c00e53ba17c3ed
+source-git-commit: e310fb4cd8dfc502ac49019f12ecb361ffbbccb4
 workflow-type: tm+mt
-source-wordcount: '370'
-ht-degree: 9%
+source-wordcount: '430'
+ht-degree: 8%
 
 ---
 
@@ -121,3 +121,16 @@ ht-degree: 9%
 + 통합 {#integrations}
    + [Real-time Customer Data Platform이 포함된 Marketo](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API 도움말 - 변수에서 액세스 토큰을 설정하는 방법](/help/integrations/api-set-access-token-variable.md)
++ 중복 {#manage-duplicates} 관리
+   + [중복 관리 소개](/help/managing-duplicates/introduction-managing-duplicates.md)
+   + [중복 발생 이유 이해](/help/managing-duplicates/why-duplicates-occur.md)
+   + [중복 레코드 식별 및 방지](/help/managing-duplicates/identify-prevent-duplicates.md)
+   + [중복 레코드가 필요한 시기 결정](/help/managing-duplicates/determine-necessary-duplicates.md)
+   + [중복 레코드를 수동으로 병합](/help/managing-duplicates/merge-manually.md)
+   + [1부 중복 항목 벌크 병합](/help/managing-duplicates/bulk-merge-part-1.md)
+   + [2부 벌크 병합](/help/managing-duplicates/bulk-merge-part-2.md)
+   + [3부 벌크 병합](/help/managing-duplicates/bulk-merge-part-3.md)
+   + [중복 관리 자동화 1](/help/managing-duplicates/automate-integration-part-1.md)
+   + [중복 관리 자동화 2](/help/managing-duplicates/automate-integration-part-2.md)
+   + [중복 관리 간소화](/help/managing-duplicates/simplify-acs.md)
+   + [중복 관리에 가장 적합한 전략 선택](/help/managing-duplicates/duplicate-strategy.md)
