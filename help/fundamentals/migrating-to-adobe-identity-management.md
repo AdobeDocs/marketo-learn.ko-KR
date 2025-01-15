@@ -7,9 +7,9 @@ recommendations: noDisplay, noCatalog
 last-substantial-update: 2024-07-26T00:00:00Z
 feature: Marketing
 exl-id: 8368a148-c0c8-462f-b166-9efc412c4a0f
-source-git-commit: 26fc31709e97755ef7930f8421330fe579263bb5
+source-git-commit: b4f9ce6cfc8126559e94985c540ec9766a56310e
 workflow-type: tm+mt
-source-wordcount: '1224'
+source-wordcount: '1248'
 ht-degree: 0%
 
 ---
@@ -33,6 +33,10 @@ Adobe을 통해 Adobe Marketo Engage 구독 및 사용자를 관리하는 방법
 * Adobe ID로 마이그레이션한 후 Marketo Engage 액세스가 중단되지 않도록 IT 팀과 함께 문서 0에 나열된 ](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"}의 맨 위에 있는 모든 Adobe 도메인에 허용 목록을 만듭니다.[
 
 * **선택 사항:** [사용자 마이그레이션 전에 SSO(Single Sign-On) 구현](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}.
+
+  >[!NOTE]
+  >
+  >Marketo Engage 지원 SSO와 Adobe Admin Console SSO 사이에는 차이가 있습니다. 따라서 구성을 변경해야 할 수 있습니다.
 
 * **옵션:** Marketo Engage 사용자가 인증된 상태를 유지하도록 사용자 마이그레이션 전에 [원하는 최대 세션 수명을 사용자 지정](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}합니다.
 
