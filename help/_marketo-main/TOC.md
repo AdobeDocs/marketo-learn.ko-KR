@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
 auto-video-transcripts: true
-source-git-commit: e310fb4cd8dfc502ac49019f12ecb361ffbbccb4
+source-git-commit: ee68cb7fc0dbf9c4ccae3f89fdbb6e097016ebf9
 workflow-type: tm+mt
-source-wordcount: '430'
+source-wordcount: '433'
 ht-degree: 8%
 
 ---
@@ -108,6 +108,7 @@ ht-degree: 8%
    + [이벤트 프로그램 만들기](/help/events/events-learn.md)
    + [웨비나](/help/events/webinar-learn.md)
    + [웨비나 둘러보기](/help/events/webinar-watch.md)
+   + [대화형 웨비나 개요](/help/events/interactive-webinars-overview.md)
    + [대화형 웨비나 사용자 및 라이선스 관리](/help/events/interactive-webinars-user-and-license-management.md)
    + [대화형 웨비나 이벤트 프로그램 만들기](/help/events/interactive-webinars-event-program-creation.md)
    + [대화형 웨비나 이벤트 프로그램 개요](/help/events/interactive-webinars-event-program-overview.md)
@@ -119,7 +120,7 @@ ht-degree: 8%
 + 보고 및 분석 {#reporting}
    + [주요 보고서](/help/reporting/key-reports.md)
 + 통합 {#integrations}
-   + [Real-time Customer Data Platform이 포함된 Marketo](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
+   + [Real-Time Customer Data Platform이 포함된 Marketo](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API 도움말 - 변수에서 액세스 토큰을 설정하는 방법](/help/integrations/api-set-access-token-variable.md)
 + 중복 {#manage-duplicates} 관리
    + [중복 관리 소개](/help/managing-duplicates/introduction-managing-duplicates.md)
