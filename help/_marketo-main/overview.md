@@ -3,7 +3,7 @@ title: Marketo Engage 튜토리얼
 description: ' [!DNL Marketo Engage]에서 비디오 튜토리얼을 시청하십시오. 마케팅 자동화 기능 등을 사용하는 방법에 대한 이해도를 높이십시오.'
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: b1bca74399683782c4691882f2239db60d117286
+source-git-commit: 7277269a9ff98122d8da3f90e1b4b91872352ecf
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 19%
@@ -23,7 +23,7 @@ ht-degree: 19%
 
 ## 새로운 기능 {#whats-new}
 
-* [실시간 채팅을 구현하는 모범 사례](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices.md)
+* [실시간 채팅을 구현하는 모범 사례](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
   _Dynamic Chat에서 실시간 채팅 기능을 구현할 때 따라야 할 모범 사례에 대해 알아봅니다._
 
 * [대화형 웨비나 개요](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
