@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
 auto-video-transcripts: true
-source-git-commit: b1bca74399683782c4691882f2239db60d117286
+source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
 workflow-type: tm+mt
-source-wordcount: '439'
-ht-degree: 7%
+source-wordcount: '454'
+ht-degree: 9%
 
 ---
 
@@ -14,7 +14,7 @@ ht-degree: 7%
 # [!DNL Marketo Engage] 튜토리얼 {#tutorials}
 
 + [[!DNL Marketo Engage] 튜토리얼](/help/_marketo-main/overview.md)
-+ 기본 {#fundamentals}
++ 기본 사항 {#fundamentals}
    + [목표 및 전략](/help/fundamentals/goals-and-strategy-learn.md)
    + [조직 구조](/help/fundamentals/organizational-structure-learn.md)
    + [Adobe Identity Management으로 마이그레이션](/help/fundamentals/migrating-to-adobe-identity-management.md)
@@ -89,10 +89,10 @@ ht-degree: 7%
    + [모임 예약](/help/dynamic-chat/meeting-booking.md)
    + [GenAI 기반의 대화 추진](/help/dynamic-chat/gen-ai-features.md)
    + [참여도 보고](/help/dynamic-chat/engagement-report.md)
-+ Sales Insight 작업 {#sales-insight-actions}
++ 영업 Insight 작업 {#sales-insight-actions}
    + [개요](/help/sales-insight-actions/overview.md)
    + [Sales Insight 작업 개요](/help/sales-insight-actions/sales-insight-actions-overview.md)
-   + [Sales Insight Actions 인스턴스 액세스](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
+   + [Sales Insight 작업 인스턴스 액세스](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
    + [ [!DNL Salesforce](으)로 영업 활동 로깅 구성](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + 리드 및 데이터 관리 {#lead-and-data-management}
    + [잠재 고객 / 개인 점수 책정](/help/lead-and-data-management/lead-scoring-learn.md)
@@ -123,7 +123,8 @@ ht-degree: 7%
 + 통합 {#integrations}
    + [Real-Time Customer Data Platform이 포함된 Marketo](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API 도움말 - 변수에서 액세스 토큰을 설정하는 방법](/help/integrations/api-set-access-token-variable.md)
-+ 중복 {#manage-duplicates} 관리
+   + [REST API 및 토큰을 사용하여 Marketo Engage에서 스마트 캠페인을 트리거하는 방법](/help/integrations/trigger-smart-campaign-rest-api.md)
++ 중복 관리 {#manage-duplicates}
    + [중복 관리 소개](/help/managing-duplicates/introduction-managing-duplicates.md)
    + [중복 발생 이유 이해](/help/managing-duplicates/why-duplicates-occur.md)
    + [중복 레코드 식별 및 방지](/help/managing-duplicates/identify-prevent-duplicates.md)
