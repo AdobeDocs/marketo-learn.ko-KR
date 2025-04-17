@@ -4,7 +4,7 @@ description: REST API를 사용하여 Marketo Engage에서 스마트 캠페인�
 feature: REST API
 role: Admin, Developer
 level: Experienced
-source-git-commit: dcfffa299cbcfef489f5b618fae29f745b878d26
+source-git-commit: e840968877b3947b2d24c9416104f1dd187082cc
 workflow-type: tm+mt
 source-wordcount: '611'
 ht-degree: 0%
@@ -54,13 +54,13 @@ You're registered for **{{my.WebinarTitle}}**.
 Join here: {{my.JoinLink}}
 ```
 
+토큰을 사용하여 이미지 URL(예: `{{my.WebinarImage}}`)을 동적으로 삽입하는 경우, 토큰을 HTML 이미지 태그에 래핑해야 합니다.
+
+```html
+<img src="{{my.WebinarImage}}" alt="Webinar banner" />
+```
+
 >[!IMPORTANT]
->
->토큰을 사용하여 이미지 URL(예: `{{my.WebinarImage}}`)을 동적으로 삽입하는 경우, 토큰을 HTML 이미지 태그에 래핑해야 합니다.
->
-> ```html
-> <img src="{{my.WebinarImage}}" alt="Webinar banner" />
-> ```
 >
 >토큰이 올바른 이미지 태그 내에 없으면 Marketo Enagage **은(는) 이미지를 렌더링하지 않습니다**.
 
