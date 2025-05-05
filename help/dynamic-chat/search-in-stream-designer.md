@@ -20,7 +20,7 @@ ht-degree: 0%
 
 빠른 검색은 한 번의 클릭으로 스트림 디자이너의 카드에 액세스하는 데 도움이 될 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416925/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437250/?quality=12&learn=on&captions=kor){transcript=true}
 
 ## 더 유용한 비디오
 

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 점진적 프로파일링을 포함하는 양식을 작성, 디자인 및 구성하는 방법을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345475/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411669/?quality=12&learn=on&captions=kor){transcript=true}

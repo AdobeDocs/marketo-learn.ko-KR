@@ -20,7 +20,7 @@ ht-degree: 0%
 
 4가지 프로그램 유형, 프로그램 가져오기 방법, 리드/개인 채점 프로그램 및 채널 태그 정의에 대해 이해합니다. 일반적인 사용 사례와 모범 사례에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421275/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422758/?learn=on&captions=kor){transcript=true}
 
 ## 추가 리소스
 

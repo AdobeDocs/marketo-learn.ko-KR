@@ -20,4 +20,4 @@ ht-degree: 0%
 
 CRM 동기화, 양식 채우기, 데이터 가져오기를 포함하여 다양한 소스에서 중복을 생성하는 방법과 이를 최소화하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441864/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443897/?learn=on&enablevpops&captions=kor)

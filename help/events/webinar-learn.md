@@ -18,4 +18,4 @@ ht-degree: 0%
 
 마케팅 활동의 일부로 웨비나를 실행할 준비가 되셨습니까? 웨비나가 [!DNL Marketo Engage] 및 해당 Adobe Exchange 웨비나 파트너와 함께 작동하는 방식을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345476/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411664/?quality=12&learn=on&captions=kor){transcript=true}

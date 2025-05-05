@@ -22,4 +22,4 @@ ht-degree: 0%
 4가지 프로그램 유형 중 기본 프로그램이 가장 유연하며 무엇을 만들지에 대한 창의성을 얻을 수 있습니다.
 두 가지 일반적인 사용 사례인 웹 양식 및 유료 미디어 사용자 생성에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420137?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453858?learn=on&captions=kor){transcript=true}

@@ -18,7 +18,7 @@ ht-degree: 0%
 
 [!UICONTROL Dynamic Chat]은(는) 기본적으로 [!DNL Marketo Engage]에 통합되어 있으므로 챗봇 대화의 컨텍스트를 사용하여 잠재 고객을 다시 타겟팅하거나 점수를 매길 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340260/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345051/?quality=12&learn=on&captions=kor){transcript=true}
 
 ## 더 유용한 비디오
 

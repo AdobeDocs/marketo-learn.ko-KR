@@ -20,4 +20,4 @@ ht-degree: 0%
 
 새로운 대화 흐름 카드를 사용하여 대화 디자인 및 관리를 간소화합니다. 대화 스트림을 한 번 만든 후 여러 대화 상자로 다시 사용합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429715/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446652/?learn=on&captions=kor)

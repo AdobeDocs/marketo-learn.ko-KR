@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Marketo의 기본 제공 A/B 테스트 기능을 사용하면 제목 줄, 요일 및 시간, &quot;보낸 사람&quot; 주소 등을 테스트하여 이메일 효과를 개선하기 위해 데이터 기반 결정을 내릴 수 있습니다. 이메일 성능을 개선하기 위해 Marketo에서 이메일 A/B 테스트를 사용하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345483/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411461/?quality=12&learn=on&captions=kor){transcript=true}

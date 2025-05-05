@@ -18,4 +18,4 @@ ht-degree: 0%
 
 소셜 마케팅을 가장 잘 활용하는 방법을 잘 모르시나요? 소셜 채널을 사용하여 브랜드 인지도를 효과적으로 높이고 브랜드 참여를 육성하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345407/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412043/?quality=12&learn=on&captions=kor){transcript=true}

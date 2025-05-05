@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Vertify 또는 Workato와 같은 iPaaS 도구와 API 통합을 사용하여 Marketo Engage에서 중복 관리를 간소화하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429487/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441931/?learn=on&enablevpops&captions=kor)

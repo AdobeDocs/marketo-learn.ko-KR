@@ -18,4 +18,4 @@ ht-degree: 0%
 
 오늘날 기술이 넘쳐나는 상황에서 모바일 마케팅은 가장 필수적인 전략 중 하나입니다. 모바일 기기의 편리성을 통해 실시간 및 인맥을 만들어 구매자와 관계를 발전시키는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345403/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411689/?quality=12&learn=on&captions=kor){transcript=true}

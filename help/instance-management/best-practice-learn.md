@@ -19,4 +19,4 @@ ht-degree: 0%
 
 프로그램 및 인스턴스 구성에 대한 [!DNL Marketo's]의 권장 모범 사례를 따르면 귀하와 귀하의 동료는 필요할 때 인스턴스에서 필요한 것을 찾는 데 도움이 되며 보고를 더 정확하게 수행하는 데 도움이 됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345420/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413377/?quality=12&learn=on&captions=kor){transcript=true}

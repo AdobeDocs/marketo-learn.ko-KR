@@ -22,4 +22,4 @@ ht-degree: 4%
 
 단계별 비디오에서는 이 강력한 도구를 비즈니스에 간단하게 구현할 수 있도록 프로세스를 안내합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424868/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443363/?learn=on&captions=kor)

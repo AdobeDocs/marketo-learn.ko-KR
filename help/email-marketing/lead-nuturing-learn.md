@@ -18,4 +18,4 @@ ht-degree: 0%
 
 [!UICONTROL 개인 교육]을 통해 개개인의 요구를 듣고 고유한 구매자 여정 전반에 걸쳐 적절한 콘텐츠로 응답할 수 있습니다. 육성 프로그램, 작동 방식 및 성공을 위한 단계에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345478/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411654/?quality=12&learn=on&captions=kor){transcript=true}

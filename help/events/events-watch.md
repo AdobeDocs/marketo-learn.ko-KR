@@ -18,7 +18,7 @@ ht-degree: 0%
 
 Marketo의 사전 설치된 프로그램을 기반으로 하는 박람회 이벤트 프로그램을 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345473/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411679/?quality=12&learn=on&captions=kor){transcript=true}
 
 ## 추가 리소스
 

@@ -20,7 +20,7 @@ ht-degree: 0%
 
 Dynamic Chat은 동일한 Adobe Marketo Engage munchkin 쿠키를 사용하므로 munchkin을 활용하여 이제 Dynamic Chat을 통해 캡처한 모든 사용자에 대해 유추된 속성을 식별하고 채웁니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416922/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436188/?quality=12&learn=on&captions=kor){transcript=true}
 
 ## 더 유용한 비디오
 

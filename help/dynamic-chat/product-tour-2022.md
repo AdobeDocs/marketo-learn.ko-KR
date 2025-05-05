@@ -18,7 +18,7 @@ ht-degree: 15%
 
 [!UICONTROL Dynamic Chat]은(는) 마케팅 및 세일즈용으로 빌드된 새로운 챗봇 솔루션입니다. 기본적으로 [!DNL Marketo Engage]과(와) 통합되어 있으므로 크로스 채널 마케팅에서 [!UICONTROL Dynamic Chat]을(를) 새 채널로 사용할 수 있습니다. 간단하게 사용하고 설정할 수 있습니다. 제품 둘러보기:
 
->[!VIDEO](https://video.tv.adobe.com/v/340473/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345058/?quality=12&learn=on&captions=kor){transcript=true}
 
 ## 더 유용한 비디오
 

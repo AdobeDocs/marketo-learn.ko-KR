@@ -18,4 +18,4 @@ ht-degree: 0%
 
 최상의 콘텐츠 중 일부를 콘텐츠 마케팅 전략으로 안내하면 리드를 생성하고 방문자 중 어떤 방문자가 심각한지 학습하는 데 도움이 됩니다. 게이트 콘텐츠, 작동 방식 및 성공 단계에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345464/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412226/?quality=12&learn=on&captions=kor){transcript=true}

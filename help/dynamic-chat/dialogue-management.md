@@ -18,7 +18,7 @@ ht-degree: 0%
 
 대상이 지정되고 개인 맞춤화된 대화 상자를 디자인하는 것은 모든 웹 방문자에게 훌륭한 대화 경험을 제공할 수 있는 방법입니다. 대화 상자를 만들고 관리하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340259/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3443800/?quality=12&learn=on&captions=kor){transcript=true}
 
 ## 더 유용한 비디오
 

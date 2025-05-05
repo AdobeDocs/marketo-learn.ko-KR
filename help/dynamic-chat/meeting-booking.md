@@ -18,7 +18,7 @@ ht-degree: 1%
 
 [!DNL target] 계정 리드에 대한 판매 연결을 가속화하려면 Dynamic Chat을 사용하십시오. 방문자가 [관리 콘솔](https://adminconsole.adobe.com/)을 통해 판매 에이전트를 사용자로 추가하여 다양한 영업 담당자와 회의를 예약할 수 있도록 합니다. 각 에이전트는 고유한 일정을 연결해야 합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340258/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345016/?quality=12&learn=on&captions=kor){transcript=true}
 
 ## 더 유용한 비디오
 

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 콘텐츠 마케팅이 잠재 구매자를 유혹하고 잠재 고객을 창출하고 있는지 확인하고 싶으십니까? 구매자 담당자를 만들면 필요한 콘텐츠의 종류와 구매자가 정보를 찾고 소비하는 방법을 결정하는 데 도움이 됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345415/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413398/?quality=12&learn=on&captions=kor){transcript=true}

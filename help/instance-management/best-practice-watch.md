@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Marketo에서 Marketo의 제안된 프로그램 및 인스턴스 모범 사례를 구현하는 방법을 확인하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/345421/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412261/?quality=12&learn=on&captions=kor){transcript=true}

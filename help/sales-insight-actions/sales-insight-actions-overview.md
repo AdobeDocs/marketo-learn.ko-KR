@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Sales Insight Actions 을 사용하여 단일 워크플로우에서 마케팅 기반의 인텔리전스 및 참여 툴을 함께 사용하여 잠재 고객 확보를 가속화합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340917/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447252/?quality=12&learn=on&captions=kor){transcript=true}
 
 ## 관련 비디오
 

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 SEO 및 PPC 전략을 성공적으로 구축하기 위한 단계를 구현하는 방법을 확인하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/345400/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413408/?quality=12&learn=on&captions=kor){transcript=true}

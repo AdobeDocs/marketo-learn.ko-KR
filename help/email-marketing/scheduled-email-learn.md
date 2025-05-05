@@ -18,4 +18,4 @@ ht-degree: 0%
 
 고객을 이메일 마케팅의 개인으로 참여시킬 준비를 하십시오. 대상과 관련된 매력적인 메시지를 전달하고 이메일 캠페인의 ROI를 측정하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345466/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412021/?quality=12&learn=on&captions=kor){transcript=true}

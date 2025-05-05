@@ -46,7 +46,7 @@ Adobe은 Adobe Marketo Engage 구독 및 사용자를 관리하는 방법을 개
 
 아래 비디오에서는 Marketo Engage 제품 관리 팀이 마이그레이션 여정과 예상 내용을 소개합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3430920t3/?t=170/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432371/?t=170/?quality=12&learn=on&captions=kor){transcript=true}
 
 Marketo Engage 관리자를 위한 이 항목에 대한 자세한 내용은 다음 도움말 문서에서 확인할 수 있습니다.
 

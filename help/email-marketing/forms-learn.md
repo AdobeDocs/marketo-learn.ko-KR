@@ -18,4 +18,4 @@ ht-degree: 0%
 
 잠재 고객이 웹 사이트를 방문할 때 [!DNL Marketo forms]을(를) 사용하여 점진적으로 개인 데이터를 캡처합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345474/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411674/?quality=12&learn=on&captions=kor){transcript=true}

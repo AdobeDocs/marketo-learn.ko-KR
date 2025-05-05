@@ -18,5 +18,5 @@ ht-degree: 0%
 
 Marketo에서 웨비나를 만들고 관리하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345477/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411659/?quality=12&learn=on&captions=kor){transcript=true}
 

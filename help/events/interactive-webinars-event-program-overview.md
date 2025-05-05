@@ -20,4 +20,4 @@ ht-degree: 0%
 
 대화형 웨비나 이벤트 프로그램의 다양한 요소를 간단히 살펴보고 세부 단계를 위해 수행할 수 있는 작업에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429640/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450087/?learn=on&captions=kor)

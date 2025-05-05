@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Marketo Engage 내의 주요 보고서와 보고서를 가져오는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420138/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432188/?learn=on&captions=kor){transcript=true}
 
 ## 추가 리소스
 

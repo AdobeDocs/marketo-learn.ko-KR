@@ -18,4 +18,4 @@ ht-degree: 0%
 
 구독자와의 소통에 어려움을 겪고 계십니까? 그들이 원하는 커뮤니케이션과 얼마나 자주 귀하로부터 듣고 싶은지 알려줍니다. 적절한 케이던스와 프로세스를 개발하기 위해 구독 센터를 만들고 관리하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345426/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412231/?quality=12&learn=on&captions=kor){transcript=true}

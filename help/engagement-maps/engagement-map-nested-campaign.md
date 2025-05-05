@@ -21,4 +21,4 @@ ht-degree: 0%
 
 상호 연결되고 깊이 중첩된 캠페인을 해독하여 Engagement Map을 사용하여 전체 고객 여정에 대한 가시성을 높이는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422235/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423299/?learn=on&captions=kor){transcript=true}

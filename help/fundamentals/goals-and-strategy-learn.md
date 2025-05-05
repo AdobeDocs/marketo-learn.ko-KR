@@ -18,4 +18,4 @@ ht-degree: 0%
 
 모든 마케팅 노력이 조직의 목표를 지원하는 전략에 적합하면 프로그램 및 캠페인의 가치를 더 잘 증명할 수 있습니다. 마케팅 목표와 전략을 개발하여 노력을 중앙 집중화하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345419/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413383/?quality=12&learn=on&captions=kor){transcript=true}

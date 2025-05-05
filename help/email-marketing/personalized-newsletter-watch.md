@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Marketo에서 개인화된 뉴스레터 이메일 프로그램을 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345470/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411996/?quality=12&learn=on&captions=kor){transcript=true}

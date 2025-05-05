@@ -21,4 +21,4 @@ ht-degree: 0%
 
 Engagement Map이 캠페인 문제의 신속한 해결 및 해결에 어떻게 도움이 되는지 알아보십시오
 
->[!VIDEO](https://video.tv.adobe.com/v/3422246/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423290/?learn=on&captions=kor){transcript=true}

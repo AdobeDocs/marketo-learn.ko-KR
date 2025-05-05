@@ -20,7 +20,7 @@ ht-degree: 0%
 
 영어가 아닌 대화 상자를 만드는 방법을 이미 알고 있을 수 있습니다(그렇지 않은 경우 [여기를 클릭](https://nation.marketo.com/t5/dynamic-chat-discussion/design-non-english-language-conversations-in-dynamic-chat/m-p/324317#M39){target="_blank"}). 선택한 언어로 정적/시스템 콘텐츠를 개인화할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416924/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3439221/?quality=12&learn=on&captions=kor){transcript=true}
 
 ## 더 유용한 비디오
 

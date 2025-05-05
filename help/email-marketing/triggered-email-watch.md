@@ -18,4 +18,4 @@ ht-degree: 0%
 
 트리거된 스마트 캠페인을 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345480/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411484/?quality=12&learn=on&captions=kor){transcript=true}

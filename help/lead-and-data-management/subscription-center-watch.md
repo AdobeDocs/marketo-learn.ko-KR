@@ -20,4 +20,4 @@ ht-degree: 0%
 
 구독 센터를 설정하고 관리하여 사용자와 구독자 간의 프로세스를 구현하는 방법을 확인하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/345427/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412236/?quality=12&learn=on&captions=kor){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 당신의 웹사이트가 수백 개의 검색 결과에서 유실되고 있습니까? SEO 및 PPC 전략을 개선하여 브랜드 가시성을 높이는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345401/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413403/?quality=12&learn=on&captions=kor){transcript=true}

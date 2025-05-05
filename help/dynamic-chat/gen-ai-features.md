@@ -19,4 +19,4 @@ ht-degree: 0%
 
 GenAI 기반의 대화를 유도하고 방문자가 질문을 하고, 빠른 응답을 얻고, 대화에 대한 요약을 생성할 수 있도록 하는 방법에 대해 알아봅니다. Marketo 인스턴스에서 직접 대화 통찰력을 활용합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429153/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454478/?learn=on&captions=kor)

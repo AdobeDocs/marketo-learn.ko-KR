@@ -18,6 +18,6 @@ ht-degree: 0%
 
 [!UICONTROL Dynamic Chat]을(를) 사용하여 15분 안에 첫 번째 대화 상자를 시작하는 데 도움이 되는 단계별 안내서입니다!
 
->[!VIDEO](https://video.tv.adobe.com/v/342164/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452675/?quality=12&learn=on&captions=kor){transcript=true}
 
 *참고: [!UICONTROL Dynamic Chat] 액세스 방법을 모르는 사용자를 위해 [여기](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=ko)짧은 비디오가 있습니다.[!UICONTROL Dynamic Chat]에 본인 또는 다른 사용자를 추가하는 데 도움이 됩니다.*

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 이메일이 구독자의 받은 편지함에 들어가지 않으면 마케팅 메시지가 목표를 충족하지 않습니다. 이메일을 읽으려는 구독자에게 이메일을 성공적으로 전달하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345481/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411479/?quality=12&learn=on&captions=kor){transcript=true}

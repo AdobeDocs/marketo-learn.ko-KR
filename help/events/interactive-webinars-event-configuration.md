@@ -20,4 +20,4 @@ ht-degree: 0%
 
 웨비나 목적에 맞게 게재 전에 대화형 웨비나 이벤트를 구성하고, 참여자가 브랜드, 제품, 서비스에 대한 관심을 유발하고 의도를 요청할 수 있을 만큼 게재가 효과적인지 확인하는 방법을 알아봅니다. 등
 
->[!VIDEO](https://video.tv.adobe.com/v/3429637/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448991/?learn=on&captions=kor)

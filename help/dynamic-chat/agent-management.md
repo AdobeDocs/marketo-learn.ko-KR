@@ -21,4 +21,4 @@ ht-degree: 0%
 웹 방문자의 관심을 끌 수 있는 한 곳에서 모든 에이전트를 관리하는 데 활용할 수 있는 모든 기능을 이해하는 데 도움이 되는 안내서입니다.
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3424829/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447240/?learn=on&captions=kor)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 Marketo에서 제어된 콘텐츠 이메일 프로그램을 설정하고 추적하는 방법을 확인하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/345465/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412033/?quality=12&learn=on&captions=kor){transcript=true}

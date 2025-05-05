@@ -18,4 +18,4 @@ ht-degree: 0%
 
 모범 사례를 통합한 랜딩 페이지를 구축하고 설계하여 더 높은 전환을 유도합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345468/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412011/?quality=12&learn=on&captions=kor){transcript=true}

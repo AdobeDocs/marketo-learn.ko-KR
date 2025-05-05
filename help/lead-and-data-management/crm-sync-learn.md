@@ -18,4 +18,4 @@ ht-degree: 0%
 
 [!DNL Marketo] CRM 동기화를 사용하면 [!DNL Marketo]과(와) CRM 간에 관련 정보를 원활하게 공유하여 마케팅 및 판매 활동을 조정할 수 있습니다. [!DNL Marketo]을(를) CRM과 동기화하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345428/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412038/?quality=12&learn=on&captions=kor){transcript=true}

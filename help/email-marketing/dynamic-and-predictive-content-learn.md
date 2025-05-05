@@ -18,4 +18,4 @@ ht-degree: 0%
 
 마케팅에서 가장 중요한 아이디어 중 하나가 관련 콘텐츠 전달입니다. Marketo Content AI를 활용하는 방법과 Marketo으로 작업할 때 다이내믹 콘텐츠를 적용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345485/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411450/?quality=12&learn=on&captions=kor){transcript=true}

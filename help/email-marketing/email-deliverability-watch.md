@@ -18,4 +18,4 @@ ht-degree: 0%
 
 모범 사례, 이메일 인증 및 평판을 통해 이메일 전달성을 최적화하는 방법을 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/345482/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411474/?quality=12&learn=on&captions=kor){transcript=true}

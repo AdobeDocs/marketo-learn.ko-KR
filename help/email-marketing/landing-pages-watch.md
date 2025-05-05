@@ -18,4 +18,4 @@ ht-degree: 0%
 
 랜딩 페이지를 만들고, 사용자 정의하고, 개인화하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345469/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412006/?quality=12&learn=on&captions=kor){transcript=true}

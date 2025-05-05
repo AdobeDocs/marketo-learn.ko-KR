@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Marketo Engage에서 중복을 처리하기 위한 주요 솔루션을 다시 검토하고 팀의 요구 사항과 리소스에 가장 적합한 솔루션을 선택하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429502/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3436647/?learn=on&enablevpops&captions=kor)

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 자신이 누구이며 무엇을 하는지에 따라 각 웹 사이트 방문자에게 개인적이고 적절한 경험을 제공합니다. 보다 맞춤화되고, 의미 있고, 매력적인 경험을 만들기 위해 웹 사이트 방문자를 세그먼트화하고 타겟팅하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345405/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3413418/?quality=12&learn=on&captions=kor){transcript=true}

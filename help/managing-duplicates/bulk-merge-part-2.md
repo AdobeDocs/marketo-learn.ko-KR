@@ -20,4 +20,4 @@ ht-degree: 0%
 
 정리 목록 가져오기에 대한 수식 및 모범 사례를 사용하여 Excel에서 중복 레코드를 정렬하고 통합하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429492/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3449685/?learn=on&enablevpops&captions=kor)

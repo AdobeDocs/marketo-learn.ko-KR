@@ -20,7 +20,7 @@ ht-degree: 0%
 
 대화 상자 미리보기 기능을 사용하면 게시하기 전에 대화 상자를 미리 볼 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416923/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3436863/?quality=12&learn=on&captions=kor){transcript=true}
 
 ## 더 유용한 비디오
 

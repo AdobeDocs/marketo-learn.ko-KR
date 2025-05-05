@@ -20,4 +20,4 @@ ht-degree: 0%
 
 구조화된 워크플로우 및 정기 감사를 통해 중복을 발견하고 방지할 수 있는 도구와 팁을 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429500/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3447105/?learn=on&enablevpops&captions=kor)

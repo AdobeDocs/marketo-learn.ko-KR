@@ -18,4 +18,4 @@ ht-degree: 0%
 
 개인화된 이메일 뉴스레터를 사용하여 비용 효율적인 방식으로 잠재 고객 및 고객과 교류하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/345471/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412001/?quality=12&learn=on&captions=kor){transcript=true}

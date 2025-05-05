@@ -18,4 +18,4 @@ ht-degree: 0%
 
 [!UICONTROL Dynamic Chat]이(가) 이제 Document Cloud PDF 포함 API와 통합되었습니다. 이렇게 하면 [!UICONTROL Dynamic Chat]에서 디자인하는 개인화된 대화 내에서 PDF 문서를 공유할 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/343479/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3447984/?quality=12&learn=on&captions=kor){transcript=true}

@@ -18,4 +18,4 @@ ht-degree: 0%
 
 바이어 여정 단계별로 리드가 몇 개인지, 영업은 언제 연락해야 하는지 알고 있나요? 점수를 사용하여 잠재 고객의 여정 위치에 대한 통찰력을 얻는 [!UICONTROL 개인 라이프사이클] 프로그램을 만드는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345422/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412256/?quality=12&learn=on&captions=kor){transcript=true}

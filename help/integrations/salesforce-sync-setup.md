@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Marketo Engage과 Salesforce가 함께 판매와 마케팅 데이터를 동기화하는 방법에 대해 알아봅니다. 이 튜토리얼에서는 동기화 작동 방식과 올바른 데이터 흐름을 위한 동기화 설정, 제대로 작동하는지 확인하기 위한 필수 사항을 안내합니다. Salesforce 동기화 관리를 위한 추가 팁과 요령은 동기화할 필드를 선택하고 더 이상 필요하지 않은 필드를 숨기는 데 도움이 되도록 공유됩니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424719/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3426908/?learn=on&captions=kor)
 
 ## 비디오에 사용된 링크
 

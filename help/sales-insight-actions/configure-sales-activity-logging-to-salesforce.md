@@ -16,7 +16,7 @@ ht-degree: 0%
 
 Sales Insight Actions 활동을 구성하고 [!DNL Salesforce] 계정에 기록하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449206/?quality=12&learn=on&captions=kor){transcript=true}
 
 ## 관련 비디오
 

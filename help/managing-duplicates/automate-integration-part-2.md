@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Marketo Engage 및 iPaaS 도구 간에 중복 관리를 자동화하기 위해 필드 매핑, 병합 논리 및 예약을 설정하는 방법에 대해 알아봅니다. 이 워크플로우의 비디오 데모에서는 Vertify 를 예로 사용합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3453814/?learn=on&enablevpops&captions=kor)

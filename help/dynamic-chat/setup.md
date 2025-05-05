@@ -18,7 +18,7 @@ ht-degree: 0%
 
 웹 사이트 또는 랜딩 페이지에 챗봇 JavaScript을 설치하고 브랜드에 맞게 모양을 맞춤화하는 데 도움이 되는 안내서입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340257/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345024/?quality=12&learn=on&captions=kor){transcript=true}
 
 ## 더 유용한 비디오
 

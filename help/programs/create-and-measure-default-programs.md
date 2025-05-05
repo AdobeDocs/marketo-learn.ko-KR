@@ -20,4 +20,4 @@ ht-degree: 0%
 
 기본 프로그램의 성공을 만들고 측정하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419623/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3432192/?learn=on&captions=kor){transcript=true}

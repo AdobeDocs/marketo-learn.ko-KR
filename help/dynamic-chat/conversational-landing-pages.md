@@ -26,4 +26,4 @@ ht-degree: 0%
 - 방문자 선택/관심사에 따른 권장 콘텐츠
 - 문서 공유 및 참여 추적
 
->[!VIDEO](https://video.tv.adobe.com/v/3429414/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445108/?learn=on&captions=kor)

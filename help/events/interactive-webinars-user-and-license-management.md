@@ -20,4 +20,4 @@ ht-degree: 0%
 
 대화형 웨비나 라이선스의 사용자 권한과 함께 대화형 웨비나 라이선스의 라이선스 가용성 및 사용 제한 모니터링에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446123/?learn=on&captions=kor)

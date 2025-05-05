@@ -26,4 +26,4 @@ ht-degree: 0%
 * 항상 건배자들에게 말을 하고 있는지
 * 양식 작성 후 또는 자동화된 채팅 대화 중에 제공
 
->[!VIDEO](https://video.tv.adobe.com/v/3424828/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452065/?learn=on&captions=kor)

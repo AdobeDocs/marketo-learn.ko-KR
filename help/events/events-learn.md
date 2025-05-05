@@ -18,4 +18,4 @@ ht-degree: 0%
 
 이벤트 마케팅 프로그램에서 직접 참여 를 활용하여 관계를 구축하고, 호감을 얻고, 잠재 구매자와 고객의 신뢰를 얻을 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345472/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3411684/?quality=12&learn=on&captions=kor){transcript=true}

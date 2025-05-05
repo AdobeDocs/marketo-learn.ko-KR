@@ -18,4 +18,4 @@ ht-degree: 0%
 
 봇별 이메일 활동을 식별하는 데 도움이 되는 안내서와 봇을 제외한 캠페인을 필터링하고 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/341158/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3445119/?quality=12&learn=on&captions=kor){transcript=true}

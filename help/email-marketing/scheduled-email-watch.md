@@ -18,7 +18,7 @@ ht-degree: 0%
 
 예약된 이메일 프로그램을 만들고, 관리하고, 추적하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345467/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412016/?quality=12&learn=on&captions=kor){transcript=true}
 
 ## 추가 리소스
 

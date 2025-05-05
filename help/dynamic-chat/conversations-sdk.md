@@ -20,4 +20,4 @@ ht-degree: 0%
 
 웹 페이지의 모든 CTA 클릭, 페이지 로드 또는 방문자 작업을 대화 SDK를 사용하는 매력적인 대화로 전환합니다. 다음은 웹 사이트에 를 구현하는 단계별 안내서입니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3425034/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448869/?learn=on&captions=kor)

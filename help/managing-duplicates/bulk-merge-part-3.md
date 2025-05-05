@@ -20,4 +20,4 @@ ht-degree: 0%
 
 정리된 데이터를 Marketo Engage으로 다시 가져오고 운영 캠페인으로 중복을 효과적으로 관리하여 벌크 병합을 완료합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429488/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452754/?learn=on&enablevpops&captions=kor)
