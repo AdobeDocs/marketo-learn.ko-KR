@@ -20,4 +20,4 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/342164/?quality=12&learn=on){transcript=true}
 
-*참고: [!UICONTROL Dynamic Chat] 액세스 방법을 모르는 사용자를 위해 [여기](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=en)짧은 비디오가 있습니다.[!UICONTROL Dynamic Chat]에 본인 또는 다른 사용자를 추가하는 데 도움이 됩니다.*
+*참고: [!UICONTROL Dynamic Chat] 액세스 방법을 모르는 사용자를 위해 [여기](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/dynamic-chat/user-management.html?lang=ko)짧은 비디오가 있습니다.[!UICONTROL Dynamic Chat]에 본인 또는 다른 사용자를 추가하는 데 도움이 됩니다.*

@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # 간편한 문제 해결을 위한 CRM 동기화 오류 기록
 
-Marketo Engage 관리자는 인스턴스가 CRM과 동기화 상태인지 확인하는 것이 [일별 루틴](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}의 핵심 부분이어야 합니다. [알림 섹션](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"}(Marketo Engage 인터페이스 오른쪽 상단 모서리에서 찾기)에서 자주 발생하는 동기화 문제를 찾아 조사하기 시작할 수 있지만 인스턴스의 상태를 체계적으로 관리하는 데 도움이 되는 Pro 팁이 있습니다. Adobe Marketo 챔피언(2019-2022), Amy Goldfine은 관리자가 보다 쉽게 문제를 해결할 수 있도록 CRM 동기화 오류 로그를 유지할 것을 권장합니다.
+Marketo Engage 관리자는 인스턴스가 CRM과 동기화 상태인지 확인하는 것이 [일별 루틴](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}의 핵심 부분이어야 합니다. [알림 섹션](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html?lang=ko){target="_blank"}(Marketo Engage 인터페이스 오른쪽 상단 모서리에서 찾기)에서 자주 발생하는 동기화 문제를 찾아 조사하기 시작할 수 있지만 인스턴스의 상태를 체계적으로 관리하는 데 도움이 되는 Pro 팁이 있습니다. Adobe Marketo 챔피언(2019-2022), Amy Goldfine은 관리자가 보다 쉽게 문제를 해결할 수 있도록 CRM 동기화 오류 로그를 유지할 것을 권장합니다.
 
 ![동기화 오류 탭의 스크린샷](/help/tutorial-inherited-instance/_assets/Marketo_Engage_Admin_Salesforce_Sync_Errors_Tab.png)
 
@@ -33,7 +33,7 @@ CRM 동기화 오류를 로깅함으로써 Marketo Engage 관리자는 CRM 관�
 
 **1단계:** Marketo Engage의 *[!UICONTROL 관리자] 섹션*(으)로 이동 *[!UICONTROL 통합]*&#x200B;에서 사용하는 [!DNL CRM]에 따라 *[!DNL Salesforce]*, *[!DNL Microsoft Dynamics]* 또는 *[!DNL Veeva]*&#x200B;을(를) 클릭한 다음 *[!UICONTROL 동기화 오류]* 탭을 클릭합니다.
 
-**2단계:** [!UICONTROL 필터] 패널을 통해 [오류 레코드를  [!DNL CSV] 파일로 내보내기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html#filter-sync-errors){target="_blank"}하도록 선택할 수 있습니다. 몇 시간만 있으면 *[!UICONTROL 동기화 오류]* 탭에서 직접 복사하여 붙여 넣는 것이 좋습니다.
+**2단계:** [!UICONTROL 필터] 패널을 통해 [오류 레코드를  [!DNL CSV] 파일로 내보내기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/crm-sync/salesforce-sync/salesforce-sync-errors.html?lang=ko#filter-sync-errors){target="_blank"}하도록 선택할 수 있습니다. 몇 시간만 있으면 *[!UICONTROL 동기화 오류]* 탭에서 직접 복사하여 붙여 넣는 것이 좋습니다.
 
 **3단계:** 오류가 발생한 날짜를 확인합니다.
 

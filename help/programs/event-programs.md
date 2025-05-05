@@ -26,11 +26,11 @@ ht-degree: 0%
 
 자세한 내용은 관련 제품 안내서를 참조하십시오.
 
-* [이벤트 프로그램 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=en)
+* [이벤트 프로그램 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=ko)
 
 이 기능에 대한 추가 도움말을 보려면 추가 비디오를 시청하십시오.
-* [이벤트 안내](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en)
-* [웨비나 연습](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=en)
+* [이벤트 안내](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=ko)
+* [웨비나 연습](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=ko)
 
 이벤트 프로그램 사용 방법에 대해 동료로부터 알아보십시오.
 * [전문 고객 블로그 게시물: 이벤트 프로그램](https://nation.marketo.com/t5/product-blogs/marketo-success-series-event-programs/ba-p/299191)

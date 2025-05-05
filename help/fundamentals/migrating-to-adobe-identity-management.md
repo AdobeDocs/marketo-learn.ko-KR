@@ -30,15 +30,15 @@ Adobe은 Adobe Marketo Engage 구독 및 사용자를 관리하는 방법을 개
 
 * Marketo Engage 구독을 마이그레이션할 Adobe Admin Console(또는 Adobe 조직)를 확인합니다. Marketo Engage의 기본 대화 자동화 도구인 [Dynamic Chat](/help/dynamic-chat/dynamic-chat-overview.md){target="_blank"}용 Adobe Admin Console이 있을 수 있습니다. Marketo Engage 구독은 Dynamic Chat과 동일한 조직에 배포되어야 합니다.
 
-* IT 팀과 함께 [이 맨 위에 나열된 모든 Adobe 도메인을 Marketo Engage](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"}하여 Adobe ID로 마이그레이션 후 허용 목록에 추가하다 액세스가 중단되는 것을 방지합니다.
+* IT 팀과 함께 [이 맨 위에 나열된 모든 Adobe 도메인을 Marketo Engage](https://experienceleague.adobe.com/ko/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"}하여 Adobe ID로 마이그레이션 후 허용 목록에 추가하다 액세스가 중단되는 것을 방지합니다.
 
-* **선택 사항:** [사용자 마이그레이션 전에 SSO(Single Sign-On) 구현](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}.
+* **선택 사항:** [사용자 마이그레이션 전에 SSO(Single Sign-On) 구현](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console#subscription-migration-complete){target="_blank"}.
 
   >[!NOTE]
   >
   >Marketo Engage 지원 SSO와 Adobe Admin Console SSO 사이에는 차이가 있습니다. 따라서 구성을 변경해야 할 수 있습니다.
 
-* **선택 사항:** Marketo Engage 사용자가 인증된 상태를 유지할 수 있도록 사용자 마이그레이션 전에 [원하는 최대 세션 수명을 사용자 지정](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}합니다.
+* **선택 사항:** Marketo Engage 사용자가 인증된 상태를 유지할 수 있도록 사용자 마이그레이션 전에 [원하는 최대 세션 수명을 사용자 지정](https://helpx.adobe.com/kr/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}합니다.
 
 * [샘플 전자 메일 섹션](#announce-the-migration-timeline)에서 시스템 관리자와 통신하는 방법을 알아봅니다.
 
@@ -50,13 +50,13 @@ Adobe은 Adobe Marketo Engage 구독 및 사용자를 관리하는 방법을 개
 
 Marketo Engage 관리자를 위한 이 항목에 대한 자세한 내용은 다음 도움말 문서에서 확인할 수 있습니다.
 
-* [사용자 설정 검사 목록](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/user-setup){target="_blank"}
+* [사용자 설정 검사 목록](https://experienceleague.adobe.com/ko/docs/marketo/using/getting-started/initial-setup/user-setup){target="_blank"}
 
-* [Adobe Identity Management 개요](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}
+* [Adobe Identity Management 개요](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/adobe-identity-management-overview){target="_blank"}
 
-* [Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그레이션 이해](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console){target="_blank"}
+* [Marketo 구독 및 Adobe Admin Console으로의 사용자 마이그레이션 이해](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/understanding-marketo-subscription-and-user-migration-to-the-adobe-admin-console){target="_blank"}
 
-* [마이그레이션 콘솔을 사용하여 Adobe ID로 마이그레이션](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity){target="_blank"}
+* [마이그레이션 콘솔을 사용하여 Adobe ID로 마이그레이션](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity){target="_blank"}
 
 * [Adobe Admin Console 사용 방법 이해](https://helpx.adobe.com/kr/enterprise/using/admin-console.html){target="_blank"}
 
@@ -64,7 +64,7 @@ Marketo Engage 관리자를 위한 이 항목에 대한 자세한 내용은 다�
 
 * 예약되면 Marketo Engage 관리자 및 사용자 달력에 마이그레이션 날짜를 표시합니다.
 
-   * 내부 타임라인에 맞게 **관리자** > **마이그레이션 콘솔** > **사전 마이그레이션**&#x200B;에서 마이그레이션 날짜를 수정할 수 있습니다. 일정 조정 및 [마이그레이션 날짜 수정](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"}의 제한 사항에 대해 자세히 알아보세요.
+   * 내부 타임라인에 맞게 **관리자** > **마이그레이션 콘솔** > **사전 마이그레이션**&#x200B;에서 마이그레이션 날짜를 수정할 수 있습니다. 일정 조정 및 [마이그레이션 날짜 수정](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/marketo-with-adobe-identity/subscription-and-user-migration/migrating-to-adobe-identity#pre-migration){target="_blank"}의 제한 사항에 대해 자세히 알아보세요.
 
 * **시스템 관리자에게 전자 메일 보내기**
 
@@ -88,13 +88,13 @@ Marketo Engage 구독이 곧 Adobe Identity Management 시스템으로 마이그
 
 * Adobe은 사용자를 조직의 기존 콘솔로 자동으로 마이그레이션하기 위해 Admin Console 시스템 관리자인 사용자의 동의를 구할 수 있습니다. 제목란 &quot;Adobe Marketo Engage `[Package Tier]`에 대한 사용자 액세스를 관리하는 데 필요한 작업&quot;이 있는 이메일에서 &quot;시작하기&quot; 버튼을 클릭하여 동의 페이지로 이동합니다.
 
-`3.` 마이그레이션 후 Marketo Engage이 experience.adobe.com에서 Adobe Experience Cloud으로 제공됩니다. Marketo Engage 액세스가 중단되지 않도록 [이(가) 위에 나열된 모든 Adobe 도메인을 문서 허용 목록](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"}하십시오.
+`3.` 마이그레이션 후 Marketo Engage이 experience.adobe.com에서 Adobe Experience Cloud으로 제공됩니다. Marketo Engage 액세스가 중단되지 않도록 [이(가) 위에 나열된 모든 Adobe 도메인을 문서 허용 목록](https://experienceleague.adobe.com/ko/docs/marketo/using/getting-started/initial-setup/configure-protocols-for-marketo){target="_blank"}하십시오.
 
 `4.` **선택 사항:** Adobe Admin Console에서 SSO(Single Sign-On)를 설정합니다.
 
 * 앞으로 Adobe ID에서 SSO로 로그인하는 사용자에게 이점을 제공하려면 사용자 마이그레이션이 발생하기 전에 Adobe Admin Console에서 SSO 설정을 지원하십시오.
 
-`5.` **선택 사항:** Adobe Admin Console에서 더 긴 [최대 세션 수명](https://helpx.adobe.com/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}을 설정합니다.
+`5.` **선택 사항:** Adobe Admin Console에서 더 긴 [최대 세션 수명](https://helpx.adobe.com/kr/enterprise/using/authentication-settings.html#advanced-settings){target="_blank"}을 설정합니다.
 
 * 사용자가 자주 로그인하지 않도록 하려면 고급 설정에서 세션 수명을 더 긴 기간으로 사용자 지정하세요.
 

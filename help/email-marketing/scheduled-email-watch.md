@@ -24,4 +24,4 @@ ht-degree: 0%
 
 이메일 프로그램에 대한 자세한 내용은 제품 안내서 를 참조하십시오.
 
-* [전자 메일 프로그램 설명서 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
+* [전자 메일 프로그램 설명서 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=ko)

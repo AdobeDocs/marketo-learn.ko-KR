@@ -28,7 +28,7 @@ Marketo Engage 내의 주요 보고서와 보고서를 가져오는 방법에 �
 
 관련 제품 안내서를 참조하십시오.
 
-* [보고서 유형 개요](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=en)
+* [보고서 유형 개요](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/basic-reporting/report-types/report-type-overview.html?lang=ko)
 
 동료로부터 학습:
 
