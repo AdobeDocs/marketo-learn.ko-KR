@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL Salesforce](으)로 영업 활동 로깅 구성'
-description: ' [!DNL Salesforce](으)로 영업 활동 로깅 구성'
+title: ' [!DNL Salesforce] (으)로 영업 활동 로깅 구성'
+description: ' [!DNL Salesforce] (으)로 영업 활동 로깅 구성'
 role: User
 level: Beginner
 exl-id: a48410aa-cd68-46b2-bd52-1a7253470e74
@@ -12,7 +12,7 @@ ht-degree: 0%
 
 ---
 
-# 영업 활동 로깅을 [!DNL Salesforce](으)로 구성 {#configure-sales-activity-logging-to-salesforce}
+# 영업 활동 로깅을 [!DNL Salesforce] (으)로 구성 {#configure-sales-activity-logging-to-salesforce}
 
 Sales Insight Actions 활동을 구성하고 [!DNL Salesforce] 계정에 기록하는 방법을 알아봅니다.
 

@@ -14,7 +14,7 @@ ht-degree: 0%
 
 ---
 
-# 15분 후에 [!UICONTROL Dynamic Chat](으)로 라이브하세요!
+# 15분 후에 [!UICONTROL Dynamic Chat] (으)로 라이브하세요!
 
 [!UICONTROL Dynamic Chat]을(를) 사용하여 15분 안에 첫 번째 대화 상자를 시작하는 데 도움이 되는 단계별 안내서입니다!
 
