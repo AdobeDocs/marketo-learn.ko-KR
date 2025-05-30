@@ -18,4 +18,4 @@ ht-degree: 0%
 
 잠재 고객/개인 채점 운영 프로그램을 구축하고, 캠페인에서 토큰을 사용하고, 미리 빌드된 캠페인을 가져오는 방법을 살펴봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345425/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412241/?quality=12&learn=on&captions=kor){transcript=true}
