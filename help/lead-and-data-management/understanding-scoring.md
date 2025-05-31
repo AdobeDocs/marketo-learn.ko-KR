@@ -20,4 +20,4 @@ ht-degree: 0%
 
 직원/잠재 고객에게 점수를 할당하여 콘텐츠와의 참여도를 평가하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463192/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463243/?learn=on&enablevpops&captions=kor)

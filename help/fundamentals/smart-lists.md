@@ -20,4 +20,4 @@ ht-degree: 0%
 
 스마트 목록을 통해 간단한 필터를 사용하여 특정 사용자 그룹을 찾는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463190/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463210/?learn=on&enablevpops&captions=kor)

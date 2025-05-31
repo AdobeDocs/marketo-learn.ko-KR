@@ -20,4 +20,4 @@ ht-degree: 0%
 
 사람 및 특정 프로그램과의 관계에 대해 자세히 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463189/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463199/?learn=on&enablevpops&captions=kor)

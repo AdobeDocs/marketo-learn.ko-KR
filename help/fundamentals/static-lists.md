@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Marketo Engage에서 일반적인 사용자 목록을 만드는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3463191/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3463221/?learn=on&enablevpops&captions=kor)
