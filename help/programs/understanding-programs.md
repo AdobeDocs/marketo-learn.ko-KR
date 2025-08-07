@@ -20,4 +20,4 @@ ht-degree: 27%
 
 프로그램은 단일 마케팅 이니셔티브를 나타냅니다. 다양한 방법으로 대상자에게 도달하기 위해 대상자를 활용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470486/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470494/?learn=on&enablevpops&captions=kor)

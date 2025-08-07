@@ -19,4 +19,4 @@ ht-degree: 4%
 
 Assets(예: 이메일, 랜딩 페이지 등)는 Marketo Engage의 마케팅 캠페인에 사용되는 구성 요소입니다. 사용 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470558/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470590/?learn=on&enablevpops&captions=kor)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 스마트 캠페인은 Marketo Engage의 엔진입니다. 이메일, 프로그램 등을 전송하는 데 사용할 수 있습니다. Marketo에서 이러한 필수 도구에 대해 모두 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470546/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470567/?learn=on&enablevpops&captions=kor)

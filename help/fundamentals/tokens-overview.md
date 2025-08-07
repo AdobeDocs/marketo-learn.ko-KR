@@ -20,4 +20,4 @@ ht-degree: 0%
 
 토큰은 Smart Campaign 흐름 단계, 이메일, 랜딩 페이지 등에서 사용하기 위해 개인화된 데이터를 가져오는 변수입니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470560/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470579/?learn=on&enablevpops&captions=kor)

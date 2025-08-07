@@ -18,4 +18,4 @@ ht-degree: 0%
 
 구매자 여정의 다양한 단계를 통해 리드(사람)가 어떻게 진행되는지 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470572/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470602/?learn=on&enablevpops&captions=kor)
