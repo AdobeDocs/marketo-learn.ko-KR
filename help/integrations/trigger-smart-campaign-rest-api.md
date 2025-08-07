@@ -4,7 +4,8 @@ description: REST API를 사용하여 Marketo Engage에서 스마트 캠페인�
 feature: REST API
 role: Admin, Developer
 level: Experienced
-source-git-commit: e840968877b3947b2d24c9416104f1dd187082cc
+exl-id: 46e54729-92ab-4bbb-9877-f762708def67
+source-git-commit: 99058de9712fbebd631215ef15a6df349ca4c3cc
 workflow-type: tm+mt
 source-wordcount: '611'
 ht-degree: 0%
@@ -29,9 +30,9 @@ ht-degree: 0%
 
 ## 1단계: 스마트 캠페인 만들기 {#step-one}
 
-1. **마케팅 활동**(으)로 이동한 다음 [프로그램](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"} 폴더 아래에서 `Send Webinar Reminder`이라는 새 [스마트 캠페인](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"}을(를) 만듭니다.
+1. **마케팅 활동**(으)로 이동한 다음 [프로그램](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"} 폴더 아래에서 [이라는 새 ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"}스마트 캠페인`Send Webinar Reminder`을(를) 만듭니다.
 
-1. **스마트 목록** 탭에서 API를 통해 캠페인을 호출할 수 있도록 [트리거를 추가](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"}합니다.
+1. **스마트 목록** 탭에서 API를 통해 캠페인을 호출할 수 있도록 [트리거를 추가](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"}합니다.
 
    * 트리거로 **캠페인이 요청됨** 선택
    * **Source**&#x200B;을(를) `Web Service API`(으)로 설정
@@ -40,7 +41,7 @@ ht-degree: 0%
 
 ## 2단계: 이메일 콘텐츠 정의 {#step-two}
 
-사용자와 [내 토큰](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"}을 모두 참조하는 [전자 메일 자산](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"}을 만들거나 편집하세요.
+사용자와 [내 토큰](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/assets/emails){target="_blank"}을 모두 참조하는 [전자 메일 자산](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/tokens/managing-my-tokens){target="_blank"}을 만들거나 편집하세요.
 
 >[!NOTE]
 >
@@ -76,13 +77,13 @@ API를 통해 값을 동적으로 전달하려면 토큰이 Marketo Engage에 �
 
 * `{{my.WebinarTitle}}` - 텍스트 토큰
 * `{{my.JoinLink}}` - 텍스트 토큰
-* `{{my.WebinarImage}}` - 텍스트 토큰(`<img>` 태그에서 `src`(으)로 사용됨)
+* `{{my.WebinarImage}}` - 텍스트 토큰(`src` 태그에서 `<img>`(으)로 사용됨)
 
 ![Campaign의 내 토큰 탭](assets/trigger-smart-campaign-rest-api-3.png)
 
 ## 4단계: 캠페인 자격 규칙 설정 및 캠페인 활성화 {#step-four}
 
-1. [자격 규칙](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"}을 구성하여 Smart Campaign을 통해 실행할 수 있는 빈도를 제어합니다.
+1. [자격 규칙](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/using-smart-campaigns/edit-qualification-rules-in-a-smart-campaign){target="_blank"}을 구성하여 Smart Campaign을 통해 실행할 수 있는 빈도를 제어합니다.
 
 1. 구성이 완료되면 **활성화**&#x200B;를 클릭하여 Smart Campaign이 API 트리거 요청을 수신할 수 있도록 합니다.
 
@@ -133,7 +134,7 @@ POST /rest/v1/campaigns/1234/trigger.json
       },
       {
         "name": "{{my.WebinarImage}}",
-        "value": "https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/events/media_1c6f338a518ada11550084c8ab3a6bbf554ff6eac.jpeg"
+        "value": "https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/events/media_1c6f338a518ada11550084c8ab3a6bbf554ff6eac.jpeg"
       }
     ]
   }
