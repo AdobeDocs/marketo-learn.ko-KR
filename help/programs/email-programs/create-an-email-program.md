@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이메일 프로그램을 사용하여 여러 수신자에게 이메일을 빠르고 쉽게 보내고 그 결과를 추적하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470607/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470614/?learn=on&enablevpops&captions=kor)
