@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이메일 프로그램에서 랜딩 페이지를 만들고, 사용자 정의하고, 승인하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470631/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470652/?learn=on&enablevpops&captions=kor)

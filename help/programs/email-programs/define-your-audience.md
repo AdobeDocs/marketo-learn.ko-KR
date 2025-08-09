@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이메일 프로그램을 사용할 때 원하는 대상자를 정의하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470633/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470674/?learn=on&enablevpops&captions=kor)

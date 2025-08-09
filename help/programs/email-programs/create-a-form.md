@@ -20,4 +20,4 @@ ht-degree: 0%
 
 양식을 만들고 사용하여 리드/개인 데이터를 캡처하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470632/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470663/?learn=on&enablevpops&captions=kor)

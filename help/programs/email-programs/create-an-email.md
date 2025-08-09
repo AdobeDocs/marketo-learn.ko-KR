@@ -20,4 +20,4 @@ ht-degree: 0%
 
 이메일 프로그램에서 이메일을 만들고, 개인화하고, 테스트하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470630/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470641/?learn=on&enablevpops&captions=kor)
