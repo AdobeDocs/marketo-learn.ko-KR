@@ -58,3 +58,4 @@ If you submit a pull request with significant changes to documentation and code 
 
 * **작성자에게 보낸 변경 사항**: 보류 중인 끌어오기 요청에 대한 알림을 작성자가 받았습니다.
 * **병합 준비 완료**: 끌어오기 요청 검토 팀에서 검토할 준비가 되었습니다.
+
