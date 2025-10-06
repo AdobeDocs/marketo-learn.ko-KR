@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 543139a4013eedcea421bb7eeebea4bb683957a1
+source-git-commit: 9cf0fca2786f14ff1d2f4ddacce8b6f44ca964ca
 workflow-type: tm+mt
-source-wordcount: '501'
-ht-degree: 9%
+source-wordcount: '499'
+ht-degree: 12%
 
 ---
 
@@ -28,7 +28,7 @@ ht-degree: 9%
    + [Adobe Identity Management으로 마이그레이션](/help/fundamentals/migrating-to-adobe-identity-management.md)
    + [새 인스턴스 구성 모범 사례](/help/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [기본 프로그램 만들기에 대한 우수 사례](/help/fundamentals/best-practices-for-creating-foundational-programs.md)
-   + [새 인스턴스 구현 - 자습서](https://experienceleague.adobe.com/ko/docs/experiences-by-you/implementing-new-instance/overview)
+   + [새 인스턴스 구현 - 자습서](https://experienceleague.adobe.com/en/docs/experiences-by-you/implementing-new-instance/overview)
    + [상속된 인스턴스 감사 - 자습서](https://experienceleague.adobe.com/docs/marketo-learn/auditing-an-inherited-instance/overview.html?lang=ko)
 + 프로그램 및 캠페인 {#programs-and-campaigns}
    + [프로그램 이해](/help/programs/understanding-programs.md)
@@ -62,7 +62,7 @@ ht-degree: 9%
    + [A/B 테스트 연습](/help/email-marketing/ab-testing-watch.md)
    + [랜딩 페이지](/help/email-marketing/landing-pages-learn.md)
    + [랜딩 페이지 둘러보기](/help/email-marketing/landing-pages-watch.md)
-   + [Forms](/help/email-marketing/forms-learn.md)
+   + [양식](/help/email-marketing/forms-learn.md)
    + [이메일 전달성](/help/email-marketing/email-deliverability-learn.md)
    + [이메일 전달성 설명](/help/email-marketing/email-deliverability-watch.md)
    + [트리거된 이메일](/help/email-marketing/triggered-email-learn.md)
@@ -76,7 +76,6 @@ ht-degree: 9%
    + [모바일 마케팅 둘러보기](/help/cross-channel-marketing/mobile-marketing-watch.md)
    + [SEO 및 PPC](/help/cross-channel-marketing/seo-and-ppc-learn.md)
    + [SEO 및 PPC 둘러보기](/help/cross-channel-marketing/seo-and-ppc-watch.md)
-   + [소셜 마케팅](/help/cross-channel-marketing/social-marketing-learn.md)
    + [웹 개인화](/help/cross-channel-marketing/web-personalization-learn.md)
    + [웹 개인화 둘러보기](/help/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
@@ -107,7 +106,7 @@ ht-degree: 9%
    + [개요](/help/sales-insight-actions/overview.md)
    + [Sales Insight 작업 개요](/help/sales-insight-actions/sales-insight-actions-overview.md)
    + [Sales Insight 작업 인스턴스 액세스](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [[!DNL Salesforce] (으)로 영업 활동 로깅 구성](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
+   + [ [!DNL Salesforce](으)로 영업 활동 로깅 구성](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + 리드 및 데이터 관리 {#lead-and-data-management}
    + [채점 이해](/help/lead-and-data-management/understanding-scoring.md)
    + [잠재 고객/개인 점수 책정](/help/lead-and-data-management/lead-scoring-learn.md)
@@ -137,7 +136,7 @@ ht-degree: 9%
 + 보고 및 분석 {#reporting}
    + [주요 보고서](/help/reporting/key-reports.md)
 + 통합 {#integrations}
-   + [Real-Time Customer Data Platform이 포함된 Marketo](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html?lang=ko)
+   + [Real-Time Customer Data Platform이 포함된 Marketo](https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-marketo.html)
    + [API 도움말 - 변수에서 액세스 토큰을 설정하는 방법](/help/integrations/api-set-access-token-variable.md)
    + [REST API 및 토큰을 사용하여 Marketo Engage에서 스마트 캠페인을 트리거하는 방법](/help/integrations/trigger-smart-campaign-rest-api.md)
 + 중복 관리 {#manage-duplicates}
