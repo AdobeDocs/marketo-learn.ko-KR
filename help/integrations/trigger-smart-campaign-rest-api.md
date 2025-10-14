@@ -30,7 +30,7 @@ ht-degree: 0%
 
 ## 1단계: 스마트 캠페인 만들기 {#step-one}
 
-1. **마케팅 활동**(으)로 이동한 다음 [프로그램](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"} 폴더 아래에서 [이라는 새 ](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"}스마트 캠페인`Send Webinar Reminder`을(를) 만듭니다.
+1. **마케팅 활동**(으)로 이동한 다음 [프로그램](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs){target="_blank"} 폴더 아래에서 [이라는 새 &#x200B;](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns){target="_blank"}스마트 캠페인`Send Webinar Reminder`을(를) 만듭니다.
 
 1. **스마트 목록** 탭에서 API를 통해 캠페인을 호출할 수 있도록 [트리거를 추가](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/define-smart-list-for-smart-campaign-trigger){target="_blank"}합니다.
 
