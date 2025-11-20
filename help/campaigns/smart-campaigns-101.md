@@ -21,7 +21,7 @@ ht-degree: 40%
 
 스마트 캠페인은 Marketo의 엔진입니다. 스마트 캠페인을 사용하여 이메일 및 프로그램을 보낼 수 있을 뿐만 아니라 다양한 사용 사례에서 스마트 캠페인을 사용할 수 있습니다. 데이터 표준화 및 자동화된 알림을 위해 스마트 캠페인을 사용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3424493/?captions=kor&quality=12&learn=on){transcript=true}
 
 
 ## 추가 리소스
