@@ -30,9 +30,9 @@ ht-degree: 14%
 * 설정
    * **[챗봇 설정 및 설치](setup.md)**
      *[!UICONTROL Dynamic Chat] 구독을 설정하는 단계를 알아봅니다.*
-   * **[[!UICONTROL Dynamic Chat]](marketo-integration.md)**와(과) Marketo 통합 활성화
+   * **[[!UICONTROL Dynamic Chat]](marketo-integration.md)**&#x200B;와(과) Marketo 통합 활성화
      *웹 방문자를 대상으로 대화를 나누고 Marketo의 잠재 고객 정보를 사용하여 개인화합니다.*
-   * **[[!UICONTROL Dynamic Chat]](user-management.md)**의 사용자 추가 및 관리
+   * **[[!UICONTROL Dynamic Chat]](user-management.md)**&#x200B;의 사용자 추가 및 관리
      *[!UICONTROL Dynamic Chat]에서 사용자를 추가하거나 관리하는 방법에 대해 알아봅니다.*
    * **[에이전트 관리](agent-management.md)**
      *에이전트를 관리하는 방법을 알아봅니다.*

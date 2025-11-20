@@ -106,7 +106,7 @@ ht-degree: 12%
    + [개요](/help/sales-insight-actions/overview.md)
    + [Sales Insight 작업 개요](/help/sales-insight-actions/sales-insight-actions-overview.md)
    + [Sales Insight 작업 인스턴스 액세스](/help/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [ [!DNL Salesforce](으)로 영업 활동 로깅 구성](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
+   + [[!DNL Salesforce] (으)로 영업 활동 로깅 구성](/help/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + 리드 및 데이터 관리 {#lead-and-data-management}
    + [채점 이해](/help/lead-and-data-management/understanding-scoring.md)
    + [잠재 고객/개인 점수 책정](/help/lead-and-data-management/lead-scoring-learn.md)
