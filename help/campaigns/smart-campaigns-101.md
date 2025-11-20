@@ -12,8 +12,8 @@ exl-id: fb050abb-5b43-42da-a4ae-83780d4abb1c
 feature: Smart Campaigns
 source-git-commit: 081fe7d08986c45f83a8edd1a0805a66e1ff20d6
 workflow-type: tm+mt
-source-wordcount: '125'
-ht-degree: 33%
+source-wordcount: '123'
+ht-degree: 40%
 
 ---
 
@@ -21,14 +21,14 @@ ht-degree: 33%
 
 스마트 캠페인은 Marketo의 엔진입니다. 스마트 캠페인을 사용하여 이메일 및 프로그램을 보낼 수 있을 뿐만 아니라 다양한 사용 사례에서 스마트 캠페인을 사용할 수 있습니다. 데이터 표준화 및 자동화된 알림을 위해 스마트 캠페인을 사용하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424493/?quality=12&learn=on&captions=kor){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
 
 
 ## 추가 리소스
 
 **설명서:**
 
-* [스마트 캠페인 설명서 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=ko)
+* [스마트 캠페인 설명서 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/understanding-smart-campaigns.html?lang=en)
 
 **전문 고객 블로그 게시물:**
 
