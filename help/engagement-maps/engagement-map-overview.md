@@ -21,4 +21,4 @@ ht-degree: 100%
 
 참여 맵을 통해 캠페인 속도를 높이는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422232/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423308/?captions=kor&learn=on){transcript=true}
