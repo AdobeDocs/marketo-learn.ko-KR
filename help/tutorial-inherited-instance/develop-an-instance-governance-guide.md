@@ -1,6 +1,6 @@
 ---
 title: 설명서를 사용하여 인스턴스 거버넌스 안내서 개발
-description: Marketo Engage 인스턴스에 대한 설명서 및 변경 로그를 만들고 유지 관리하는 강력한 절차를 설정하는 방법에 대해 알아봅니다. 이렇게 하면 팀의 지식 공유에 드는 시간이 절약될 뿐만 아니라 인스턴스의 상태와 효율성도 향상됩니다.
+description: Marketo Engage 인스턴스의 설명서 및 변경 로그를 만들고 유지 관리하는 강력한 절차를 설정하는 방법에 대해 알아봅니다. 이렇게 하면 팀의 지식 공유에 드는 시간이 절약될 뿐만 아니라 인스턴스의 상태와 효율성도 향상됩니다.
 feature: Administration
 role: Admin
 level: Intermediate, Experienced
@@ -8,12 +8,12 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: false
+index: true
 exl-id: 4313b54a-1848-4684-b037-7a7795dd01ec
-source-git-commit: 681d390ce5ab336a7e24cc63256659a492288517
+source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
 workflow-type: tm+mt
-source-wordcount: '896'
-ht-degree: 0%
+source-wordcount: '959'
+ht-degree: 1%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 기존 [!DNL Marketo Engage] 인스턴스를 시작할 때 최신 기능 및 기술 설명서가 부족하다는 문제가 종종 발생합니다. 관리자로서 적절한 인스턴스 거버넌스를 보장하기 위한 지침을 수립하는 것은 간과할 수 없는 핵심 책임입니다. 이는 [기존 Marketo Engage 인스턴스에서 작업할 때 효율성을 높이기](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582)하는 중요한 전략 중 하나입니다.
 
-[!DNL Adobe Marketo Champion] (2018)에서 가져온 이 단계별 자습서는 Nick Hajdin이 인스턴스 설정을 간략히 설명하고, 기본 운영 프로그램을 문서화하고, [!DNL changelog]을(를) 유지 관리하여 엄격한 거버넌스 정책을 적용하는 프로세스를 안내합니다.
+[!DNL Adobe Marketo Champion]&#x200B;(2018)에서 가져온 이 단계별 자습서는 Nick Hajdin이 인스턴스 설정을 간략히 설명하고, 기본 운영 프로그램을 문서화하고, [!DNL changelog]을(를) 유지 관리하여 엄격한 거버넌스 정책을 적용하는 프로세스를 안내합니다.
 
 ## 상속된 인스턴스에 대한 인스턴스 거버넌스 안내서 및 설명서를 개발하는 이유는 무엇입니까?
 
@@ -29,7 +29,7 @@ ht-degree: 0%
 
 1. 확장 가능한 방식으로 내부 사용자를 보다 쉽게 교육합니다.
 2. 장기적으로 [!DNL Marketo Engage]에서 보다 효율적으로 빌드합니다.
-3. 이메일, [감사 추적](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=ko) 및 [활동 로그](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=ko)를 검색하는 데 걸리는 시간을 줄이기 위해 인스턴스의 상태 및 위생 상태를 유지하세요.
+3. 이메일, [감사 추적](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html) 및 [활동 로그](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html)를 검색하는 데 걸리는 시간을 줄이기 위해 인스턴스의 상태 및 위생 상태를 유지하세요.
 4. 팀에 이직이 있는 경우 새 [!DNL Marketo Engage] 관리자에게 [!DNL Marketo Engage] 지식을 전송하는 데 시간을 절약하십시오.
 
 ## [!DNL Marketo Engage] 거버넌스 안내서 101
@@ -51,9 +51,9 @@ ht-degree: 0%
 
 ### 2단계: [!DNL Marketo Engage] 설명서 및 [!DNL Changelogs]에 포함할 요소 식별
 
-형식은 클라우드 기반 플랫폼부터 공유 문서까지 다양합니다. 조직의 요구 사항에 맞는 형식을 디자인할 수 있습니다. [시작할 수 있는 중요한 요소를 다루는 간단한 설명서 및 변경 로그 Excel 서식 파일입니다](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx). 여기에는 다음이 포함됩니다.
+형식은 클라우드 기반 플랫폼부터 공유 문서까지 다양합니다. 조직의 요구 사항에 맞는 형식을 디자인할 수 있습니다. [다음은 시작할 수 있는 중요한 요소를 다루는 간단한 설명서 및 변경 로그 Excel 템플릿](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)입니다. 여기에는 다음이 포함됩니다.
 
-* 사용자 가이드
+* 설명서
    * 프로그램 템플릿 이름
    * 채널
    * 만든 날짜
@@ -61,7 +61,7 @@ ht-degree: 0%
    * 프로그램 목적
    * 상태
    * 프로그램 템플릿 링크
-   * 참고 사항
+   * 메모
 * 변경 로그
    * 프로그램 템플릿 이름
    * 변경 날짜
@@ -110,7 +110,7 @@ Marketo Engage 인스턴스에 대한 포괄적이고 최신 설명서를 유지
 ### 작성자
 
 **Nick Hajdin**
-[!DNL Adobe Marketo Champion] (2018)
+[!DNL Adobe Marketo Champion]&#x200B;(2018)
 *[!DNL Digital Technology Senior Manager at Accenture]*
 
 ![Nick Hajdin](/help/tutorial-inherited-instance/_assets/authors/Customer_Author_Nicholas_Hajdin.png){width="30%"}
@@ -118,4 +118,4 @@ Marketo Engage 인스턴스에 대한 포괄적이고 최신 설명서를 유지
 **에이미 추**
 *채택 및 유지 마케팅 관리자, Adobe*
 
-![에이미 주](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}
+![에이미 추](/help/tutorial-inherited-instance/_assets/authors/Adobe_Author_Amy_Chiu.png){width=30%}

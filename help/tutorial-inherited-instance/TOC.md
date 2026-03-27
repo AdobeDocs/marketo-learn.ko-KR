@@ -7,10 +7,10 @@ index: false
 role: Admin
 level: Beginner
 auto-video-transcripts: true
-source-git-commit: c2b949e268e66a0d85c251658a49048e451fac1e
+source-git-commit: d486e3d7fc1b9aed1e447dd230bc8d65a2caeb50
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 0%
+source-wordcount: '86'
+ht-degree: 13%
 
 ---
 
@@ -22,5 +22,5 @@ ht-degree: 0%
 + [간편한 문제 해결을 위한 CRM 동기화 오류 기록](/help/tutorial-inherited-instance/log-crm-sync-errors-for-easy-troubleshootig.md)
 + [인스턴스 거버넌스 안내서 개발](/help/tutorial-inherited-instance/develop-an-instance-governance-guide.md)
 + [마케팅 기술 스택을 시각적으로 매핑](/help/tutorial-inherited-instance/create-a-visual-data-flow-diagram.md)
-+ [프로그램 출시 전 품질 보증 프로세스](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)
-+ [Marketo Engage Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ko)
++ [프로그램 사전 실행 품질 Assurance 프로세스](/help/tutorial-inherited-instance/essential-program-pre-launch-qa.md)
++ [Marketo Engage 튜토리얼](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=ko-kr)
