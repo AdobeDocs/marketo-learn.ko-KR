@@ -1,6 +1,6 @@
 ---
-title: ' [!DNL Salesforce](으)로 영업 활동 로깅 구성'
-description: ' [!DNL Salesforce](으)로 영업 활동 로깅 구성'
+title: ' [!DNL Salesforce] (으)로 영업 활동 로깅 구성'
+description: ' [!DNL Salesforce] (으)로 영업 활동 로깅 구성'
 role: User
 level: Beginner
 exl-id: a48410aa-cd68-46b2-bd52-1a7253470e74
@@ -21,4 +21,4 @@ ht-degree: 0%
 ## 관련 비디오
 
 * [Sales Insight 작업 개요](/help/main/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
-* [ [!DNL Sales Insight Actions] 인스턴스에 액세스](/help/main/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
+* [&#x200B; [!DNL Sales Insight Actions] 인스턴스에 액세스](/help/main/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}

@@ -21,4 +21,4 @@ ht-degree: 0%
 ## 관련 비디오
 
 * [Sales Insight 작업 개요](/help/main/sales-insight-actions/sales-insight-actions-overview.md){target="_blank"}
-* [ [!DNL Salesforce](으)로 영업 활동 로깅 구성](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
+* [&#x200B; [!DNL Salesforce] (으)로 영업 활동 로깅 구성](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
