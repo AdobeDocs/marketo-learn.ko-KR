@@ -1,0 +1,22 @@
+---
+title: ' [!DNL Marketo] 인스턴스 및 프로그램 모범 사례를 사용하는 방법'
+description: Marketo에서 Marketo의 제안된 프로그램 및 인스턴스 모범 사례를 구현하는 방법을 확인하십시오.
+role: User
+level: Beginner
+jira: KT-10737
+hidefromtoc: true
+hide: true
+thumbnail: 345421.jpeg
+exl-id: 6dc6cf48-240a-45fd-9156-ece411064e89
+source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+workflow-type: tm+mt
+source-wordcount: '41'
+ht-degree: 0%
+
+---
+
+# [!DNL Marketo] 인스턴스 및 프로그램 모범 사례를 사용하는 방법
+
+Marketo에서 Marketo의 제안된 프로그램 및 인스턴스 모범 사례를 구현하는 방법을 확인하십시오.
+
+>[!VIDEO](https://video.tv.adobe.com/v/345421/?quality=12&learn=on){transcript=true}
