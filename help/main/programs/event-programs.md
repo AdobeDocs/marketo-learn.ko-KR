@@ -20,7 +20,7 @@ ht-degree: 24%
 
 이 비디오를 시청하여 기본적인 이해를 갖추고 첫 번째 이벤트 프로그램을 구축하십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419622/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3454001/?captions=kor&learn=on){transcript=true}
 
 ## 추가 리소스
 

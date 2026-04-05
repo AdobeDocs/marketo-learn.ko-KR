@@ -20,4 +20,4 @@ ht-degree: 100%
 
 대화형 웨비나 이벤트 프로그램의 다양한 요소를 빠르게 살펴보고 프로그램을 개선하기 위해 취할 수 있는 조치 사항에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429640/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450087/?captions=kor&learn=on)

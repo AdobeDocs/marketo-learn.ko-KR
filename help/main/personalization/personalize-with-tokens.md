@@ -20,4 +20,4 @@ ht-degree: 9%
 
 Marketo 프로그램에서 토큰을 사용하는 방법을 알아봅니다. Marketo 프로그램에서 토큰을 활용하면 개인화와 프로그램 빌드 시간을 단축하고 오타 또는 사람 오류의 가능성을 줄일 수 있습니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3421605/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3423552/?captions=kor&learn=on){transcript=true}

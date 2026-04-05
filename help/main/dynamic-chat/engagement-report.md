@@ -20,7 +20,7 @@ ht-degree: 8%
 
 이제 웹 방문자가 대화 상자에 어떻게 참여하는지에 대한 트렌드를 확인합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3416921/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3437707/?captions=kor&quality=12&learn=on){transcript=true}
 
 ## 더 유용한 비디오
 

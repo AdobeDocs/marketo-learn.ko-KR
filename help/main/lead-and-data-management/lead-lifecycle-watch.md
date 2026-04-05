@@ -18,4 +18,4 @@ ht-degree: 0%
 
 프로그램 상태를 사용하여 잠재 고객을 추적하고 판매 준비가 된 잠재 고객에 대해 작동하는 [!UICONTROL person lifecycle] 프로그램을 만듭니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/345423/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3412251/?captions=kor&quality=12&learn=on){transcript=true}

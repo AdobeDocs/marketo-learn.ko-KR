@@ -16,7 +16,7 @@ ht-degree: 0%
 
 [!DNL Salesforce] 계정에 Sales Insight 작업 활동을 구성하고 기록하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/340843/?quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3449206/?captions=kor&quality=12&learn=on){transcript=true}
 
 ## 관련 비디오
 

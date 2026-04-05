@@ -20,4 +20,4 @@ ht-degree: 100%
 
 대화형 웨비나에 대한 사용자 권한과 대화형 웨비나 라이선스에 대한 라이선스 가용성 및 사용 제한 모니터링에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429635/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446123/?captions=kor&learn=on)

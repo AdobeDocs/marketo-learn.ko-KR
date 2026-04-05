@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Marketo Engage에서 대화형 웨비나 이벤트를 제작하고 예약할 수 있는 이벤트 프로그램을 설정하는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429639/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443419/?captions=kor&learn=on)

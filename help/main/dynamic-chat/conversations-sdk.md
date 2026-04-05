@@ -20,4 +20,4 @@ ht-degree: 7%
 
 웹 페이지의 CTA 클릭, 페이지 로드 또는 방문자 작업을 Conversations SDK과의 매력적인 대화로 전환하십시오. 다음은 웹 사이트에 를 구현하는 단계별 안내서입니다
 
->[!VIDEO](https://video.tv.adobe.com/v/3425034/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448869/?captions=kor&learn=on)
