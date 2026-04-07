@@ -3,17 +3,17 @@ user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 22d16ad38bdaa319705cc26ac96056f33c4a255d
+source-git-commit: 85ab4e6b4a14b2dfa2faf6b427cb86aab72dc7d0
 workflow-type: tm+mt
-source-wordcount: '548'
-ht-degree: 96%
+source-wordcount: '546'
+ht-degree: 95%
 
 ---
 
 
 # [!DNL Marketo Engage] 튜토리얼 {#tutorials}
 
-+ [[!DNL Marketo Engage] 튜토리얼](overview.md)
++ [[!DNL Marketo Engage] 튜토리얼](/help/main/overview.md)
 + 기본 사항 {#fundamentals}
    + [목표 및 전략](/help/main/fundamentals/goals-and-strategy-learn.md)
    + [조직 구조](/help/main/fundamentals/organizational-structure-learn.md)
@@ -74,8 +74,6 @@ ht-degree: 96%
    + [Forms 둘러보기](/help/main/email-marketing/forms-watch.md)
    + [모바일 마케팅 통합](/help/main/cross-channel-marketing/mobile-marketing-learn.md)
    + [모바일 마케팅 둘러보기](/help/main/cross-channel-marketing/mobile-marketing-watch.md)
-   + [SEO 및 PPC](/help/main/cross-channel-marketing/seo-and-ppc-learn.md)
-   + [SEO 및 PPC 둘러보기](/help/main/cross-channel-marketing/seo-and-ppc-watch.md)
    + [웹 개인화](/help/main/cross-channel-marketing/web-personalization-learn.md)
    + [웹 개인화 둘러보기](/help/main/cross-channel-marketing/web-personalization-watch.md)
 + Dynamic Chat {#dynamic-chat}
@@ -106,7 +104,7 @@ ht-degree: 96%
    + [개요](/help/main/sales-insight-actions/overview.md)
    + [Sales Insight Actions 개요](/help/main/sales-insight-actions/sales-insight-actions-overview.md)
    + [Sales Insight Actions 인스턴스 액세스](/help/main/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [&#x200B; [!DNL Salesforce]로의 영업 활동 로깅 구성](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
+   + [ [!DNL Salesforce]로의 영업 활동 로깅 구성](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + 리드 및 데이터 관리 {#lead-and-data-management}
    + [채점 이해](/help/main/lead-and-data-management/understanding-scoring.md)
    + [리드/사용자 점수](/help/main/lead-and-data-management/lead-scoring-learn.md)
@@ -152,3 +150,6 @@ ht-degree: 96%
    + [중복 관리 자동화 2부](/help/main/managing-duplicates/automate-integration-part-2.md)
    + [중복 관리 간소화](/help/main/managing-duplicates/simplify-acs.md)
    + [중복 관리를 위한 최적의 전략 선택](/help/main/managing-duplicates/duplicate-strategy.md)
++ 반바지 {#shorts}
+   + [이메일 Designer용 AI 지원](/help/main/shorts/ai-assistant-email-designer.md)
+
