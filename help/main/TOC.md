@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 85ab4e6b4a14b2dfa2faf6b427cb86aab72dc7d0
+source-git-commit: a5807ceea7529380a7e8a03774f8f0956d385693
 workflow-type: tm+mt
-source-wordcount: '546'
+source-wordcount: '548'
 ht-degree: 95%
 
 ---
@@ -104,7 +104,7 @@ ht-degree: 95%
    + [개요](/help/main/sales-insight-actions/overview.md)
    + [Sales Insight Actions 개요](/help/main/sales-insight-actions/sales-insight-actions-overview.md)
    + [Sales Insight Actions 인스턴스 액세스](/help/main/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [&#x200B; [!DNL Salesforce]로의 영업 활동 로깅 구성](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
+   + [ [!DNL Salesforce]로의 영업 활동 로깅 구성](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + 리드 및 데이터 관리 {#lead-and-data-management}
    + [채점 이해](/help/main/lead-and-data-management/understanding-scoring.md)
    + [리드/사용자 점수](/help/main/lead-and-data-management/lead-scoring-learn.md)
@@ -151,5 +151,6 @@ ht-degree: 95%
    + [중복 관리 간소화](/help/main/managing-duplicates/simplify-acs.md)
    + [중복 관리를 위한 최적의 전략 선택](/help/main/managing-duplicates/duplicate-strategy.md)
 + 반바지 {#shorts}
-   + [이메일 Designer용 AI 지원](/help/main/shorts/ai-assistant-email-designer.md)
+   + [이메일 디자이너를 위한 AI Assistant](/help/main/shorts/ai-assistant-email-designer.md)
+   + [조건부 콘텐츠](/help/main/shorts/conditional-content.md)
 
