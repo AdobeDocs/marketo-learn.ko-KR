@@ -9,26 +9,26 @@ duration: 772
 last-substantial-update: 2024-08-06T00:00:00Z
 jira: KT-15548
 exl-id: 4da86ed6-1072-4e0e-a648-16587badaeb3
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+source-git-commit: 9bffa576fc5a05c695f7a1c83d50cbcb16f57c37
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 35%
+source-wordcount: '219'
+ht-degree: 27%
 
 ---
 
 # API 도움말 - 변수에 액세스 토큰을 설정하는 방법
 
-Postman 애플리케이션을 설정하는 방법과 변수를 활용하여 데이터를 재사용하기 위해 변수에 저장하는 방법에 대해 알아봅니다. Marketo Engage REST API 호출을 통해 액세스 토큰을 얻는 방법에 대해 배울 수도 있습니다.
+Postman 애플리케이션을 설정하는 방법과 변수를 활용하여 데이터를 재사용하기 위해 변수에 저장하는 방법에 대해 알아봅니다. 또한 액세스 토큰을 가져오기 위해 첫 번째 Marketo Engage REST API를 호출하는 방법을 알아봅니다.
 
 >[!PREREQUISITES]
 >
 >이 비디오를 시작하기 전에 AOI 역할이 있는 API 전용 사용자 이름을 만들고 Launchpad 서비스를 만듭니다. 아래 문서의 단계를 따릅니다.
 >
->* [API 전용 사용자 역할 만들기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
+>* [API 전용 사용자 역할 만들기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
 >
->* [API 전용 사용자 만들기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
+>* [API 전용 사용자 만들기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
 >
->* [REST API에 사용할 사용자 지정 서비스 만들기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
+>* [REST API에 사용할 사용자 지정 서비스 만들기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
 
 **이 비디오에 사용된 참조:**
 
@@ -43,4 +43,4 @@ pm.environment.set("access_token", jsonData.access_token);
 
 * [Marketo Engage 개발자 설명서](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"}
 
->[!VIDEO](https://video.tv.adobe.com/v/3453990/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429275/?learn=on)
