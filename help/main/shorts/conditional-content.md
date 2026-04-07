@@ -19,4 +19,4 @@ ht-degree: 14%
 
 대상자에게 표시되는 콘텐츠를 동적으로 제어하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3481282/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3481289/?captions=kor&learn=on&enablevpops)
