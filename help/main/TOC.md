@@ -3,10 +3,10 @@ user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
 auto-video-transcripts: true
-source-git-commit: a5807ceea7529380a7e8a03774f8f0956d385693
+source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
 workflow-type: tm+mt
 source-wordcount: '548'
-ht-degree: 95%
+ht-degree: 84%
 
 ---
 
@@ -104,14 +104,14 @@ ht-degree: 95%
    + [개요](/help/main/sales-insight-actions/overview.md)
    + [Sales Insight Actions 개요](/help/main/sales-insight-actions/sales-insight-actions-overview.md)
    + [Sales Insight Actions 인스턴스 액세스](/help/main/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [&#x200B; [!DNL Salesforce]로의 영업 활동 로깅 구성](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
+   + [ [!DNL Salesforce]로의 영업 활동 로깅 구성](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + 리드 및 데이터 관리 {#lead-and-data-management}
    + [채점 이해](/help/main/lead-and-data-management/understanding-scoring.md)
    + [리드/사용자 점수](/help/main/lead-and-data-management/lead-scoring-learn.md)
    + [리드/사용자 점수 둘러보기](/help/main/lead-and-data-management/lead-scoring-watch.md)
    + [리드 라이프사이클 이해](/help/main/lead-and-data-management/understanding-the-lead-lifecycle.md)
    + [구독 센터](/help/main/lead-and-data-management/subscription-center-learn.md)
-   + [구독 센터 둘러보기](/help/main/lead-and-data-management/subscription-center-watch.md)
+   + {hide-from-toc}[구독 센터 둘러보기](/help/main/lead-and-data-management/subscription-center-watch.md)
    + [CRM 동기화](/help/main/lead-and-data-management/crm-sync-learn.md)
    + [Salesforce 동기화 시작하기](/help/main/integrations/salesforce-sync-setup.md)
    + [Microsoft Dynamics 동기화 시작하기](/help/main/integrations/microsoft-dynamics-sync-setup.md)
@@ -138,18 +138,18 @@ ht-degree: 95%
    + [API 도움말 - 변수에 액세스 토큰을 설정하는 방법](/help/main/integrations/api-set-access-token-variable.md)
    + [REST API 및 토큰을 사용하여 Marketo Engage에서 스마트 캠페인을 트리거하는 방법](/help/main/integrations/trigger-smart-campaign-rest-api.md)
 + 중복 관리 {#manage-duplicates}
-   + [중복 관리 소개](/help/main/managing-duplicates/introduction-managing-duplicates.md)
-   + [중복 발생 이유 이해](/help/main/managing-duplicates/why-duplicates-occur.md)
-   + [중복 레코드 식별 및 방지](/help/main/managing-duplicates/identify-prevent-duplicates.md)
-   + [중복 레코드가 필요한 시기 결정](/help/main/managing-duplicates/determine-necessary-duplicates.md)
-   + [중복 레코드 수동 병합](/help/main/managing-duplicates/merge-manually.md)
-   + [일괄 중복 항목 병합 1부](/help/main/managing-duplicates/bulk-merge-part-1.md)
-   + [일괄 중복 항목 병합 2부](/help/main/managing-duplicates/bulk-merge-part-2.md)
-   + [일괄 중복 항목 병합 3부](/help/main/managing-duplicates/bulk-merge-part-3.md)
-   + [중복 관리 자동화 1부](/help/main/managing-duplicates/automate-integration-part-1.md)
-   + [중복 관리 자동화 2부](/help/main/managing-duplicates/automate-integration-part-2.md)
-   + [중복 관리 간소화](/help/main/managing-duplicates/simplify-acs.md)
-   + [중복 관리를 위한 최적의 전략 선택](/help/main/managing-duplicates/duplicate-strategy.md)
+   + {hide-from-toc}[중복 관리 소개](/help/main/managing-duplicates/introduction-managing-duplicates.md)
+   + {hide-from-toc}[중복 발생 이유 이해](/help/main/managing-duplicates/why-duplicates-occur.md)
+   + {hide-from-toc}[중복 레코드 식별 및 방지](/help/main/managing-duplicates/identify-prevent-duplicates.md)
+   + {hide-from-toc}[중복 레코드가 필요한 시기 확인](/help/main/managing-duplicates/determine-necessary-duplicates.md)
+   + {hide-from-toc}[중복 레코드를 수동으로 병합](/help/main/managing-duplicates/merge-manually.md)
+   + {hide-from-toc}[복제 부분 1](/help/main/managing-duplicates/bulk-merge-part-1.md) 일괄 병합
+   + {hide-from-toc}[중복 부분 2](/help/main/managing-duplicates/bulk-merge-part-2.md) 일괄 병합
+   + {hide-from-toc}[복제 부분 3](/help/main/managing-duplicates/bulk-merge-part-3.md) 일괄 병합
+   + {hide-from-toc}[중복 관리 부분 자동화](/help/main/managing-duplicates/automate-integration-part-1.md)
+   + {hide-from-toc}[중복 관리 부분 자동화](/help/main/managing-duplicates/automate-integration-part-2.md)
+   + {hide-from-toc}[중복 관리 간소화](/help/main/managing-duplicates/simplify-acs.md)
+   + {hide-from-toc}[중복을 관리하기 위한 최상의 전략을 선택하십시오](/help/main/managing-duplicates/duplicate-strategy.md)
 + 반바지 {#shorts}
    + [이메일 디자이너를 위한 AI Assistant](/help/main/shorts/ai-assistant-email-designer.md)
    + [조건부 콘텐츠](/help/main/shorts/conditional-content.md)

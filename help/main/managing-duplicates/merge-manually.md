@@ -7,9 +7,8 @@ doc-type: Feature Video
 duration: 0
 last-substantial-update: 2025-01-10T00:00:00Z
 jira: KT-16742
-hidefromtoc: true
 exl-id: e70f0e22-8951-4742-9694-0d42f7fb720a
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
 workflow-type: tm+mt
 source-wordcount: '52'
 ht-degree: 0%
@@ -20,4 +19,4 @@ ht-degree: 0%
 
 정밀도와 제어로 적은 수의 레코드를 처리하기에 완벽한 데이터베이스 섹션에서 중복을 수동으로 병합하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443657/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3429491/?learn=on&enablevpops)

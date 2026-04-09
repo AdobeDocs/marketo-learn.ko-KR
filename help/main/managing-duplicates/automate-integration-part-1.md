@@ -7,9 +7,8 @@ doc-type: Feature Video
 duration: 0
 last-substantial-update: 2025-01-10T00:00:00Z
 jira: KT-16746
-hidefromtoc: true
 exl-id: d23c31e0-8bf5-42d1-a167-6122670068ca
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 0%
@@ -20,4 +19,4 @@ ht-degree: 0%
 
 Vertify 또는 Workato와 같은 iPaaS 도구와의 API 통합을 사용하여 Marketo Engage에서 중복 관리를 간소화하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441931/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3429487/?learn=on&enablevpops)
