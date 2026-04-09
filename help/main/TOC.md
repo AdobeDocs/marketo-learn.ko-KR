@@ -104,7 +104,7 @@ ht-degree: 84%
    + [개요](/help/main/sales-insight-actions/overview.md)
    + [Sales Insight Actions 개요](/help/main/sales-insight-actions/sales-insight-actions-overview.md)
    + [Sales Insight Actions 인스턴스 액세스](/help/main/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [ [!DNL Salesforce]로의 영업 활동 로깅 구성](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
+   + [&#x200B; [!DNL Salesforce]로의 영업 활동 로깅 구성](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + 리드 및 데이터 관리 {#lead-and-data-management}
    + [채점 이해](/help/main/lead-and-data-management/understanding-scoring.md)
    + [리드/사용자 점수](/help/main/lead-and-data-management/lead-scoring-learn.md)
@@ -143,9 +143,9 @@ ht-degree: 84%
    + {hide-from-toc}[중복 레코드 식별 및 방지](/help/main/managing-duplicates/identify-prevent-duplicates.md)
    + {hide-from-toc}[중복 레코드가 필요한 시기 확인](/help/main/managing-duplicates/determine-necessary-duplicates.md)
    + {hide-from-toc}[중복 레코드를 수동으로 병합](/help/main/managing-duplicates/merge-manually.md)
-   + {hide-from-toc}[복제 부분 1](/help/main/managing-duplicates/bulk-merge-part-1.md) 일괄 병합
-   + {hide-from-toc}[중복 부분 2](/help/main/managing-duplicates/bulk-merge-part-2.md) 일괄 병합
-   + {hide-from-toc}[복제 부분 3](/help/main/managing-duplicates/bulk-merge-part-3.md) 일괄 병합
+   + {hide-from-toc}[복제 부분 1 일괄 병합](/help/main/managing-duplicates/bulk-merge-part-1.md)
+   + {hide-from-toc}[중복 부분 2 일괄 병합](/help/main/managing-duplicates/bulk-merge-part-2.md)
+   + {hide-from-toc}[복제 부분 3 일괄 병합](/help/main/managing-duplicates/bulk-merge-part-3.md)
    + {hide-from-toc}[중복 관리 부분 자동화](/help/main/managing-duplicates/automate-integration-part-1.md)
    + {hide-from-toc}[중복 관리 부분 자동화](/help/main/managing-duplicates/automate-integration-part-2.md)
    + {hide-from-toc}[중복 관리 간소화](/help/main/managing-duplicates/simplify-acs.md)
