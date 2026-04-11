@@ -29,7 +29,7 @@ ht-degree: 24%
 * [이벤트 프로그램 이해 설명서](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/events/understanding-events/understanding-event-programs.html?lang=ko)
 
 이 기능에 대한 추가 도움말을 보려면 추가 비디오를 시청하십시오.
-* [이벤트 안내](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=en)
+* [이벤트 안내](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/events-watch.html?lang=ko)
 * [웨비나 둘러보기](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/events/webinar-watch.html?lang=ko)
 
 이벤트 프로그램 사용 방법에 대해 동료로부터 알아보십시오.
