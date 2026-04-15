@@ -3,10 +3,10 @@ title: Marketo Engage 튜토리얼
 description: ' [!DNL Marketo Engage]에 대한 비디오 튜토리얼을 시청하십시오. 마케팅 자동화 기능 등을 사용하는 방법에 대한 이해도를 높이십시오.'
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+source-git-commit: 1ff5db25b71902fa4ad0e10a1466c9a12dd63404
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 94%
+source-wordcount: '249'
+ht-degree: 73%
 
 ---
 
@@ -25,14 +25,14 @@ ht-degree: 94%
 
 ## 새로운 기능 {#whats-new}
 
+* 이메일 Designer용 [AI 도우미](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/shorts/ai-assistant-email-designer)
+  _Marketo Engage 이메일 Designer에서 AI 도우미를 사용하여 현대적이고 성능이 뛰어나며 직관적인 이메일을 만들 수 있습니다._
+
+* [조건부 콘텐츠](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/shorts/conditional-content)
+  _대상자에게 표시되는 콘텐츠를 동적으로 제어하는 방법에 대해 알아봅니다._
+
 * [실시간 채팅을 구현하는 모범 사례](https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
   _Dynamic Chat에서 라이브 채팅 기능을 구현할 때 따라야 할 모범 사례에 대해 알아봅니다._
-
-* [대화형 웨비나 개요](https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/events/interactive-webinars-overview)
-  _Marketo Engage 내의 기본 제공 웨비나 플랫폼인 대화형 웨비나에 대해 모두 알아봅니다._
-
-* [Adobe Identity Management으로 마이그레이션](https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/fundamentals/migrating-to-adobe-identity-management)
-  _사용자가 중앙 위치에서 다른 Adobe 계정 및 제품과 함께 Adobe Marketo Engage를 관리할 수 있도록 Adobe Identity Management 마이그레이션 과정을 안내하는 방법을 알아봅니다._
 
 ## 가장 인기 있는 비디오 {#most-popular-videos}
 

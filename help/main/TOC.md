@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
+source-git-commit: 1ff5db25b71902fa4ad0e10a1466c9a12dd63404
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '543'
 ht-degree: 84%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 84%
    + [토큰 개요](/help/main/fundamentals/tokens-overview.md)
    + [토큰으로 개인화](/help/main/personalization/personalize-with-tokens.md)
    + [프로그램 및 캠페인](/help/main/fundamentals/programs-and-campaigns.md)
-   + [Adobe Identity Management로 마이그레이션](/help/main/fundamentals/migrating-to-adobe-identity-management.md)
    + [새 인스턴스 구성을 위한 모범 사례](/help/main/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [기초 프로그램 생성을 위한 모범 사례](/help/main/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [새 인스턴스 구현 - 자습서](https://experienceleague.adobe.com/ko/docs/experiences-by-you/implementing-new-instance/overview)
@@ -104,7 +103,7 @@ ht-degree: 84%
    + [개요](/help/main/sales-insight-actions/overview.md)
    + [Sales Insight Actions 개요](/help/main/sales-insight-actions/sales-insight-actions-overview.md)
    + [Sales Insight Actions 인스턴스 액세스](/help/main/sales-insight-actions/accessing-your-sales-insight-actions-instance.md)
-   + [&#x200B; [!DNL Salesforce]로의 영업 활동 로깅 구성](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
+   + [ [!DNL Salesforce]로의 영업 활동 로깅 구성](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md)
 + 리드 및 데이터 관리 {#lead-and-data-management}
    + [채점 이해](/help/main/lead-and-data-management/understanding-scoring.md)
    + [리드/사용자 점수](/help/main/lead-and-data-management/lead-scoring-learn.md)
@@ -143,9 +142,9 @@ ht-degree: 84%
    + {hide-from-toc}[중복 레코드 식별 및 방지](/help/main/managing-duplicates/identify-prevent-duplicates.md)
    + {hide-from-toc}[중복 레코드가 필요한 시기 확인](/help/main/managing-duplicates/determine-necessary-duplicates.md)
    + {hide-from-toc}[중복 레코드를 수동으로 병합](/help/main/managing-duplicates/merge-manually.md)
-   + {hide-from-toc}[복제 부분 1 일괄 병합](/help/main/managing-duplicates/bulk-merge-part-1.md)
-   + {hide-from-toc}[중복 부분 2 일괄 병합](/help/main/managing-duplicates/bulk-merge-part-2.md)
-   + {hide-from-toc}[복제 부분 3 일괄 병합](/help/main/managing-duplicates/bulk-merge-part-3.md)
+   + {hide-from-toc}[복제 부분 1](/help/main/managing-duplicates/bulk-merge-part-1.md) 일괄 병합
+   + {hide-from-toc}[중복 부분 2](/help/main/managing-duplicates/bulk-merge-part-2.md) 일괄 병합
+   + {hide-from-toc}[복제 부분 3](/help/main/managing-duplicates/bulk-merge-part-3.md) 일괄 병합
    + {hide-from-toc}[중복 관리 부분 자동화](/help/main/managing-duplicates/automate-integration-part-1.md)
    + {hide-from-toc}[중복 관리 부분 자동화](/help/main/managing-duplicates/automate-integration-part-2.md)
    + {hide-from-toc}[중복 관리 간소화](/help/main/managing-duplicates/simplify-acs.md)
