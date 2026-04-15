@@ -25,10 +25,10 @@ ht-degree: 73%
 
 ## 새로운 기능 {#whats-new}
 
-* 이메일 Designer용 [AI 도우미](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/shorts/ai-assistant-email-designer)
+* 이메일 Designer용 [AI 도우미](https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/shorts/ai-assistant-email-designer)
   _Marketo Engage 이메일 Designer에서 AI 도우미를 사용하여 현대적이고 성능이 뛰어나며 직관적인 이메일을 만들 수 있습니다._
 
-* [조건부 콘텐츠](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/shorts/conditional-content)
+* [조건부 콘텐츠](https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/shorts/conditional-content)
   _대상자에게 표시되는 콘텐츠를 동적으로 제어하는 방법에 대해 알아봅니다._
 
 * [실시간 채팅을 구현하는 모범 사례](https://experienceleague.adobe.com/ko/docs/marketo-learn/tutorials/dynamic-chat/live-chat-best-practices)
