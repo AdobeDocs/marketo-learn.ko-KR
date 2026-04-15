@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
+source-git-commit: 1ff5db25b71902fa4ad0e10a1466c9a12dd63404
 workflow-type: tm+mt
-source-wordcount: '548'
+source-wordcount: '543'
 ht-degree: 84%
 
 ---
@@ -25,7 +25,6 @@ ht-degree: 84%
    + [토큰 개요](/help/main/fundamentals/tokens-overview.md)
    + [토큰으로 개인화](/help/main/personalization/personalize-with-tokens.md)
    + [프로그램 및 캠페인](/help/main/fundamentals/programs-and-campaigns.md)
-   + [Adobe Identity Management로 마이그레이션](/help/main/fundamentals/migrating-to-adobe-identity-management.md)
    + [새 인스턴스 구성을 위한 모범 사례](/help/main/fundamentals/best-practices-to-organize-a-new-instance.md)
    + [기초 프로그램 생성을 위한 모범 사례](/help/main/fundamentals/best-practices-for-creating-foundational-programs.md)
    + [새 인스턴스 구현 - 자습서](https://experienceleague.adobe.com/ko/docs/experiences-by-you/implementing-new-instance/overview)
