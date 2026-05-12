@@ -5,14 +5,20 @@ feature: Administration
 role: Admin
 level: Beginner
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13890
 thumbnail: KT-13890.jpeg
 index: true
 exl-id: e42b8fe8-1d9d-4cc1-8175-c47d911f96f3
-source-git-commit: 68bcc96ad48de8df1ab64c45fe5ce80af21bc288
+TQID: https://experienceleague.adobe.com/vh3KlG5uffYOzjxm8KdzIFHi--x-wUeLQvLT7PcoO-4
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: d1d0a9cd-295d-4976-8c39-ddae266f240eid: f82558ea-6af5-44eb-a424-5b3389abb0a3
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+topic_v2: id: c1579802-ddd4-4214-8a91-97b2066abe11id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: cdd65e7e-8839-44a2-bc21-0e03623b5dd1id: e1e0219c-f879-479f-8427-888ed2a6e9c2id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: 295
 ht-degree: 0%
 
 ---
@@ -23,7 +29,7 @@ ht-degree: 0%
 
 여러 사용자가 관리한 라이브 Marketo Engage 인스턴스를 상속하면 제자리에서 벗어난 모든 것에 대해 메모하는 자신을 발견할 수 있습니다. 작업을 분류한 다음 먼 길을 가는 작업을 우선시하여 정리 및 최적화 작업을 구성하는 것이 중요합니다.
 
-Adobe Marketo Champions에서 가져온 이 &#39;상속된 인스턴스 감사 팁 및 요령&#39; 튜토리얼은 새 관리자를 위한 단계별 지침을 제공합니다. 이 자습서에는 다운로드 가능한 [감사 확인 목록](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html?lang=ko) 및 템플릿이 포함되어 있어 상속된 인스턴스를 즉시 시작할 수 있습니다. 튜토리얼을 따라 동료의 학습에서 영감을 얻으십시오!
+Adobe Marketo Champions에서 가져온 이 &#39;상속된 인스턴스 감사 팁 및 요령&#39; 튜토리얼은 새 관리자를 위한 단계별 지침을 제공합니다. 이 자습서에는 다운로드 가능한 [감사 확인 목록](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/inheriting-a-marketo-engage-instance/where-to-start.html) 및 템플릿이 포함되어 있어 상속된 인스턴스를 즉시 시작할 수 있습니다. 튜토리얼을 따라 동료의 학습에서 영감을 얻으십시오!
 
 ## 주제 및 학습 내용
 

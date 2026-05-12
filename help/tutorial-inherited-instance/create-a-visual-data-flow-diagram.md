@@ -5,14 +5,20 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13877
 thumbnail: KT-13877.jpeg
 index: true
 exl-id: 0964ca8e-6b8f-413f-a0ea-76ffabd49c39
-source-git-commit: 66ace67a9f5e1df875a56124676842372c93589b
+TQID: https://experienceleague.adobe.com/fE5i06izcS16LHY5dMbVxWcxV-ObDnw8k-7pCnqIR2s
+product_v2: id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2: id: b13bd2ad-8e65-49e5-9691-2a0d31067b35id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+role_v2: id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2: id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2: id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adebid: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
 workflow-type: tm+mt
-source-wordcount: '605'
+source-wordcount: 605
 ht-degree: 1%
 
 ---
@@ -25,7 +31,7 @@ ht-degree: 1%
 
 1. **라이브 인스턴스에서 상속받은 마케팅 기술 스택에 대해 숙지하십시오.** 모든 마케팅 운영 관리자/플랫폼 운영 관리자는 새 회사에서 시작할 때 이 연습을 수행하는 것이 좋습니다. 이 만들기 프로세스를 통해 관리자는 외부 통합에서 [!DNL Marketo Engage]&#x200B;(으)로 전송된 데이터 및 활동의 전체 그림을 보고 API 오류를 쉽게 해결할 수 있습니다.
 2. **외부 통합을 관리하는 주요 이해 당사자에 대해 숙지하십시오.** Kelly Jo Horton이 이해 당사자를 빠르게 식별하는 데 사용하는 팁은 API 사용자 목록을 참조하는 것입니다.
-   1. **&#39;관리&#39; 섹션의 &#39;통합>LaunchPoint&#39; 탭으로 이동합니다.** &#39;LaunchPoint&#39; 탭으로 이동하는 방법에 대해 자세히 알아보세요. [REST API에 사용할 사용자 지정 서비스를 만듭니다](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?lang=ko){target="_blank"}.
+   1. **&#39;관리&#39; 섹션의 &#39;통합>LaunchPoint&#39; 탭으로 이동합니다.** &#39;LaunchPoint&#39; 탭으로 이동하는 방법에 대해 자세히 알아보세요. [REST API에 사용할 사용자 지정 서비스를 만듭니다](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html){target="_blank"}.
    2. API 호출 정보 섹션의 통합>웹 서비스 탭에서 API 사용자별 API 사용 통계를 찾습니다. API 호출 번호를 클릭하면 각 사용자가 수행한 특정 개별 호출을 볼 수 있습니다.
 
 ## 이 시각적 데이터 흐름 다이어그램 연습을 수행하는 방법
