@@ -5,14 +5,47 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13888
 thumbnail: KT-13888.jpeg
 index: true
 exl-id: d8c743eb-28d9-4509-8f96-f369167d423c
-source-git-commit: 98e4cfe72cc7dfe0158f49c910d263d8e4671297
+TQID: https://experienceleague.adobe.com/-JKThAf-WSFUCKjDwYt4eeIDiCjXDd11YI8P-jXoU94
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+  - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+  - id: c954475c-8548-4e33-a0b8-6b550d956115
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+  - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+  - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+  - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+  - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+  - id: ad89fb33-8541-4339-afe7-bb13d1633714
+  - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+  - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+  - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+topic_v2:
+  - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+  - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+  - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+  - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+  - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+  - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
+source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
 workflow-type: tm+mt
-source-wordcount: '6064'
+source-wordcount: 6064
 ht-degree: 2%
 
 ---
@@ -36,10 +69,10 @@ ht-degree: 2%
 
 QA 프로세스를 통해 생각해 보려면 다음 질문에 답하십시오.
 
-* **검토자 및 승인자 역할을 수행할 수 있는 사람은 누구입니까?**
+* **검토자 및 승인자 역할을 담당할 수 있는 사람은 누구입니까?**
 더 작은 조직에 있는 경우 [!DNL Marketo Engage] 관리자는 마케팅 및 마케팅 운영의 하이브리드 역할을 할 수 있습니다. 빌더가 아닌 [!DNL Marketo Engage]이(가) 있는 것이 좋습니다. 고급 사용자가 프로그램을 감사하도록 하십시오. 새로운 눈 한 쌍은 문제를 발견하는 데 도움이 된다.
 
-* **빌더와 검토자가 어떻게 공동 작업하고 메모 및 변경 내용을 문서화합니까?**
+* **빌더와 검토자가 어떻게 공동 작업하고 메모 및 변경 내용을 문서화할 수 있습니까?**
 스프레드시트나 프로젝트 관리 플랫폼 내에 정리된 내용을 유지할 수 있습니다. 아래 체크리스트를 참조하고 템플릿을 조직에 가장 적합한 형식으로 변환하십시오. 팀이 프로그램을 빌드하고 시작할 때마다 템플릿을 복제하면 됩니다.
 
 ### 2단계: 사전 실행 프로그램 진행
@@ -92,7 +125,7 @@ QA 프로세스를 통해 생각해 보려면 다음 질문에 답하십시오.
 | 2 | **테스트** | 여러 장치에서 테스트되었습니까? 브라우저? 렌더링이 깔끔하고 기능도 괜찮은가요? | **예:** <br>예로 대답할 수 없는 경우 여러 장치와 브라우저에서 테스트해야 합니다. |  |
 | 3 | **데이터** | 캠페인에 양식이 있다면 양식을 테스트했습니까? 모든 트리거가 예상대로 진행됩니까? 모든 양식 필드가 정확하게 매핑됩니까? 필드뿐 아니라 개인 사용자의 활동 기록을 확인함으로써 이를 증명할 수 있습니까? | **예:** <br>예로 대답할 수 없는 경우 테스트해야 합니다. | [양식 필드를 숨김으로 설정](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.html?lang=ko){target="_blank"}<br><br> [숨겨진 양식 필드 값 설정](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html?lang=ko){target="_blank"} |
 | 4 | **추적** | 캠페인에 양식이 있는 경우 제출 소스를 추적하기 위해 숨겨진 UTM 필드가 있습니까? 테스트를 거쳤습니까? | **예 또는 아니요:** 아니요로 답한 경우 이 양식으로 사용자를 안내하는 소스를 추적하는 기능이 제한되어 있음을 이해하십시오. | [레퍼러 매개 변수](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html?lang=ko#referrer-parameter){target="_blank"} |
-| 5 | **GDPR/CASL 준수** | <li>양식을 통해 데이터를 캡처하는 경우 옵트인이 기업 정책을 준수합니까? <li>제대로 작동하는 개인정보 처리방침 링크가 포함된 명세서 을 제공합니까? | **예:** <br>관련 준수 환경 이해: 예로 이 질문에 답변할 수 없는 경우 개인정보 처리방침 섹션을 업데이트하여 준수 여부를 확인해야 합니다. **모르는 경우 법률팀에 적절한 조언을 구하십시오.** | [개인 정보 관리](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=ko){target="_blank"} |
+| 5 | **GDPR/CASL 준수** | <li>양식을 통해 데이터를 캡처하는 경우 옵트인이 기업 정책을 준수합니까? <li>제대로 작동하는 개인정보 처리방침 링크가 포함된 명세서 을 제공합니까? | **예:** <br>관련 준수 환경 이해: 예로 이 질문에 답변할 수 없는 경우 개인정보 처리방침 섹션을 업데이트하여 준수 여부를 확인해야 합니다. **잘 모를 경우 법률팀에 적절한 조언을 구하세요.** | [개인 정보 관리](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=ko){target="_blank"} |
 | 6 | **Google Analytics 통합** | 웹 Personalization이 Google Analytics과 통합되었습니까? | **예 또는 아니요:**<br>&#x200B;아니요로 응답한 경우 제한된 웹 개인화 영향을 추적할 수 있음을 이해합니다. | [Google에서 개인화된 리마케팅](https://experienceleague.adobe.com/docs/marketo/using/product-docs/web-personalization/website-retargeting/personalized-remarketing-in-google.html?lang=ko){target="_blank"} |
 | 7 | **웹 세그먼트** | <li>선택한 세그먼트가 적절하며, 올바른 도메인에 적용됩니까? <li>세그먼트가 Google Analytics으로 전송됩니까? | **예:** <br> 예로 대답할 수 없는 경우 업데이트해야 합니다. | [웹 세그먼트](https://experienceleague.adobe.com/docs/marketo/using/product-docs/web-personalization/using-web-segments/web-segments.html?lang=ko){target="_blank"}<br><br>[특정 세그먼트를 사용하는 웹 캠페인 찾기](https://experienceleague.adobe.com/docs/marketo/using/product-docs/web-personalization/using-web-segments/find-web-campaigns-that-are-using-a-specific-segment.html?lang=ko){target="_blank"} |
 
@@ -121,7 +154,7 @@ QA 프로세스를 통해 생각해 보려면 다음 질문에 답하십시오.
 | 2 | **디자인** | 양식 브랜드 디자인은 일관적입니까? | **예:** <br>예로 대답할 수 없는 경우 이에 대한 합당한 이유가 필요하거나 CSS를 업데이트하여 브랜드에서 만들어야 합니다. |  |
 | 3 | **데이터 흐름** | 모든 데이터가 의도한 대로 필드에 매핑됩니까? 이를 입증하기 위해 테스트 기록의 활동 로그를 확인했습니까? | **예:** <br>예로 대답할 수 없는 경우 매핑을 수정하고 테스트해야 합니다. | [사용자에 대한 활동 로그를 찾습니다](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=ko){target="_blank"} |
 | 4 | **추적** | 이 양식에 대한 제출 소스를 추적할 숨겨진 UTM 필드가 있습니까? 테스트를 거쳤습니까? | **예 또는 아니요:** <br>아니요로 응답한 경우 이 양식으로 사용자를 유도하는 소스를 추적하는 기능이 제한되어 있음을 이해하십시오. | [양식 필드를 숨김으로 설정](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-form-field-as-hidden.html?lang=ko){target="_blank"}<br><br>[숨겨진 양식 필드 값 설정](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/forms/form-fields/set-a-hidden-form-field-value.html?lang=ko){target="_blank"} |
-| 5 | **GDPR/CASL 준수** | 양식을 통해 데이터를 캡처하는 경우 은 옵트인을 준수합니까? 그리고 작동하는 개인정보 처리방침 링크가 포함된 컬렉션 문을 제공합니까? | **예:** <br>관련 규정 준수 환경 이해: 이 질문에 예로 대답할 수 없는 경우 이 질문을 준수하도록 업데이트해야 합니다. **모를 경우 적절한 조언을 구하십시오.** | [개인 정보 관리](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=ko){target="_blank"} |
+| 5 | **GDPR/CASL 준수** | 양식을 통해 데이터를 캡처하는 경우 은 옵트인을 준수합니까? 그리고 작동하는 개인정보 처리방침 링크가 포함된 컬렉션 문을 제공합니까? | **예:** <br>관련 규정 준수 환경 이해: 이 질문에 예로 대답할 수 없는 경우 이 질문을 준수하도록 업데이트해야 합니다. **잘 모를 경우 적절한 조언을 구하십시오.** | [개인 정보 관리](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=ko){target="_blank"} |
 
 >[!TAB 스마트 캠페인]
 
@@ -168,7 +201,7 @@ QA 프로세스를 통해 생각해 보려면 다음 질문에 답하십시오.
 | 2 | **보낸 사람 이름** | 브랜드 소유자와 확인해보셨고, 명칭은 안전하게 사용 가능한지 확인해보셨나요? | **예:** <br>예로 대답할 수 없는 경우 계속하기 전에 확인해야 합니다. | [전자 메일 머리글 편집](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.html?lang=ko){target="_blank"}<br><br>[전자 메일 및 레이블에서 기본값 변경](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.html?lang=ko){target="_blank"} |
 | 3 | **회신 주소** | 브랜드 소유자와 확인해보셨고, 안전한 사용인지 확인하셨나요? | **예:** <br> 예로 대답할 수 없는 경우 계속하기 전에 확인해야 합니다. | [전자 메일 머리글 편집](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.html?lang=ko){target="_blank"} |
 | 4 | **사전 머리글 설정** | 모범 사례에 따라 사전 헤더를 설정했습니까(예: min). 80자, 전체 문장, 앞에 중요한 비트)? | **예:** <br><br>예로 대답할 수 없는 경우 계속하기 전에 업데이트해야 합니다. | [전자 메일 설정](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/email-editor-2/email-editor-v2-0-overview.html?lang=ko){target="_blank"} |
-| 5 | **증명 복사** | 맞춤법이나 문법 문제가 있습니까? <br>당신 브랜드에 맞는 톤인가요? | **예:** <br>예로 대답할 수 없는 경우 계속 진행하기 전에 수정해야 합니다. |  |
+| 5 | **증명 복사** | 맞춤법이나 문법 문제가 있습니까? <br>브랜드에 적합한 톤입니까? | **예:** <br>예로 대답할 수 없는 경우 계속 진행하기 전에 수정해야 합니다. |  |
 | 6 | **훑어보기** | 이 이메일의 주요 정보를 스캔할 때 이해할 수 있습니까? | **예 또는 적용할 수 없음:** <br>전자 메일 모범 사례에 따르면 검사 시 전자 메일의 주요 메시지를 이해하는 것이 중요합니다. 이 방법을 적용하지 않도록 선택하는 경우 이메일의 성능에 영향을 줄 수 있습니다. |  |
 | 7 | **구독 취소** | 이메일에는 테스트한 기능 구독 취소 링크가 있습니까? | **예 또는 적용할 수 없음:**<br>&#x200B;적용 불가능은 전자 메일이 [작동](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/make-an-email-operational.html?lang=ko){target="_blank"}인 경우에만 유효합니다. 구독 취소가 필요하지 않습니다. 확실하지 않은 경우 포함이 더 안전합니다. | [구독 취소 이해](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=ko){target="_blank"} |
 | 8 | **텍스트 버전** | <li>이메일의 텍스트 버전을 만들었습니까? <li>본문의 버전을 테스트해 봤니? | **예:**<br> 예로 대답할 수 없는 경우 계속하기 전에 테스트해야 합니다. |  |
@@ -185,7 +218,7 @@ QA 프로세스를 통해 생각해 보려면 다음 질문에 답하십시오.
 | 19 | **A/B 및 Champ/Challenger 테스트** | 이메일에서 챔피언/챌린저 테스트를 실행하고 있습니까? | **예 또는 아니요:**<br>&#x200B;테스트를 수행하지 않는 경우 대상자에 대해 자세히 알아볼 수 있는 기회를 놓치고 있는지 생각해 보십시오. | [A/B 테스트 만들기](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=ko)<br><br>[이메일 챔피언/도전자 추가](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.html?lang=ko){target="_blank"} |
 | 20 | **클라이언트 테스트** | 클라이언트 테스트 소프트웨어를 통해 이메일을 실행했습니까?<li>주요 이메일 클라이언트에서 디스플레이 문제를 확인했습니까? <li>긴급하지 않은 템플릿 수정 사항을 수정하거나 기록했습니까? <li>로드 속도 문제를 식별하고 개선하려고 시도했습니까?<li>제목란/미리 보기 라인 문제를 식별했습니까? 해결되었습니까? | **예 또는 적용할 수 없음:**<br> 예(테스트 소프트웨어가 없는 경우)로 대답할 수 없는 경우 보내기 전에 이 작업을 수행해야 합니다. | 클라이언트 테스트 소프트웨어의 예로는 Litmus 또는 Email on Acid 또는 [Marketo 이메일 전달성 파워 팩](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.html?lang=ko)<br><br>[받은 편지함 추적기 자습서](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=ko){target="_blank"}가 있습니다. |
 | 21 | **스팸 테스트** | 이메일을 스팸 처리로 실행했습니까?<li>인식을 위해 차단 목록에 추가 플래그가 있습니까?<li>받은 편지함 배치/이메일 클라이언트 플래그를 식별했습니까? <li>잠재적 원인을 찾고 해결하려고 시도한 적이 있습니까? | **예 또는 적용할 수 없음:**<br>&#x200B;테스트 소프트웨어가 없는 경우 예(yes)로 대답할 수 없는 경우 보내기 전에 이 작업을 수행해야 합니다. | 계약에 포함된 경우 이에 대해 [Marketo의 받은 편지함 추적기 기능](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=ko){target="_blank"}을 사용하거나 Litmus 또는 Email on Acid와 같은 도구를 사용하십시오. |
-| 22 | **추가 분석** | 이메일에는 추가 분석 코드가 포함되어 있습니까? | **예 또는 적용할 수 없음:**<br>       예(추가 분석 소프트웨어가 없는 경우)로 대답할 수 없는 경우 보내기 전에 이 작업을 수행해야 합니다. |  |
+| 22 | **추가 분석** | 이메일에는 추가 분석 코드가 포함되어 있습니까? | **예 또는 적용할 수 없음:**<br> 예(추가 분석 소프트웨어가 없는 경우)로 대답할 수 없는 경우 보내기 전에 이 작업을 수행해야 합니다. |  |
 
 >[!TAB 최종 확인]
 
