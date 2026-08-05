@@ -19,4 +19,4 @@ ht-degree: 0%
 
 시나리오와 중복 병합을 일괄 처리하는 이유에 대해 자세히 알아보십시오. 효율적인 데이터 정리 및 통합을 위해 중복 레코드를 Excel로 내보내고 벌크 병합을 시작합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429473/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439232/?captions=kor&learn=on&enablevpops)

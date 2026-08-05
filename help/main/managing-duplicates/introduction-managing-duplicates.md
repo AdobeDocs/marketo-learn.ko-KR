@@ -19,4 +19,4 @@ ht-degree: 0%
 
 Marketo Engage 데이터베이스에서 중복 레코드를 관리하는 핵심 개념과 이 개념이 워크플로우에 미치는 영향 및 깔끔한 데이터를 유지 관리하는 4가지 방법에 대해 자세히 알아봅니다. 각 비디오 클립을 시청하여 데이터베이스를 깔끔하고 건강하게 유지하는 방법에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441776/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441958/?captions=kor&learn=on&enablevpops)
