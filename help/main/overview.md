@@ -1,15 +1,13 @@
 ---
 title: Marketo Engage 튜토리얼
-description: ' [!DNL Marketo Engage]에 대한 비디오 튜토리얼을 시청하십시오. 마케팅 자동화 기능 등을 사용하는 방법에 대한 이해도를 높이십시오.'
+description: '[!DNL Marketo Engage]에서 비디오 튜토리얼을 시청하십시오. 마케팅 자동화 기능 등을 사용하는 방법에 대한 이해도를 높이십시오.'
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: ecf4ce8d2f81b04c2eb95ef0d580b0987d71f893
+source-git-commit: 84f64797a27c9afe3035478a5d88c3c4dd6ddc9b
 workflow-type: tm+mt
-source-wordcount: '216'
-ht-degree: 71%
-
+source-wordcount: '217'
+ht-degree: 69%
 ---
-
 # [!DNL Marketo Engage] 튜토리얼
 
 튜토리얼 라이브러리를 탐색하여 [!DNL Marketo Engage]를 최대한 활용하십시오. 이러한 튜토리얼은 마케팅 자동화 기능에 대한 이해도를 높이는 데 도움이 되도록 [[!DNL Marketo] 제품 설명서](https://experienceleague.adobe.com/ko/docs/marketo/using/home){target="_blank"}를 보완할 수 있습니다.
@@ -25,11 +23,11 @@ ht-degree: 71%
 
 ## 새로운 기능 {#whats-new}
 
+* Adobe Experience Cloud의 [Marketo Engage](/help/main/fundamentals/marketo-engage-aec.md)
+  _Adobe Experience Cloud에서 Marketo Engage에 액세스하고 인터페이스를 둘러보는 방법을 알아봅니다._
+
 * [템플릿 가져오기](/help/main/shorts/template-import.md)
   _기존 전자 메일 템플릿을 클래식 편집기에서 전자 메일 Designer으로 가져와서 디자인을 유지하고 템플릿 만들기를 가속화하는 방법에 대해 알아봅니다._
-
-* 이메일 Designer용 [AI 도우미](/help/main/shorts/ai-assistant-email-designer.md)
-  _Marketo Engage 이메일 Designer에서 AI 도우미를 사용하여 현대적이고 성능이 뛰어나며 직관적인 이메일을 만들 수 있습니다._
 
 * [조건부 콘텐츠](/help/main/shorts/conditional-content.md)
   _대상자에게 표시되는 콘텐츠를 동적으로 제어하는 방법에 대해 알아봅니다._
