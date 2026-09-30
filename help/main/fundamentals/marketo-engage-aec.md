@@ -16,4 +16,4 @@ ht-degree: 0%
 
 Adobe Experience Cloud에서 Marketo Engage에 액세스하고 인터페이스를 둘러보는 방법을 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429413t1/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443690/?captions=kor&learn=on&enablevpops)
