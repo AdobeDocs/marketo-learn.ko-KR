@@ -3,10 +3,10 @@ title: Marketo Engage 튜토리얼
 description: '[!DNL Marketo Engage]에서 비디오 튜토리얼을 시청하십시오. 마케팅 자동화 기능 등을 사용하는 방법에 대한 이해도를 높이십시오.'
 doc-type: overview-page
 exl-id: 1b2d6334-377a-4f59-923a-ecbe0dc0ba0c
-source-git-commit: 84f64797a27c9afe3035478a5d88c3c4dd6ddc9b
+source-git-commit: d448a04a177ddb861cc29e55914e0045437a734f
 workflow-type: tm+mt
-source-wordcount: '217'
-ht-degree: 69%
+source-wordcount: '218'
+ht-degree: 68%
 ---
 # [!DNL Marketo Engage] 튜토리얼
 
@@ -23,14 +23,14 @@ ht-degree: 69%
 
 ## 새로운 기능 {#whats-new}
 
+* [전자 메일 Designer 개요](/help/main/email-marketing/email-designer-overview.md)
+  _Marketo Engage 이메일 Designer에서 사용할 수 있는 다양한 기능에 대해 알아봅니다._
+
 * Adobe Experience Cloud의 [Marketo Engage](/help/main/fundamentals/marketo-engage-aec.md)
   _Adobe Experience Cloud에서 Marketo Engage에 액세스하고 인터페이스를 둘러보는 방법을 알아봅니다._
 
 * [템플릿 가져오기](/help/main/shorts/template-import.md)
   _기존 전자 메일 템플릿을 클래식 편집기에서 전자 메일 Designer으로 가져와서 디자인을 유지하고 템플릿 만들기를 가속화하는 방법에 대해 알아봅니다._
-
-* [조건부 콘텐츠](/help/main/shorts/conditional-content.md)
-  _대상자에게 표시되는 콘텐츠를 동적으로 제어하는 방법에 대해 알아봅니다._
 
 ## 가장 인기 있는 비디오 {#most-popular-videos}
 
