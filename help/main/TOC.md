@@ -3,9 +3,9 @@ user-guide-title: Marketo Engage 튜토리얼
 user-guide-description: Adobe Marketo Engage에 대한 비디오 및 튜토리얼 모음입니다.
 breadcrumb-title: Marketo Engage 튜토리얼
 auto-video-transcripts: true
-source-git-commit: 84f64797a27c9afe3035478a5d88c3c4dd6ddc9b
+source-git-commit: d448a04a177ddb861cc29e55914e0045437a734f
 workflow-type: tm+mt
-source-wordcount: '551'
+source-wordcount: '554'
 ht-degree: 83%
 ---
 
@@ -50,6 +50,7 @@ ht-degree: 83%
     + [참여 맵 중첩 캠페인](/help/main/engagement-maps/engagement-map-nested-campaign.md)
     + [참여 맵 오류 감지 및 해결](/help/main/engagement-maps/engagement-map-error-detection-and-resolution.md)
 + 이메일 마케팅 {#email-marketing}
+  + [이메일 디자이너 개요](/help/main/email-marketing/email-designer-overview.md)
   + [예약 이메일](/help/main/email-marketing/scheduled-email-learn.md)
   + [예약 이메일 둘러보기](/help/main/email-marketing/scheduled-email-watch.md)
   + [개인화된 뉴스레터](/help/main/email-marketing/personalized-newsletter-learn.md)
