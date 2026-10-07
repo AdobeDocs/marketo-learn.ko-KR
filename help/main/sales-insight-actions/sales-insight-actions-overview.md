@@ -30,5 +30,5 @@ Sales Insight Actions 을 사용하여 마케팅 기반의 인텔리전스 및 �
 
 ## 관련 비디오
 
-* [ [!DNL Salesforce](으)로 영업 활동 로깅 구성](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
-* [ [!DNL Sales Insight Actions] 인스턴스에 액세스](/help/main/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
+* [&#x200B; [!DNL Salesforce] (으)로 영업 활동 로깅 구성](/help/main/sales-insight-actions/configure-sales-activity-logging-to-salesforce.md){target="_blank"}
+* [&#x200B; [!DNL Sales Insight Actions] 인스턴스에 액세스](/help/main/sales-insight-actions/accessing-your-sales-insight-actions-instance.md){target="_blank"}
