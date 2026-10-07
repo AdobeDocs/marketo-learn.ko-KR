@@ -39,11 +39,11 @@ Postman 애플리케이션을 설정하는 방법과 변수를 활용하여 데�
 >
 >이 비디오를 시작하기 전에 AOI 역할이 있는 API 전용 사용자 이름을 만들고 Launchpad 서비스를 만듭니다. 아래 문서의 단계를 따릅니다.
 >
->* [API 전용 사용자 역할 만들기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
+>* [API 전용 사용자 역할 만들기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
 >
->* [API 전용 사용자 만들기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
+>* [API 전용 사용자 만들기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
 >
->* [REST API에 사용할 사용자 지정 서비스 만들기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
+>* [REST API에 사용할 사용자 지정 서비스 만들기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
 
 **이 비디오에 사용된 참조:**
 
