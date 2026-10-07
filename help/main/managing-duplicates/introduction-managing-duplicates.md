@@ -5,18 +5,27 @@ role: Admin
 level: Intermediate, Experienced
 doc-type: Feature Video
 duration: 0
-last-substantial-update: 2025-01-10T00:00:00Z
+last-substantial-update: 2025-01-10T00:00:00.000Z
 jira: KT-16738
 exl-id: a656660e-a0f5-416c-a0d7-dc10c6485159
-source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
 source-wordcount: '94'
 ht-degree: 0%
-
 ---
-
 # Marketo Engage에서 중복 관리 소개
 
 Marketo Engage 데이터베이스에서 중복 레코드를 관리하는 핵심 개념과 이 개념이 워크플로우에 미치는 영향 및 깔끔한 데이터를 유지 관리하는 4가지 방법에 대해 자세히 알아봅니다. 각 비디오 클립을 시청하여 데이터베이스를 깔끔하고 건강하게 유지하는 방법에 대해 알아보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3441958/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3441776/?learn=on&enablevpops)

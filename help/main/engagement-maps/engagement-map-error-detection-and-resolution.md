@@ -5,20 +5,30 @@ feature: Smart Campaigns
 role: User
 level: Beginner
 doc-type: Feature Video
-hidefromtoc: false
-last-substantial-update: 2023-07-31T00:00:00Z
+hidefromtoc: 'no'
+last-substantial-update: 2023-07-31T00:00:00.000Z
 jira: KT-13742
 thumbnail: 3422246.jpeg
 exl-id: e90390bc-a2b3-49ef-9251-0169b4304b3f
-source-git-commit: 62ea57d025da4f21bc289ce2d454b51e9e2ff415
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
 source-wordcount: '36'
 ht-degree: 33%
-
 ---
-
 # 참여 맵 오류 감지 및 해결
 
 Engagement Map이 캠페인 문제의 신속한 해결 및 해결에 어떻게 도움이 되는지 알아보십시오
 
->[!VIDEO](https://video.tv.adobe.com/v/3423290/?captions=kor&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3422246/?learn=on){transcript=true}

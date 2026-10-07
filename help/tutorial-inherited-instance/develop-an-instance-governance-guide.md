@@ -10,30 +10,41 @@ jira: KT-14103
 thumbnail: KT-14103.jpeg
 index: true
 exl-id: 4313b54a-1848-4684-b037-7a7795dd01ec
-TQID: https://experienceleague.adobe.com/t1TtyyanSwdY8cE3hEkLLOqIW2GpEvFUS1I4LGpUnKM
+TQID: 'https://experienceleague.adobe.com/t1TtyyanSwdY8cE3hEkLLOqIW2GpEvFUS1I4LGpUnKM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: ebde5b41-29c9-4f5e-9ef6-1197e85409e3
+    internal-label: Data management
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
+    internal-label: Administration
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
-source-wordcount: 959
+source-wordcount: '959'
 ht-degree: 1%
-
 ---
-
 # 설명서를 사용하여 인스턴스 거버넌스 안내서 개발
 
 기존 [!DNL Marketo Engage] 인스턴스를 시작할 때 최신 기능 및 기술 설명서가 부족하다는 문제가 종종 발생합니다. 관리자로서 적절한 인스턴스 거버넌스를 보장하기 위한 지침을 수립하는 것은 간과할 수 없는 핵심 책임입니다. 이는 [기존 Marketo Engage 인스턴스에서 작업할 때 효율성을 높이기](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582)하는 중요한 전략 중 하나입니다.
@@ -46,7 +57,7 @@ ht-degree: 1%
 
 1. 확장 가능한 방식으로 내부 사용자를 보다 쉽게 교육합니다.
 2. 장기적으로 [!DNL Marketo Engage]에서 보다 효율적으로 빌드합니다.
-3. 이메일, [감사 추적](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=ko) 및 [활동 로그](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=ko)를 검색하는 데 걸리는 시간을 줄이기 위해 인스턴스의 상태 및 위생 상태를 유지하세요.
+3. 이메일, [감사 추적](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html) 및 [활동 로그](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html)를 검색하는 데 걸리는 시간을 줄이기 위해 인스턴스의 상태 및 위생 상태를 유지하세요.
 4. 팀에 이직이 있는 경우 새 [!DNL Marketo Engage] 관리자에게 [!DNL Marketo Engage] 지식을 전송하는 데 시간을 절약하십시오.
 
 ## [!DNL Marketo Engage] 거버넌스 안내서 101
@@ -71,22 +82,22 @@ ht-degree: 1%
 형식은 클라우드 기반 플랫폼부터 공유 문서까지 다양합니다. 조직의 요구 사항에 맞는 형식을 디자인할 수 있습니다. [시작할 수 있는 중요한 요소를 다루는 간단한 설명서 및 변경 로그 Excel 서식 파일입니다](/help/tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx). 여기에는 다음이 포함됩니다.
 
 * 설명서
-   * 프로그램 템플릿 이름
-   * 채널
-   * 만든 날짜
-   * 제작자
-   * 프로그램 목적
-   * 상태
-   * 프로그램 템플릿 링크
-   * 메모
+  * 프로그램 템플릿 이름
+  * 채널
+  * 만든 날짜
+  * 제작자
+  * 프로그램 목적
+  * 상태
+  * 프로그램 템플릿 링크
+  * 메모
 * 변경 로그
-   * 프로그램 템플릿 이름
-   * 변경 날짜
-   * 업데이트한 사용자
-   * 업데이트 목적
-   * 변경 전 경험(링크/스크린샷 포함)
-   * 변경 후 경험(링크/스크린샷 포함)
-   * 프로그램 URL
+  * 프로그램 템플릿 이름
+  * 변경 날짜
+  * 업데이트한 사용자
+  * 업데이트 목적
+  * 변경 전 경험(링크/스크린샷 포함)
+  * 변경 후 경험(링크/스크린샷 포함)
+  * 프로그램 URL
 
 ### 3단계: 주요 운영 프로그램의 현재 상태 파악 및 문서화
 

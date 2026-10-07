@@ -1,21 +1,31 @@
 ---
 title: 웹 개인화를 통해 방문자를 유도하는 방법
-description: 여러 디지털 광고 LaunchPoint 파트너에  [!DNL Marketo] 연결하는 방법을 살펴보십시오.
+description: '[!DNL Marketo]을(를) 여러 디지털 광고 LaunchPoint 파트너에 연결하는 방법을 살펴보십시오.'
 role: User
 level: Intermediate
 jira: KT-10726
 thumbnail: 345404.jpeg
 exl-id: 4bd03272-cd14-43b7-9bbb-ef1cd9c3b0a5
 feature: Web Personalization
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 664d862c-1673-5ed4-a3d6-386ac83225e4
+    internal-label: Web Personalization
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
-source-wordcount: '37'
+source-wordcount: '38'
 ht-degree: 0%
-
 ---
-
 # 웹 개인화를 통해 방문자를 유도하는 방법
 
 [!DNL Marketo]을(를) 여러 디지털 광고 LaunchPoint 파트너에 연결하는 방법을 살펴보십시오.
 
->[!VIDEO](https://video.tv.adobe.com/v/3412266/?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/345404/?quality=12&learn=on){transcript=true}

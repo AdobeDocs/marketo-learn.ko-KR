@@ -5,23 +5,33 @@ short-description: Marketo Engage가 자동차라면 Smart Campaign은 자동차
 role: User
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-05-30T00:00:00Z
+last-substantial-update: 2023-05-30T00:00:00.000Z
 jira: KT-13263
 thumbnail: 3420096.jpeg
 exl-id: fb050abb-5b43-42da-a4ae-83780d4abb1c
 feature: Smart Campaigns
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
 source-wordcount: '171'
 ht-degree: 94%
-
 ---
-
 # 스마트 캠페인 101
 
-스마트 캠페인은 Marketo의 엔진입니다. 이메일 및 프로그램을 발송하기 위해 스마트 캠페인을 사용하는 것 외에도 다양한 사용 사례에 스마트 캠페인을 사용할 수 있습니다. 데이터 표준화 및 자동 경고를 위해 스마트 캠페인을 사용하는 방법에 대해 알아봅니다.
+스마트 캠페인은 Marketo의 엔진입니다. 이메일 및 프로그램을 발송하기 위해 스마트 캠페인을 사용하는 것 외에도 다양한 용도로 스마트 캠페인을 사용할 수 있습니다. 데이터 표준화 및 자동 경고를 위해 스마트 캠페인을 사용하는 방법에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3424493/?captions=kor&quality=12&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3420096/?quality=12&learn=on){transcript=true}
 
 
 ## 추가 리소스

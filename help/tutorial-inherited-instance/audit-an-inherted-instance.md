@@ -1,6 +1,6 @@
 ---
 title: 상속된 Marketo Engage 인스턴스를 감사하는 방법
-description: Marketo Engage 인스턴스를 상속하면 인스턴스의 내용을 이해하고 구성을 업데이트하는 작업 계획을 수립하는 데 시간이 걸릴 수 있습니다. 이 튜토리얼에서는 관리, 마케팅 활동, 디자인 스튜디오 및 데이터베이스를 포함하여 Marketo Engage 내에서 가장 중요한 섹션을 다루며 감사 및 최적화에 대한 팁을 제공합니다.
+description: Marketo Engage 인스턴스를 상속하면 인스턴스의 내용을 이해하고 구성을 업데이트하는 작업 계획을 수립하는 데 시간이 걸릴 수 있습니다. 이 튜토리얼에서는 관리, 마케팅 활동, 디자인 스튜디오 및 데이터베이스를 포함하여 Marketo Engage 내에서 가장 중요한 섹션을 다루고, 그 과정에서 감사 및 최적화에 대한 팁을 제공합니다.
 feature-set: Marketo Engage
 feature: Audit Trail, Administration, Design Studio, Marketing, Database
 role: Admin
@@ -11,48 +11,72 @@ jira: KT-13762
 thumbnail: 3422473.jpeg
 index: true
 exl-id: 55ce292c-a711-4584-aa21-f57a624d7594
-TQID: https://experienceleague.adobe.com/Ew-r8j5sr6qhw-NsrXJSVB1EgYL4CJzSubi9Rm9wxQs
+TQID: 'https://experienceleague.adobe.com/Ew-r8j5sr6qhw-NsrXJSVB1EgYL4CJzSubi9Rm9wxQs'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c5f60233-d5ea-4453-a799-0ad258b4d399
+    internal-label: Database
   - id: c954475c-8548-4e33-a0b8-6b550d956115
+    internal-label: Marketing automation
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e2290edd-b061-4880-9d79-dee306cf5aa9
+    internal-label: Implementation
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
+  - id: ced46716-1611-5972-ad23-93d0944e2543
+    internal-label: Marketing
 subfeature_v2:
   - id: cfb57412-021b-4a60-afde-b402d442e24f
+    internal-label: Marketing activities
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
   - id: ea6641cb-8461-4151-a8a9-9faaa44a928a
+    internal-label: Global Assets
   - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
   - id: f7d2c504-7d5f-4a94-b77e-7fce7ef46c22
+    internal-label: Audit trail
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
 topic_v2:
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: b5ce8718-c3af-4fdb-a1a9-fca32f83a87c
+    internal-label: Implementation
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
+    internal-label: Customer experience
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
+    internal-label: Administration
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
-source-wordcount: 169
+source-wordcount: '169'
 ht-degree: 17%
-
 ---
-
 # 상속된 Marketo Engage 인스턴스를 감사하는 방법
 
 Marketo Engage 인스턴스를 상속하면 숙련된 관리자이든, 최신 관리자이든, 정리를 시작할 위치를 아는 것이 어려울 수 있으므로 스트레스를 받을 수 있습니다. 시작하려면 오늘 방금 상속한 인스턴스의 내용을 이해하고 구성을 업데이트하는 작업 계획을 수립하는 데 시간을 투자하는 것이 좋습니다.
 
 이 자습서에서는 관리, 마케팅 활동, Design Studio 및 데이터베이스를 포함하여 Marketo Engage 내에서 가장 중요한 섹션을 안내하고 그 과정에서 감사 및 최적화를 위한 팁을 제공합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3453029/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)

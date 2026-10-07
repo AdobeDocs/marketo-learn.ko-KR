@@ -8,13 +8,23 @@ feature: Events
 role: User
 level: Beginner
 exl-id: 927099a4-009b-45d6-9a32-ba685751ba04
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: c5620c2c-7950-5a31-936a-f3b3287f198b
+    internal-label: Events
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 29%
-
 ---
-
 # 효과적인 대화형 웨비나 디자인하기 {#design-an-effective-interactive-webinar}
 
 효과적인 대화형 웨비나를 디자인하는 것은 웨비나 이벤트 전달이 즐겁고 기억에 남도록 하는 첫 번째 단계입니다. 마케터로서 귀하는 웨비나를 게재하기 위해 제품 전시, 관심 창출을 위한 개념 또는 기술 전도, 리드 참여를 위한 워크숍 게재 등과 같은 다양한 목표를 가지고 있습니다. 목표에 도달하기 위한 올바른 참여와 참여를 보장하기 위해 다양한 대상 세그먼트의 요구 사항에 적합한 최적의 방식으로 웨비나를 제공할 수 있도록 다양한 목표를 위해 다양한 전략을 필요로 합니다.

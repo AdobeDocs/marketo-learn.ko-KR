@@ -7,22 +7,43 @@ topic: Integrations
 role: Admin
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-10-17T00:00:00Z
+last-substantial-update: 2023-10-17T00:00:00.000Z
 jira: KT-14113
 thumbnail: 3424719.jpeg
 exl-id: 2a88c233-ef13-47da-ae2a-5f0ace7a07e5
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
+  - id: ced46716-1611-5972-ad23-93d0944e2543
+    internal-label: Marketing
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+  - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
+subfeature_v2:
+  - id: edcca97f-2314-445f-9a79-3ac30a2a9c27
+    internal-label: Salesforce integration
+  - id: f5e85a9b-a883-40d0-8759-f3651efb32e9
+    internal-label: Field management
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
 source-wordcount: '356'
 ht-degree: 85%
-
 ---
-
 # Salesforce 동기화 시작하기
 
 Marketo Engage와 Salesforce가 협력하여 판매 및 마케팅 데이터를 동기화하는 방법에 대해 알아봅니다. 이 튜토리얼에서는 동기화 작동 방식과 올바른 데이터 흐름을 위한 동기화 설정 방법, 제대로 작동하는지 확인하기 위한 필수 사항을 안내합니다. Salesforce 동기화 관리를 위한 추가 팁 및 요령을 통해 동기화할 필드를 선택하고 더 이상 필요하지 않은 필드를 숨기는 방법을 공유합니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3426908/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3424719/?learn=on)
 
 ## 비디오에 사용된 링크
 

@@ -6,16 +6,31 @@ role: Admin, Developer
 level: Experienced
 doc-type: Technical Video
 duration: 772
-last-substantial-update: 2024-08-06T00:00:00Z
+last-substantial-update: 2024-08-06T00:00:00.000Z
 jira: KT-15548
 exl-id: 4da86ed6-1072-4e0e-a648-16587badaeb3
-source-git-commit: 9bffa576fc5a05c695f7a1c83d50cbcb16f57c37
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: dca84292-69e9-4116-a575-667d31fa060d
+    internal-label: APIs
+subfeature_v2:
+  - id: cf1396d8-ab85-4e93-b35d-d9b573024abf
+    internal-label: REST APIs
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
 source-wordcount: '219'
 ht-degree: 27%
-
 ---
-
 # API 도움말 - 변수에 액세스 토큰을 설정하는 방법
 
 Postman 애플리케이션을 설정하는 방법과 변수를 활용하여 데이터를 재사용하기 위해 변수에 저장하는 방법에 대해 알아봅니다. 또한 액세스 토큰을 가져오기 위해 첫 번째 Marketo Engage REST API를 호출하는 방법을 알아봅니다.
@@ -24,11 +39,11 @@ Postman 애플리케이션을 설정하는 방법과 변수를 활용하여 데�
 >
 >이 비디오를 시작하기 전에 AOI 역할이 있는 API 전용 사용자 이름을 만들고 Launchpad 서비스를 만듭니다. 아래 문서의 단계를 따릅니다.
 >
->* [API 전용 사용자 역할 만들기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
+>* [API 전용 사용자 역할 만들기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user-role){target="_blank"}
 >
->* [API 전용 사용자 만들기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
+>* [API 전용 사용자 만들기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/users-and-roles/create-an-api-only-user){target="_blank"}
 >
->* [REST API에 사용할 사용자 지정 서비스 만들기](https://experienceleague.adobe.com/ko/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
+>* [REST API에 사용할 사용자 지정 서비스 만들기](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api){target="_blank"}
 
 **이 비디오에 사용된 참조:**
 
@@ -43,4 +58,4 @@ pm.environment.set("access_token", jsonData.access_token);
 
 * [Marketo Engage 개발자 설명서](https://experienceleague.adobe.com/ko/docs/marketo-developer/marketo/rest/authentication){target="_blank"}
 
->[!VIDEO](https://video.tv.adobe.com/v/3453990/?captions=kor&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429275/?learn=on)

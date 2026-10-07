@@ -6,18 +6,30 @@ role: User
 level: Beginner, Intermediate
 doc-type: Feature Video
 duration: 253
-last-substantial-update: 2025-08-07T00:00:00Z
+last-substantial-update: 2025-08-07T00:00:00.000Z
 jira: KT-18696
 exl-id: 46aee545-c302-47f1-be02-c0fc9cd9811d
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
 source-wordcount: '58'
 ht-degree: 100%
-
 ---
-
 # 스마트 캠페인 이해
 
 스마트 캠페인은 Marketo Engage의 엔진입니다. 이메일, 프로그램 등을 전송하는 데 사용할 수 있습니다. Marketo의 이러한 필수 도구에 대해 알아봅니다.
 
->[!VIDEO](https://video.tv.adobe.com/v/3470567/?captions=kor&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3470546/?learn=on&enablevpops)
