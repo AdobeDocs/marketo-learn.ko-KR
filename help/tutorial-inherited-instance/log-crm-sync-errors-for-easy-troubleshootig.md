@@ -10,26 +10,33 @@ jira: KT-13875
 thumbnail: KT-13875.jpeg
 index: true
 exl-id: 3b7e6127-28fd-4dce-915d-5af9bcce984b
-TQID: https://experienceleague.adobe.com/JM26ZReC9P8rKS8IqjIV5TKLxT0xInUHysdM7zo0LzM
+TQID: 'https://experienceleague.adobe.com/JM26ZReC9P8rKS8IqjIV5TKLxT0xInUHysdM7zo0LzM'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
+    internal-label: Troubleshooting
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
+    internal-label: Administration
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
-source-wordcount: 460
+source-wordcount: '460'
 ht-degree: 0%
-
 ---
-
 # 간편한 문제 해결을 위한 CRM 동기화 오류 기록
 
 Marketo Engage 관리자는 인스턴스가 CRM과 동기화 상태인지 확인하는 것이 [일별 루틴](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"}의 핵심 부분이어야 합니다. [알림 섹션](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html?lang=ko){target="_blank"}(Marketo Engage 인터페이스 오른쪽 상단 모서리에서 찾기)에서 자주 발생하는 동기화 문제를 찾아 조사할 수 있지만 인스턴스의 상태를 체계적으로 관리하는 데 도움이 되는 Pro 팁이 있습니다. Adobe Marketo 챔피언(2019-2022), Amy Goldfine은 관리자가 보다 쉽게 문제를 해결할 수 있도록 CRM 동기화 오류 로그를 유지할 것을 권장합니다.

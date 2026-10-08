@@ -10,26 +10,33 @@ jira: KT-13877
 thumbnail: KT-13877.jpeg
 index: true
 exl-id: 0964ca8e-6b8f-413f-a0ea-76ffabd49c39
-TQID: https://experienceleague.adobe.com/fE5i06izcS16LHY5dMbVxWcxV-ObDnw8k-7pCnqIR2s
+TQID: 'https://experienceleague.adobe.com/fE5i06izcS16LHY5dMbVxWcxV-ObDnw8k-7pCnqIR2s'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: c7d04a2c-412a-4c9d-9d7a-4456eaa5adeb
+    internal-label: Governance
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
-source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
+    internal-label: Administration
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
-source-wordcount: 605
+source-wordcount: '633'
 ht-degree: 1%
-
 ---
-
 # 마케팅 기술 스택을 이해할 수 있는 시각적 데이터 흐름 다이어그램 만들기
 
 수년 동안 라이브된 [!DNL Marketo Engage] 인스턴스를 인수하는 관리자로서 인스턴스를 효율적으로 감사하고 정리하는 것은 불가능한 임무와 같습니다. Adobe [!DNL Marketo Champion]&#x200B;(2019), Kelly Jo Horton이 오래 지속된 인스턴스에 발을 들였을 때, Jo Horton은 데이터 우주에 익숙해지기 위해 [&quot;리드 및 데이터 소스&quot;의 다이어그램을 생성](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"}함으로써 이 문제를 해결했습니다. 이 자습서에서는 Kelly Jo Horton이 공유하는 예제를 기반으로 빌드하여 고유한 데이터 흐름 다이어그램을 만드는 방법을 알아봅니다. 귀하의 MarTech 생태계에 대해 알아보겠습니다!

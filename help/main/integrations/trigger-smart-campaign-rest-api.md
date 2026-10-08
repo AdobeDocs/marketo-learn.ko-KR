@@ -5,13 +5,28 @@ feature: REST API
 role: Admin, Developer
 level: Experienced
 exl-id: 46e54729-92ab-4bbb-9877-f762708def67
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: dca84292-69e9-4116-a575-667d31fa060d
+    internal-label: APIs
+subfeature_v2:
+  - id: cf1396d8-ab85-4e93-b35d-d9b573024abf
+    internal-label: REST APIs
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+  - id: ff6a42d2-313e-452e-93a6-792e4fad9ff8
+    internal-label: Developer
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
 source-wordcount: '718'
 ht-degree: 3%
-
 ---
-
 # REST API 및 토큰을 사용하여 Marketo Engage에서 스마트 캠페인을 트리거하는 방법
 
 이 튜토리얼에서는 REST API를 사용하여 Marketo Engage에서 스마트 캠페인을 트리거하고 내 토큰을 사용하여 이메일을 개인화하는 방법을 안내합니다. 이 사용 사례는 웨비나 미리 알림, 온보딩 단계 또는 구매 후 후속 조치와 같이 고객이 트리거하는 알림에 이상적입니다.
@@ -22,9 +37,9 @@ ht-degree: 3%
 
 * Marketo Engage에서 미리 알림 이메일 트리거
 * 다음을 통해 개인화:
-   * 사용자의 이름
-   * 웨비나 제목
-   * 고유한 조인 링크
+  * 사용자의 이름
+  * 웨비나 제목
+  * 고유한 조인 링크
 
 이 작업은 REST API 및 내 토큰을 사용하여 수행할 수 있습니다.
 

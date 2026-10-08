@@ -10,46 +10,72 @@ jira: KT-13888
 thumbnail: KT-13888.jpeg
 index: true
 exl-id: d8c743eb-28d9-4509-8f96-f369167d423c
-TQID: https://experienceleague.adobe.com/-JKThAf-WSFUCKjDwYt4eeIDiCjXDd11YI8P-jXoU94
+TQID: 'https://experienceleague.adobe.com/-JKThAf-WSFUCKjDwYt4eeIDiCjXDd11YI8P-jXoU94'
 product_v2:
   - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
 feature_v2:
   - id: a7170d27-32ab-462b-a333-269abc654483
+    internal-label: Smart Campaigns
   - id: b0bb9048-d951-48d8-8232-45cf248a7e27
+    internal-label: Forms
   - id: b13bd2ad-8e65-49e5-9691-2a0d31067b35
+    internal-label: Integrations
   - id: b3b8a63f-51fc-40f6-a7d2-a31c5d49fb45
+    internal-label: Configuration
   - id: c954475c-8548-4e33-a0b8-6b550d956115
+    internal-label: Marketing automation
   - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
   - id: d65b4a73-87a3-4d56-b638-74e74d9939ce
+    internal-label: Design Studio
   - id: e64968b2-4ee5-47f9-8cae-0588f184b9eb
+    internal-label: Programs
   - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
   - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
   - id: f71e690b-4480-4b67-9ef5-88f42f9cdfdb
+    internal-label: Resources
   - id: f82558ea-6af5-44eb-a424-5b3389abb0a3
+    internal-label: Templates
 subfeature_v2:
   - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
   - id: ad89fb33-8541-4339-afe7-bb13d1633714
+    internal-label: Flow Step
   - id: cdd4e0f6-e87e-453f-88ee-2ee54a7de272
+    internal-label: Dynamic content
   - id: d0251300-e25f-466f-9856-7e11ce8fa7aa
+    internal-label: Smart lists
   - id: df8eb12b-4f82-491f-acbb-d74012ca5654
+    internal-label: Snippets
 role_v2:
   - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
 level_v2:
   - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
 topic_v2:
   - id: a004cc84-67b9-4a33-a3a7-8ec7273ef4dc
+    internal-label: Metadata
   - id: aa2f3246-cb95-4b30-8899-fdf7d73550cc
+    internal-label: Reporting
   - id: cdd65e7e-8839-44a2-bc21-0e03623b5dd1
+    internal-label: Optimization
   - id: e0eb8757-182f-49f3-94a4-1587d16f5094
+    internal-label: Personalization
   - id: eddd9b14-83bd-4ff4-9072-54a4a484abb7
+    internal-label: Administration
   - id: f4e6943a-c91a-4134-a2c7-f4f20cfff2f0
-source-git-commit: 0f8ea3988fd586ccbd4b414b3558f6e5f36882bf
+    internal-label: Privacy
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
-source-wordcount: 6064
+source-wordcount: '6073'
 ht-degree: 2%
-
 ---
-
 # 성공을 위한 필수 프로그램 출시 전 품질 보증 프로세스
 
 [!DNL Marketo Engage] 관리자 또는 마케팅 운영 팀의 경우 고객이 직면한 실수를 방지하기 위해 프로그램 구성을 제대로 검토하는 것이 중요합니다. 실수를 제한하는 과정에서 실수를 통해 배울 수 있지만 확장 가능한 프로세스는 아닙니다. 빌더와 고급 사용자/검토자 간에 프로그램 사전 실행 품질 보증(QA) 프로세스를 설계 및 실행하는 방법은 시간을 절약하고, 오류를 방지하며, 내부 사용자를 보다 신속하게 교육하는 데 도움이 됩니다.
@@ -163,7 +189,7 @@ QA 프로세스를 통해 생각해 보려면 다음 질문에 답하십시오.
 | 1 | **정확도** | 필요한 모든 스마트 캠페인이 확인, 검토 및 정확하다고 간주되었습니까? | **예:** <br>예로 대답할 수 없는 경우 계속 진행하기 전에 이 문제를 해결하고 확인해야 합니다. | [스마트 캠페인 검사 목록](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.html?lang=ko){target="_blank"} |
 | 2 | **전송 개수** | 이메일 전송 캠페인이 일괄 캠페인(트리거되지 않음)인 경우 &#39;예약&#39; 탭에서 리드 수를 확인합니다. 예상한 수치에 맞게 수치가 정렬됩니까? 중단 임계값보다 작습니까? | **예:** <br>예로 대답할 수 없는 경우 계속 진행하기 전에 이 문제를 해결하고 확인해야 합니다. | [전자 메일 프로그램 예약](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.html?lang=ko){target="_blank"} |
 | 3 | **기본 규칙** | 적절한 경우 기본 세그먼트/목록이 사용됩니까? 아니면 적절한 위치에 있습니까? | **예 또는 적용할 수 없음:**<br> 기본 목록/세그먼테이션은 참조해야 하는 필드 수를 줄이고 사람의 오류 위험을 줄이도록 설계되었습니다. 기본 목록/세그먼테이션을 사용하지 않는 경우 규칙을 신뢰해야 합니다. |  |
-| 4 | **속성** | 프로그램에서 새 잠재 고객을 가져오는 경우(예: 이벤트 프로그램) 필요에 따라 속성 설정이 포함됩니까? 획득 프로그램이 매핑되고 있습니까? | **예 또는 적용할 수 없음:** <br>프로그램을 통해 사람을 가져오는 경우 또는 프로그램에서 새 사람을 가져오는 경우 획득 프로그램 설정을 사용해야 합니다. |  |
+| 4 | **특성** | 프로그램에서 새 잠재 고객을 가져오는 경우(예: 이벤트 프로그램) 필요에 따라 속성 설정이 포함됩니까? 획득 프로그램이 매핑되고 있습니까? | **예 또는 적용할 수 없음:** <br>프로그램을 통해 사람을 가져오는 경우 또는 프로그램에서 새 사람을 가져오는 경우 획득 프로그램 설정을 사용해야 합니다. |  |
 | 5 | **참여 프로그램** | 참여 프로그램에서 스마트 캠페인을 사용할 때 구성원을 적절하게 추가, 일시 중지 및 재시작하도록 하는 단계가 있습니까? 다른 사용자가 이러한 단계를 검토했습니까? | **예 또는 적용할 수 없음:**<br> 참여 프로그램이며 정당한 이유 없이 예로 대답할 수 없는 경우 이 프로그램이 적용될 때까지 활성화하지 마십시오. | [참여 프로그램에 직원 추가](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/add-people-to-an-engagement-program.html?lang=ko){target="_blank"} |
 | 6 | **구독 환경 설정** | 필요한 구독 환경 설정 요소가 모두 포함되었습니까? | **예 또는 적용할 수 없음:**<br> 확실하지 않은 경우 [!DNL Marketo Engage] 관리자에게 문의하십시오. N/A(예: 작동 전송)를 진행하려면 상당한 이유가 필요합니다. | [구독 센터를 설정하고 관리하는 방법](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/lead-and-data-management/subscription-center-watch.html?lang=ko){target="_blank"} |
 | 7 | **프로그램 상태** | 프로그램 상태를 업데이트하는 흐름 단계가 포함되어 있습니까? | **예:** <br>예로 대답할 수 없는 경우 Smart Campaign 흐름 단계에 추가해야 합니다. | [프로그램 상태 변경](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/program-flow-actions/change-program-status.html?lang=ko){target="_blank"} |

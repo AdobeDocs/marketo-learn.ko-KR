@@ -4,18 +4,28 @@ description: 폴더, 표준 이름 지정 규칙, 복제와 같은 기능을 사
 role: Admin
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-07-11T00:00:00Z
+last-substantial-update: 2023-07-11T00:00:00.000Z
 jira: KT-13608
 thumbnail: 3421577.jpeg
 feature: Getting Started
 exl-id: baded0c2-3bb0-4361-a7f3-a99a65784829
-source-git-commit: 096d4b42008446a72f92b8fe509c0c216bc8f904
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: 7bfc0dc0-0151-5cd6-9a7c-88bf3d0d493c
+    internal-label: Getting Started
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
-source-wordcount: '260'
+source-wordcount: '261'
 ht-degree: 12%
-
 ---
-
 # 새 [!DNL Marketo Engage] 인스턴스를 구성하는 모범 사례
 
 Marketo Engage 작업을 처음 시작하면 조직이 중요합니다. 인스턴스에서 정돈된 상태를 유지하면 사용자와 동료가 캠페인, 프로그램 및 자산을 쉽게 추적할 수 있습니다. 폴더, 표준 명명 규칙, 복제와 같은 기능을 사용하여 [!UICONTROL Marketing Activities]에서 탐색 트리를 구성하여 새 [!DNL Marketo Engage] 인스턴스에서 동료와 쉽게 작업하는 방법에 대해 알아봅니다. 

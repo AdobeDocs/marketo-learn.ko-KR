@@ -4,19 +4,29 @@ description: Marketo Engage에서 기본 제공되는 다양한 보고서를 가
 role: User
 level: Beginner
 doc-type: Feature Video
-last-substantial-update: 2023-05-11T00:00:00Z
+last-substantial-update: 2023-05-11T00:00:00.000Z
 jira: KT-13219
 thumbnail: 3419295.jpeg
 exl-id: bfe0fe57-0e59-483c-9092-14cc28a986d8
 feature: Reporting
 hide: true
-source-git-commit: 64d974552c11da5b7740c85df0515b322ce9cf5f
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+feature_v2:
+  - id: ea90ebee-5c84-42d9-8b21-006bdabc95a3
+    internal-label: Reporting
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 4768ecb20d4d9c70452ae084256928261f3a80eb
 workflow-type: tm+mt
 source-wordcount: '114'
 ht-degree: 7%
-
 ---
-
 # 보고 및 분석
 
 Marketo Engage에서 기본 제공되는 다양한 보고서를 가져오기 위해 Analytics 및 데이터베이스 섹션을 탐색하는 방법에 대해 알아봅니다.
